@@ -82,3 +82,4 @@
 
 ## Schwingungen
 ### Schwingungen
+- Charakteristische Größen 
