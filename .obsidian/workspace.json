@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "afe66bd6ee917e39",
+            "id": "c3a8a47d3d8f4bcd",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Physik/Index.md",
-                "bFile": "Physik/Index.md",
-                "aRef": ""
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Index"
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
