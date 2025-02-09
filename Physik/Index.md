@@ -50,3 +50,7 @@
 - Feldstärke
 	- gerader Leiter
 	- lange Spule
+- magnetische Feldkonstante
+
+### Bewegte Ladungen im magnetischen Feld
+- 
