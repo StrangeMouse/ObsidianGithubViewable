@@ -58,4 +58,8 @@
 	- als Zentripetalkraft
 	- Bestimmung des Verhältnisses aus Ladung und Masse eines Elektrons
 - relativistische Massenzunahme
+- Hall-Effekt
+
+### Induktion
+- Spannung aufgrund zeitlicher Änderung im magnetischen Fluss
 - 
