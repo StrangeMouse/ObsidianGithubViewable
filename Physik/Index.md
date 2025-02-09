@@ -38,4 +38,6 @@
 - Parallelschaltung von Kondensatoren
 
 ### Plattenkondensator
--  
+-  wheat
+- hello
+- 
