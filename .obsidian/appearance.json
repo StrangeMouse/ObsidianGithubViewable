@@ -1,1 +1,6 @@
-{}
+{
+  "enabledCssSnippets": [
+    "fonts"
+  ],
+  "textFontFamily": "MyFontLarge"
+}
