@@ -61,8 +61,22 @@
 - Hall-Effekt
 
 ### Magnetischer Fluss
-- 
+- Definition
 ### Induktion
-- magnetischer Fluss
-- Induktionsspannung aufgrund zeitlicher Änderung im magnetischen Fluss
-- 
+- Induktionsspannung aufgrund zeitlicher Änderung im magnetischen Flusses
+- Induktionsgesetz
+	- lineare Fälle
+	- nichtlineare Fälle (Vergleich Differenzen- und Differenzialquotient)
+- Lentz'sche Regel
+- Energieerhaltung
+- Induktivität einer Spule
+- Selbstinduktion
+
+### Bewegung von Ladungen in Feldern in technischen Anwendungen
+- Braun'sche Röhre
+	- Aufbau und Verwendung
+	- Superpositionsprinzip
+	- Parabel als Bahnkurve
+- Linearbeschleuniger
+	- Hintereinanderschaltung mehrerer Beschleunigungsstrecken
+
