@@ -11,7 +11,7 @@
 - Elektrische Feldstärke
 	- homogen
 	- radialsymmetrisch
-	- Coulombsches Gesetz
+	- Coulomb'sches Gesetz
 
 ### Elektrische Ladung
 - Ladung als Erhaltungsgröße
