@@ -53,6 +53,8 @@
 - magnetische Feldkonstante
 
 ### Bewegte Ladungen im magnetischen Feld
-- Bewegungparallel und senkrecht zum magnetischen Feld
+- Bewegung parallel und senkrecht zum magnetischen Feld
 - Lorentzkraft
+	- als Zentripetalkraft
+	- Bestimmung des Verhältnisses aus Ladung und Masse eines Elektrons
 - 
