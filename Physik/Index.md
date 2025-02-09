@@ -45,4 +45,8 @@
 ### Magnetisches Feld
 - Bewegte Ladungen als Ursache
 - Feldlinienbilder
-	- 
+	- gerader Leiter
+	- lange Spule
+- Feldstärke
+	- gerader Leiter
+	- lange Spule
