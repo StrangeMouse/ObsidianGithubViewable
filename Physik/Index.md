@@ -57,4 +57,5 @@
 - Lorentzkraft
 	- als Zentripetalkraft
 	- Bestimmung des Verhältnisses aus Ladung und Masse eines Elektrons
+- relativistische Massenzunahme
 - 
