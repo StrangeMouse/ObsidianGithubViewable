@@ -53,4 +53,6 @@
 - magnetische Feldkonstante
 
 ### Bewegte Ladungen im magnetischen Feld
+- Bewegungparallel und senkrecht zum magnetischen Feld
+- Lorentzkraft
 - 
