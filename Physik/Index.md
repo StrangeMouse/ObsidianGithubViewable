@@ -21,7 +21,7 @@
 - Potenzial in Elektrischen Feldern
 	- homogen
 	- radialsymmetrisch
-- Äquipotenziallinien
+- Äquipotentziallinien
 
 ### Elektrische Spannung
 - Spannung als Energie pro Ladung
@@ -38,4 +38,4 @@
 - Parallelschaltung von Kondensatoren
 
 ### Plattenkondensator
--  hello
+-  
