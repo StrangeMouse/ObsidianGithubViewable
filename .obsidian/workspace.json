@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "Index"
             }
+          },
+          {
+            "id": "afe66bd6ee917e39",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Physik/Index.md",
+                "bFile": "Physik/Index.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Index"
+            }
           }
         ]
       }
@@ -181,6 +195,7 @@
   },
   "active": "a0dd94967497a233",
   "lastOpenFiles": [
-    "Physik/Index.md"
+    "Physik/Index.md",
+    "conflict-files-obsidian-git.md"
   ]
 }
