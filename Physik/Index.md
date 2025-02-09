@@ -81,4 +81,4 @@
 	- Hintereinanderschaltung mehrerer Beschleunigungsstrecken
 
 ## Schwingungen
-### 
+### Schwingungen
