@@ -80,3 +80,5 @@
 - Linearbeschleuniger
 	- Hintereinanderschaltung mehrerer Beschleunigungsstrecken
 
+## Schwingungen
+### 
