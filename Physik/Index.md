@@ -11,7 +11,7 @@
 - Elektrische Feldstärke
 	- homogen
 	- radialsymmetrisch
-	- Coulomb'sches Gesetz
+	- Coulombsches Gesetz
 
 ### Elektrische Ladung
 - Ladung als Erhaltungsgröße
@@ -21,7 +21,7 @@
 - Potenzial in Elektrischen Feldern
 	- homogen
 	- radialsymmetrisch
-- Äquipotentziallinien
+- Äquipotenziallinien
 
 ### Elektrische Spannung
 - Spannung als Energie pro Ladung
