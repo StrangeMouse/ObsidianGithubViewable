@@ -2,5 +2,7 @@
   "enabledCssSnippets": [
     "fonts"
   ],
-  "textFontFamily": "MyFontLarge"
+  "textFontFamily": "MyFontLarge",
+  "baseFontSizeAction": true,
+  "baseFontSize": 18
 }

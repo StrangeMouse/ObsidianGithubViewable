@@ -36,6 +36,13 @@
 - Feldenergie
 - Definition der Kapazität
 - Parallelschaltung von Kondensatoren
+- Auf- und Entladevorgänge
+	- Differenzialgleichung für Entladung
 
-### Plattenkondensator
+### Bewegte Ladungen im elektrischen Feld
+- Beschleunigung und Abbremsung parallel zur Feldrichtung
 
+### Magnetisches Feld
+- Bewegte Ladungen als Ursache
+- Feldlinienbilder
+	- 
