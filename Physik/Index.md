@@ -60,6 +60,9 @@
 - relativistische Massenzunahme
 - Hall-Effekt
 
+### Magnetischer Fluss
+- 
 ### Induktion
-- Spannung aufgrund zeitlicher Änderung im magnetischen Fluss
+- magnetischer Fluss
+- Induktionsspannung aufgrund zeitlicher Änderung im magnetischen Fluss
 - 
