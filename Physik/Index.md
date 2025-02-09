@@ -38,4 +38,4 @@
 - Parallelschaltung von Kondensatoren
 
 ### Plattenkondensator
--  Hello
+-  
