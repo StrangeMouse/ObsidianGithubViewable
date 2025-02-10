@@ -88,3 +88,4 @@
 	- Schwingungsdauer
 	- Frequenz
 - Energieerhaltung
+- 
