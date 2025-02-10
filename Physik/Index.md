@@ -94,6 +94,9 @@
 	- Federpendel, Fadenpendel
 	- Formel für Schwingungsdauer
 	- Schwingungsgleichung
+- Harmonische Schwingung
+	- lineare Rückstellkraft als Kriterium
+	- Differenzialgleichung
 
 ### Elektromagnetischer Schwingkreis
 - Schwingungsdauer
