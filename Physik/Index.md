@@ -80,7 +80,11 @@
 - Linearbeschleuniger
 	- Hintereinanderschaltung mehrerer Beschleunigungsstrecken
 
-## Schwingungen
+## Schwingungen und Wellen
 ### Schwingungen
 - Charakteristische Größen
-	- 
+	- Elongation
+	- Amplitude
+	- Schwingungsdauer
+	- Frequenz
+- Energieerhaltung
