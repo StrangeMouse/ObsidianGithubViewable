@@ -96,4 +96,4 @@
 	- Schwingungsgleichung
 
 ### Elektromagnetischer Schwingkreis
-- Schwin
+- Schwingung
