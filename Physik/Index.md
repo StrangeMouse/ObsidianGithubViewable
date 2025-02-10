@@ -96,4 +96,11 @@
 	- Schwingungsgleichung
 
 ### Elektromagnetischer Schwingkreis
-- Schwingung
+- Schwingungsdauer
+- Frequenz
+- Amplituden
+- maximale Spannung
+- maximale Stromstärke
+
+### Dämpfung
+- 
