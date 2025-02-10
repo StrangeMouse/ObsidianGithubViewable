@@ -145,4 +145,18 @@
 - Interferenzmuster von zwei Punkterregern
 	- Bedeutung des Gangunterschiedes
 	- Ortsbestimmung der Maxima
-- 
+
+### Huygen'sches Prinzip
+- Veranschaulichung an der Wellenwanne
+
+### Stehende Wellen
+- Zusammenhang Wellenlänge und Ausdehnung des Wellenträgers
+
+### Doppelspalt
+- Monochromatisches Licht
+- Weißes Licht
+- Formel für Orte der Maxima
+
+### Beugungsgitter
+- Monochromatisches Licht
+- Weißes Licht
