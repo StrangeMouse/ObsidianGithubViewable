@@ -147,6 +147,7 @@
 	- Ortsbestimmung der Maxima
 
 ### Kohärenz
+- Definition
 
 ### Beugung
 - Definition
@@ -173,3 +174,4 @@
 - Monochromatisches Licht
 - Weißes Licht
 - Formel für Orte der Maxima
+
