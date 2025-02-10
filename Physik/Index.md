@@ -138,4 +138,5 @@
 - technische Anwendungen
 - biologische Auswirkungen
 
-### 
+### Interferenz
+- 
