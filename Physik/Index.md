@@ -112,4 +112,5 @@
 	- Phasenverschiebung zwischen Kraft und Elongation
 ### Dämpfung
 - Erweiterung der reibungsfreien Idealisierung
+- Dämpfungsverhalten (exponentielle Abnahme der Amplitude)
 - 
