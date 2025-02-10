@@ -94,7 +94,6 @@
 	- Federpendel, Fadenpendel
 	- Formel für Schwingungsdauer
 	- Schwingungsgleichung
-### Harmonische Schwingung
 
 ### Elektromagnetischer Schwingkreis
 - Schwingungsdauer
