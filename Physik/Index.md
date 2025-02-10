@@ -88,4 +88,9 @@
 	- Schwingungsdauer
 	- Frequenz
 - Energieerhaltung
+	- Energieformen im Schwingungsverlauf
+- Zeitlicher Verlauf
+	- Federpendel, Fadenpendel
+	- Formel für Schwingungsdauer
+	- Schwingungsgleichung
 - 
