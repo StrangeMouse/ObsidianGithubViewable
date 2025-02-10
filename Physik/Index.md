@@ -125,8 +125,16 @@
 	- Seilwellen
 	- Wasserwellen
 	- Schallwellen
-	- elektromagnetische Wellen
+	- [[#Elektromagnetische Wellen]]
 - Charakteristische Größen
 	- Wellenlänge
 	- Ausbreitungsgeschwindigkeit
-	- Zusammenhang
+	- Zusammenhang mit Frequenz
+- Longitudinal- und Transversalwellen
+- Wellen als zeitlicher und 
+### Elektromagnetische Wellen
+- Vom Kondensator zur Antenne
+### Elektromagnetisches Spektrum
+- technische Anwendungen
+- biologische Auswirkungen
+
