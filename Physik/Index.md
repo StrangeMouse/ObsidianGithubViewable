@@ -132,10 +132,10 @@
 	- Zusammenhang mit Frequenz
 - Longitudinal- und Transversalwellen
 - Wellen als zeitlich und räumlich periodischer Vorgang
-- Überlagerung von Wellen
 ### Elektromagnetische Wellen
 - Vom Kondensator zur Antenne
 ### Elektromagnetisches Spektrum
 - technische Anwendungen
 - biologische Auswirkungen
 
+### 
