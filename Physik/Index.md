@@ -114,5 +114,6 @@
 - Erweiterung der reibungsfreien Idealisierung
 - Dämpfungsverhalten (exponentielle Abnahme der Amplitude)
 	- graphische Darstellung
+- Resonanzkurven mit verschiedener Dämpfung
 
 ### 
