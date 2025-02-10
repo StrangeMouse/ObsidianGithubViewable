@@ -146,13 +146,23 @@
 	- Bedeutung des Gangunterschiedes
 	- Ortsbestimmung der Maxima
 
+### Beugung
+- Definition
+
 ### Huygen'sches Prinzip
 - Veranschaulichung an der Wellenwanne
 
 ### Stehende Wellen
 - Zusammenhang Wellenlänge und Ausdehnung des Wellenträgers
+- Phasensprung bei Reflexion
+- festes und loses Ende
 
 ### Doppelspalt
+- Monochromatisches Licht
+- Weißes Licht
+- Formel für Orte der Maxima
+
+### Einfachspalt 
 - Monochromatisches Licht
 - Weißes Licht
 - Formel für Orte der Maxima
@@ -160,3 +170,6 @@
 ### Beugungsgitter
 - Monochromatisches Licht
 - Weißes Licht
+- Formel für Orte der Maxima
+
+### 
