@@ -146,6 +146,8 @@
 	- Bedeutung des Gangunterschiedes
 	- Ortsbestimmung der Maxima
 
+### Kohärenz
+
 ### Beugung
 - Definition
 
@@ -171,5 +173,3 @@
 - Monochromatisches Licht
 - Weißes Licht
 - Formel für Orte der Maxima
-
-### 
