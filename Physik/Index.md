@@ -113,4 +113,6 @@
 ### Dämpfung
 - Erweiterung der reibungsfreien Idealisierung
 - Dämpfungsverhalten (exponentielle Abnahme der Amplitude)
-- 
+	- graphische Darstellung
+
+### 
