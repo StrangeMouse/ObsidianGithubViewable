@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Physik/Index.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Physik",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -144,7 +143,7 @@
               "type": "outline",
               "state": {
                 "file": "Physik/Index.md",
-                "followCursor": false,
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -180,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2fb486dae634b9d",
+  "active": "175cccdaf3b32514",
   "lastOpenFiles": [
     "Private/Amazon list.md",
     "Physik/Index.md",
