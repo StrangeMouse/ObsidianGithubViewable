@@ -139,4 +139,7 @@
 - biologische Auswirkungen
 
 ### Interferenz
+- Superpositionsprinzip
+	- Wellen können sich überlagern
+	- Wellen beeinflussen sich gegenseitig nicht
 - 
