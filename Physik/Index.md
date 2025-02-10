@@ -121,4 +121,4 @@
 - zwischen Stromstärke und Spannung bei [[#Elektromagnetischer Schwingkreis|Elektromagnetischen Schwingkreisen]]
 
 ### Wellen
-- 
+-      
