@@ -89,6 +89,7 @@
 	- Frequenz
 - Energieerhaltung
 	- Energieformen im Schwingungsverlauf
+	- Berechnung an Bespielen
 - Zeitlicher Verlauf
 	- Federpendel, Fadenpendel
 	- Formel für Schwingungsdauer
