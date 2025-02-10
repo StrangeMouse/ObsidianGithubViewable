@@ -1,8 +1,3 @@
----
-tags:
-  - Index
-  - Physik
----
 ## Elektrisches und magnetisches Feld
 ### Elektrisches Feld
 - Feldlinienbilder
