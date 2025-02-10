@@ -94,4 +94,6 @@
 	- Federpendel, Fadenpendel
 	- Formel für Schwingungsdauer
 	- Schwingungsgleichung
+
+### Elektromagnetischer Schwingkreis
 - 
