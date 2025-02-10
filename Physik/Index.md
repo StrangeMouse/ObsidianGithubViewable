@@ -142,4 +142,7 @@
 - Superpositionsprinzip
 	- Wellen können sich überlagern
 	- Wellen beeinflussen sich gegenseitig nicht
+- Interferenzmuster von zwei Punkterregern
+	- Bedeutung des Gangunterschiedes
+	- Ortsbestimmung der Maxima
 - 
