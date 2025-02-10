@@ -104,6 +104,11 @@
 - Amplituden
 - maximale Spannung
 - maximale Stromstärke
+- Gegenüberstellung der Energieformen zu mechanischer Schwingung
 
+### Resonanz
+- Definition
+- erzwungene Schwingung
+	- Phasenverschiebung zwischen Kraft und Elongation
 ### Dämpfung
-- 
+- Erweiterung der reibungsfreien Idealisierung
