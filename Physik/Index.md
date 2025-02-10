@@ -117,8 +117,16 @@
 - Resonanzkurven mit verschiedener Dämpfung
 
 ### Phasenverschiebung
-- zwischen äußerer Kraft und Elongation bei [[#Erzwungene Schwingungen|erzwungenen Schwingungen]]
+- zwischen äußerer Kraft und Elongation bei [[#Erzwungene Schwingung|erzwungenen Schwingungen]]
 - zwischen Stromstärke und Spannung bei [[#Elektromagnetischer Schwingkreis|Elektromagnetischen Schwingkreisen]]
 
 ### Wellen
--      
+- Beispiele
+	- Seilwellen
+	- Wasserwellen
+	- Schallwellen
+	- elektromagnetische Wellen
+- Charakteristische Größen
+	- Wellenlänge
+	- Ausbreitungsgeschwindigkeit
+	- Zusammenhang
