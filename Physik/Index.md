@@ -175,4 +175,8 @@
 - Weißes Licht
 - Formel für Orte der Maxima
 
-### Reflexions
+### Reflexion und Brechung
+- Formel für Reflexions- und Brechungswinkel
+- Totalreflexion
+- Dispersion
+- Interferenzen und Beugung von Licht in Materie
