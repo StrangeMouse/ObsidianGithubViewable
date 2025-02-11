@@ -175,4 +175,4 @@
 - Weißes Licht
 - Formel für Orte der Maxima
 
-### Reflexions 
+### Reflexions
