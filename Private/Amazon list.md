@@ -1,3 +1,3 @@
 - Portable microscope
-- Cinch Stecker
+￼￼￼￼￼ ￼￼Cinch Stecker￼￼
 - Abgeschirmtes Cinch-Kabel
