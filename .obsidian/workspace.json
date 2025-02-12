@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -179,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0dd94967497a233",
+  "active": "175cccdaf3b32514",
   "lastOpenFiles": [
     "Elektromagnetischer Schwingkreis.md",
     "Physik/Index.md",
