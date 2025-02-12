@@ -188,4 +188,18 @@
 - bewegter Sender
 - bewegter Empfänger
 	- Mach'scher Kegel
-- 
+- gleichzeitige Bewegung von Sender und Empfänger
+
+### Schwebungen
+- Definition
+
+### Schwebungen
+- Berechnung der Schwebungsfrequenz
+
+## Quanten- und Atomphysik
+
+### Photoeffekt
+- Einstein'sche Deutung
+	- Wiedersprüche zur Wellentheorie
+- Grenzfrequenz
+- Austrittsenergie
