@@ -240,6 +240,11 @@
 ### Bohr'sches Atommodell
 - Bohr'sche Postulate
 - Aufbau
+- Energieniveaus
+- Anwendungen
 
 ### Linearer Potenzialtopf
-- 
+- Aufbau
+- Energieniveaus
+- Anwendungen (Farbstoffmoleküle)
+
