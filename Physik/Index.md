@@ -212,3 +212,6 @@
 - Masse und Impuls von Photonen
 
 ### Materiewellen
+- De-Broglie-Welle
+- De-Broglie-Gleichung
+- Beugung an Gitter oder Kristallen
