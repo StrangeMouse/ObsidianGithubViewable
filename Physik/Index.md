@@ -248,3 +248,7 @@
 - Energieniveaus
 - Anwendungen (Farbstoffmoleküle)
 
+### Linienspektren
+- Beobachtung
+- Entstehung
+- Rydberg-Formel
