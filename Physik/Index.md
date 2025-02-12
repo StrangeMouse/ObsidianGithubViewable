@@ -203,3 +203,6 @@
 	- Wiedersprüche zur Wellentheorie
 - Grenzfrequenz
 - Austrittsenergie
+- Einheit Elektronenvolt
+- Plank'sches Wirkungsquantum
+- 
