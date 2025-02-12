@@ -238,4 +238,4 @@
 - Aufbau
 
 ### Bohr'sches Atommodell
-- Bohr'sche 
+- Bohr'sche Postulate
