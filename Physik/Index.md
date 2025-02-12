@@ -219,4 +219,6 @@
 	- bei geringer Intensität (stochastische Deutung)
 
 ### Heisenberg'sche Unschärferelation
-
+- Ort-Impuls-Unschärfe
+	- Vergleich Beugung am Einzelspalt
+- Amplitudenqudrat der Wellenfunktion als Maß für Aufenthaltswahrscheinlichkeit
