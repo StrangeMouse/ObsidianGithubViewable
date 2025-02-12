@@ -227,4 +227,4 @@
 - [[#Thomsonsches Atommodell]]
 - [[#Rutherfordsches Atommodell]]
 - [[#Bohrsches Atommodell]]
-- 
+- [[#Linearer Potenzialtopf]]
