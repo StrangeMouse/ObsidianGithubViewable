@@ -224,8 +224,18 @@
 - Amplitudenqudrat der Wellenfunktion als Maß für die Aufenthaltswahrscheinlichkeit
 
 ### Atommodelle
-- [[#Thomsonsches Atommodell]]
-- [[#Rutherfordsches Atommodell]]
-- [[#Bohrsches Atommodell]]
+- [[#Thomson'sches Atommodell]]
+- [[#Rutherford'sches Atommodell]]
+- [[#Bohr'sches Atommodell]]
 - [[#Linearer Potenzialtopf]]
 
+### Thomson'sches Atommodell
+- Entstehung
+- Aufbau
+
+### Rutherford'sches Atommodell
+- Entstehung
+- Aufbau
+
+### Bohr'sches Atommodell
+- Bohr'sche 
