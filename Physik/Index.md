@@ -180,5 +180,12 @@
 - Totalreflexion
 - Dispersion
 - Interferenzen und Beugung von Licht in Materie
+- Dispersion
+- Vergleich Gitter- und Primsenspektren
 
-### 
+### Dopplereffekt
+- akustisch
+- bewegter Sender
+- bewegter Empfänger
+	- Mach'scher Kegel
+- 
