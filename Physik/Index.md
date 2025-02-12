@@ -222,3 +222,6 @@
 - Ort-Impuls-Unschärfe
 	- Vergleich Beugung am Einzelspalt
 - Amplitudenqudrat der Wellenfunktion als Maß für die Aufenthaltswahrscheinlichkeit
+
+### Atommodelle
+- klassische Atommodelle (nach [[#Thomson]] und [[#Rutherford]])
