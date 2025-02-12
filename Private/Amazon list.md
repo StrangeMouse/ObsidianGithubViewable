@@ -1,3 +1,4 @@
-- Portable microscope
-￼￼￼￼￼ ￼￼Cinch Stecker￼￼
-- Abgeschirmtes Cinch-Kabel
+- [x] Portable microscope
+- [x] Cinch Stecker
+- [x] Abgeschirmtes Cinch-Kabel
+- [ ] Kaffee Waage 
