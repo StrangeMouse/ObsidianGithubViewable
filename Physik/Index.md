@@ -215,6 +215,8 @@
 - De-Broglie-Welle
 - De-Broglie-Gleichung
 - Beugung an Gitter oder Kristallen
-- [[Doppelspaltversuche]] mit Elektronen
-	- bei geringer Intensität
-	- 
+- [[#Doppelspalt|Doppelspaltversuche]] mit Elektronen
+	- bei geringer Intensität (stochastische Deutung)
+
+### Heisenberg'sche Unschärferelation
+
