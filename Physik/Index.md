@@ -228,3 +228,4 @@
 - [[#Rutherfordsches Atommodell]]
 - [[#Bohrsches Atommodell]]
 - [[#Linearer Potenzialtopf]]
+
