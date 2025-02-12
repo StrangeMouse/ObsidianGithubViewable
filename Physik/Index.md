@@ -239,3 +239,7 @@
 
 ### Bohr'sches Atommodell
 - Bohr'sche Postulate
+- Aufbau
+
+### Linearer Potenzialtopf
+- 
