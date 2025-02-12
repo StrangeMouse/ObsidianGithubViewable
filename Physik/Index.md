@@ -204,5 +204,6 @@
 - Grenzfrequenz
 - Austrittsenergie
 - Einheit Elektronenvolt
+- Energie eines Photons
+	- Gegenfeldmethode
 - Plank'sches Wirkungsquantum
-- 
