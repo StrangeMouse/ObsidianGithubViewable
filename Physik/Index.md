@@ -224,4 +224,7 @@
 - Amplitudenqudrat der Wellenfunktion als Maß für die Aufenthaltswahrscheinlichkeit
 
 ### Atommodelle
-- klassische Atommodelle (nach [[#Thomson]] und [[#Rutherford]])
+- [[#Thomsonsches Atommodell]]
+- [[#Rutherfordsches Atommodell]]
+- [[#Bohrsches Atommodell]]
+- 
