@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Amazon list.md",
+                "file": "Physik/Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amazon list"
+              "title": "Index"
             }
           },
           {
@@ -177,9 +177,9 @@
   "active": "5fff8d85437e2ad7",
   "lastOpenFiles": [
     "Private/Amazon list.md",
-    "Physik/Index.md",
     "/Physik/Index.md",
     "/Physik",
+    "Physik/Index.md",
     "/Private/Amazon list.md",
     "Private",
     "/Private",
