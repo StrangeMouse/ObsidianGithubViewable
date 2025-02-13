@@ -252,3 +252,26 @@
 - Beobachtung
 - Entstehung
 - Rydberg-Formel
+- Linienbreite ([[#Laser]])
+
+### Lumineszenz
+- Fluoreszenz
+- Phosphoreszenz
+
+### Röntgenstrahlung
+- Erzeugung (Röntgenröhre)
+- Nachweis
+- Wirkung und Gefahren
+- Spektrum (charakteristisch und kontinuierlich)
+- kurzwellige Grenze
+
+### Bragg-Reflexion
+- Definition
+
+### Franck-Hertz-Versuch
+- Aufbau
+- Erklärung der Beobachtung
+- Stoßanregung
+
+### Compton-Effekt
+- Compton Wellenlänge
