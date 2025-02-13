@@ -208,6 +208,9 @@
 	- Gegenfeldmethode
 - Plank'sches Wirkungsquantum
 
+### Compton-Effekt
+- Compton Wellenlänge
+
 ### Energie-Masse-Äquivalenz
 - Masse und Impuls von Photonen
 
@@ -273,5 +276,7 @@
 - Erklärung der Beobachtung
 - Stoßanregung
 
-### Compton-Effekt
-- Compton Wellenlänge
+### Laser
+- metastabile Niveaus
+- Besetzungsinversion
+- stimulierte Emission
