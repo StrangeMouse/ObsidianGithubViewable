@@ -25,13 +25,18 @@
             "id": "ef22ad442d256cfe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Geschichte/Writing File.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Writing File"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,12 +179,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5fff8d85437e2ad7",
+  "active": "ef22ad442d256cfe",
   "lastOpenFiles": [
-    "Private/Amazon list.md",
+    "Geschichte/Writing File.md",
+    "Geschichte",
+    "Physik/Index.md",
+    "Mathe/Index.md",
     "/Physik/Index.md",
     "/Physik",
-    "Physik/Index.md",
+    "/Mathe/Index.md",
+    "Mathe",
+    "/Mathe",
+    "Private/Amazon list.md",
     "/Private/Amazon list.md",
     "Private",
     "/Private",
