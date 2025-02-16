@@ -1,5 +1,5 @@
 ## Elektrisches und magnetisches Feld
-### [[Elektrisches Feld]]
+### Elektrisches Feld
 - Feldlinienbilder
 	- homogen
 	- radialsymmetrisch
