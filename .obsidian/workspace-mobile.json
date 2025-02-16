@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Elektrisches Feld"
             }
-          },
-          {
-            "id": "fd795a2cbdc8e395",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Elektrisches Feld 2025-02-16 20.39.52.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Elektrisches Feld 2025-02-16 20.39.52.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,10 +165,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fd795a2cbdc8e395",
+  "active": "5fff8d85437e2ad7",
   "lastOpenFiles": [
-    "Physik/Elektrisches Feld.md",
     "Excalidraw/Elektrisches Feld 2025-02-16 20.39.52.excalidraw.md",
+    "Physik/Elektrisches Feld.md",
     "Excalidraw",
     "Physik/Index.md",
     "/Physik/Elektrisches Feld.md",
