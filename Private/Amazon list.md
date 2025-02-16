@@ -2,3 +2,4 @@
 - [x] Cinch Stecker
 - [x] Abgeschirmtes Cinch-Kabel
 - [ ] Kaffee Waage 
+- [ ] 
