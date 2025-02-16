@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elektrisches Feld.md",
+                "file": "Physik/Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elektrisches Feld"
+              "title": "Index"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elektrisches Feld.md",
+                "file": "Physik/Index.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Elektrisches Feld"
+              "title": "Outline of Index"
             }
           },
           {
@@ -181,8 +181,8 @@
   },
   "active": "7365be20e8f58f00",
   "lastOpenFiles": [
+    "Physik/Elektrisches Feld.md",
     "Physik/Index.md",
-    "Elektrisches Feld.md",
     "Private/Amazon list.md",
     "Geschichte/Writing File.md",
     "Geschichte",
