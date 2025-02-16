@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Index.md",
+                "file": "Physik/Elektrisches Feld.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Elektrisches Feld"
+            }
+          },
+          {
+            "id": "fd795a2cbdc8e395",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Elektrisches Feld 2025-02-16 20.39.52.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Elektrisches Feld 2025-02-16 20.39.52.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,14 +178,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5fff8d85437e2ad7",
+  "active": "fd795a2cbdc8e395",
   "lastOpenFiles": [
+    "Physik/Elektrisches Feld.md",
+    "Excalidraw/Elektrisches Feld 2025-02-16 20.39.52.excalidraw.md",
+    "Excalidraw",
+    "Physik/Index.md",
+    "/Physik/Elektrisches Feld.md",
+    "/Physik",
     "Geschichte/Writing File.md",
     "Geschichte",
-    "Physik/Index.md",
     "Mathe/Index.md",
     "/Physik/Index.md",
-    "/Physik",
     "/Mathe/Index.md",
     "Mathe",
     "/Mathe",
