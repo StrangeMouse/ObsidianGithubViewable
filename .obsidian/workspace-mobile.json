@@ -25,12 +25,14 @@
             "id": "bf56f7fff79f430a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Physik/attachments/Elektrisches Feld 2025-02-17 20.50.58.excalidraw.md"
+                "file": "Physik/Elektrisches Feld.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Elektrisches Feld 2025-02-17 20.50.58.excalidraw"
+              "icon": "lucide-file",
+              "title": "Elektrisches Feld"
             }
           }
         ],
@@ -144,7 +146,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/attachments/Elektrisches Feld 2025-02-17 20.50.58.excalidraw.md",
+            "file": "Physik/Elektrisches Feld.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -180,12 +182,12 @@
   },
   "active": "bf56f7fff79f430a",
   "lastOpenFiles": [
+    "Physik/attachments/Elektrisches Feld 2025-02-17 20.50.58.excalidraw.md",
+    "Physik/Index.md",
     "Physik/Elektrisches Feld.md",
     "Physik/attachments/Elektrisches Feld 2025-02-17 20.30.52.excalidraw.md",
     "Templates/Excalidraw.md",
-    "Physik/attachments/Elektrisches Feld 2025-02-17 20.50.58.excalidraw.md",
     "Physik/attachments/Elektrisches Feld 2025-02-17 20.37.23.excalidraw.md",
-    "Physik/Index.md",
     "Excalidraw",
     "Templates",
     "Physik/Plattenkondensator.md",
