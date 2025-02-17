@@ -63,7 +63,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "diele",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -100,7 +100,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "66e2a298dc0bef6a",
@@ -179,7 +179,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "16a2279660b07274",
+  "active": "764fb955a8d1fabe",
   "lastOpenFiles": [
     "Influenz.md",
     "Physik/Index.md",
