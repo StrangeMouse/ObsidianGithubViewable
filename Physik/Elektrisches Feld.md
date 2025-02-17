@@ -37,8 +37,10 @@ Umgebung um einen Elektrischen Körper, in der eine Kraft auf andere Ladungen wi
 - sind so kurz wie möglich (Konstruktionshilfe)
 
 ### Feldlinienbilder
-- homogenes Feld ([[Plattenkondensator]])
-	- ![[Elektrisches Feld 2025-02-17 20.30.52.excalidraw]]
+- homogenes Feld
+	- Feldbild im [[Plattenkondensator]]![[Elektrisches Feld 2025-02-17 20.30.52.excalidraw|30%]]
+- radialsymmetrisch
+	- Feldbild einer Punktladung![[Elektrisches Feld 2025-02-17 20.37.23.excalidraw]]
 - Spitzeneffekt: 
 	- Die elektrische Feldstärke ist an einer Spitze am stärksten
 	- Effekt wird für Blitzableiter benutzt![[Elektrisches Feld 2025-02-16 20.55.25.excalidraw]]

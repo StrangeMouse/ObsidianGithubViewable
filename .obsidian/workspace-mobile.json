@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "2a4d2ac6d4618873",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Physik/attachments/Elektrisches Feld 2025-02-17 20.37.23.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Elektrisches Feld 2025-02-17 20.37.23.excalidraw"
+            }
+          },
+          {
             "id": "cb4d46378975e996",
             "type": "leaf",
             "state": {
@@ -48,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/Elektrisches Feld.md",
+            "file": "Physik/attachments/Elektrisches Feld 2025-02-17 20.37.23.excalidraw.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -192,12 +204,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bf56f7fff79f430a",
+  "active": "2a4d2ac6d4618873",
   "lastOpenFiles": [
-    "Physik/attachments/Elektrisches Feld 2025-02-17 20.30.52.excalidraw.md",
     "Physik/Elektrisches Feld.md",
-    "Physik/attachments/Elektrisches Feld 2025-02-16 20.55.25.excalidraw.md",
+    "Physik/attachments/Elektrisches Feld 2025-02-17 20.37.23.excalidraw.md",
+    "Physik/Plattenkondensator.md",
     "Physik/Index.md",
+    "Physik/attachments/Elektrisches Feld 2025-02-17 20.30.52.excalidraw.md",
+    "Physik/attachments/Elektrisches Feld 2025-02-16 20.55.25.excalidraw.md",
     "Physik/attachments/Index 2025-02-17 20.29.51.excalidraw.md",
     "Influenz.md",
     "Untitled.md",
