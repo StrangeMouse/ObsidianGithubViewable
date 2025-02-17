@@ -25,11 +25,13 @@
             "id": "a1ca8acbc0615350",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Physik/attachments/Elektrisches Feld 2025-02-16 20.55.25.excalidraw.md"
+                "file": "Physik/attachments/Elektrisches Feld 2025-02-16 20.55.25.excalidraw.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
+              "icon": "lucide-file",
               "title": "Elektrisches Feld 2025-02-16 20.55.25.excalidraw"
             }
           },
