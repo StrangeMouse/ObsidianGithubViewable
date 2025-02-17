@@ -27,7 +27,7 @@ Umgebung um einen Elektrischen Körper, in der eine Kraft auf andere Ladungen wi
 - Durch Influenz verursachte Ladungsdichte auf der Oberfläche eines Leiters in einem elektrischen Feld
 - $\sigma=\dfrac{Q}{A}=\varepsilon_0\cdot\varepsilon_r\cdot\vec{E}$ 
 - Es wird angenommen, dass alle Ladungsträger sich auf der Oberfläche befinden
-- Da 
+- Ladungsträger verschieben sich so lange, bis ein elektrisches Feld mit der gleichen Feldstärke in die entgegengesetzte Richtung ensteht
 ### Feldlinienbilder
 - Spitzeneffekt: ![[Elektrisches Feld 2025-02-16 20.55.25.excalidraw]]
 - 
