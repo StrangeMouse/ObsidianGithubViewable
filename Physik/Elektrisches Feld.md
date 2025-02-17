@@ -24,7 +24,8 @@ Umgebung um einen Elektrischen Körper, in der eine Kraft auf andere Ladungen wi
 - $\varepsilon_r\colon$ Materialabhängige Konstante (gibt and wie stark das elektrische Feld einer Ladung von dem umgebenden Material verstärkt wird)
 
 ### Flächenladungsdichte (Verschiebungsdichte)
-- Durch Influenz verursachte Ladungsdichte 
+- Durch Influenz verursachte Ladungsdichte auf der Oberfläche eines Leiters in einem elektrischen Feld
+- $\sigma=\dfrac{Q}{A}=\varepsilon_0\cdot\vec{E}$  ()
 ### Feldlinienbilder
 - Spitzeneffekt: ![[Elektrisches Feld 2025-02-16 20.55.25.excalidraw]]
 - 
