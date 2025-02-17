@@ -20,8 +20,10 @@ Umgebung um einen Elektrischen Körper, in der eine Kraft auf andere Ladungen wi
 
 ### Dielektrizitätskonstante (Permittivität)
 - Beschreibt die Polarisationsfähigkeit eines Materials
-- $\varepsilon_0\colon$ Dielektrizitätskonstante von Vakuum (gibt Zusammenhang zwischen der Kraft auf eine Ladung in einem elektrischen Feld und der von einer Ladung erzeugten Feldstärke an)
-- $\varepsilon_r\colon$ Materialabhängige Konstante (gibt and wie stark das elektrische Feld einer Ladung von dem umgebenden Material verstärkt wird)
+- $\varepsilon_0\colon$
+	- Dielektrizitätskonstante von Vakuum (gibt Zusammenhang zwischen der Kraft auf eine Ladung in einem elektrischen Feld und der von einer Ladung erzeugten Feldstärke an)
+- $\varepsilon_r\colon$
+	- Materialabhängige Konstante (gibt and wie stark das elektrische Feld einer Ladung von dem umgebenden Material verstärkt wird)
 
 ### Flächenladungsdichte (Verschiebungsdichte)
 - Durch Influenz verursachte Ladungsdichte auf der Oberfläche eines Leiters in einem elektrischen Feld
