@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "a62e13d1372ec56e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Templates/Excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw"
+            }
+          },
+          {
             "id": "bf56f7fff79f430a",
             "type": "leaf",
             "state": {
@@ -60,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/attachments/Elektrisches Feld 2025-02-17 20.37.23.excalidraw.md",
+            "file": "Templates/Excalidraw.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -204,12 +216,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2a4d2ac6d4618873",
+  "active": "a62e13d1372ec56e",
   "lastOpenFiles": [
-    "Physik/Elektrisches Feld.md",
-    "Physik/attachments/Elektrisches Feld 2025-02-17 20.37.23.excalidraw.md",
-    "Physik/Plattenkondensator.md",
     "Physik/Index.md",
+    "Templates/Excalidraw.md",
+    "Excalidraw",
+    "Templates/Excalidraw.md",
+    "Templates",
+    "Physik/attachments/Elektrisches Feld 2025-02-17 20.37.23.excalidraw.md",
+    "Physik/Elektrisches Feld.md",
+    "Physik/Plattenkondensator.md",
     "Physik/attachments/Elektrisches Feld 2025-02-17 20.30.52.excalidraw.md",
     "Physik/attachments/Elektrisches Feld 2025-02-16 20.55.25.excalidraw.md",
     "Physik/attachments/Index 2025-02-17 20.29.51.excalidraw.md",
@@ -217,7 +233,6 @@
     "Untitled.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2025-02-17 10.48.51.excalidraw.md",
-    "Excalidraw",
     "Physik/attachments",
     "Excalidraw/Elektrisches Feld 2025-02-16 20.39.52.excalidraw.md",
     "/Physik/Elektrisches Feld.md",
