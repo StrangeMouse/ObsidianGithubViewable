@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5fff8d85437e2ad7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "16a2279660b07274",
             "type": "leaf",
             "state": {
@@ -31,8 +21,7 @@
               "title": "Elektrisches Feld"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/Elektrisches Feld.md",
+            "file": "Physik/attachments/Elektrisches Feld 2025-02-16 20.55.25.excalidraw.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -178,10 +167,11 @@
   },
   "active": "16a2279660b07274",
   "lastOpenFiles": [
+    "Physik/Index.md",
     "Physik/attachments/Elektrisches Feld 2025-02-16 20.55.25.excalidraw.md",
+    "conflict-files-obsidian-git.md",
     "Physik/Elektrisches Feld.md",
     "Excalidraw/Drawing 2025-02-17 10.48.51.excalidraw.md",
-    "Physik/Index.md",
     "Excalidraw",
     "Physik/attachments",
     "Excalidraw/Elektrisches Feld 2025-02-16 20.39.52.excalidraw.md",

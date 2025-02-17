@@ -1,3 +1,9 @@
+Umgebung um einen Elektrischen Körper, in der eine Kraft auf andere Ladungen wirkt
+
+### Elektrische Feldstärke
+- $\vec{E}=\dfrac{\vec{F}}{q}$ 
+- Analogie zur Gravitation: Kraft auf Körper in bestimmte Richtung
+- In [[Plattenkondensator]]: $\vec{E}=\dfrac{\vec{}}{}$
 
 ### Feldlinienbilder
 - Spitzeneffekt: ![[Elektrisches Feld 2025-02-16 20.55.25.excalidraw]]
