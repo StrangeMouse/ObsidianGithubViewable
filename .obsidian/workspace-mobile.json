@@ -25,13 +25,11 @@
             "id": "a1ca8acbc0615350",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Physik/attachments/Elektrisches Feld 2025-02-16 20.55.25.excalidraw.md",
-                "mode": "source",
-                "source": false
+                "file": "Physik/attachments/Elektrisches Feld 2025-02-16 20.55.25.excalidraw.md"
               },
-              "icon": "lucide-file",
+              "icon": "excalidraw-icon",
               "title": "Elektrisches Feld 2025-02-16 20.55.25.excalidraw"
             }
           },
@@ -49,8 +47,7 @@
               "title": "Elektrisches Feld"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +157,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/attachments/Elektrisches Feld 2025-02-16 20.55.25.excalidraw.md",
+            "file": "Physik/Millikan-Versuch.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -194,8 +191,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a1ca8acbc0615350",
+  "active": "16a2279660b07274",
   "lastOpenFiles": [
+    "Physik/attachments/Elektrisches Feld 2025-02-16 20.55.25.excalidraw.md",
     "Physik/Elektrisches Feld.md",
     "Physik/Millikan-Versuch.md",
     "Physik/Elektrische Ladung.md",
@@ -207,7 +205,6 @@
     "Physik/attachments/Elektrisches Feld 2025-02-17 20.37.23.excalidraw.md",
     "Excalidraw",
     "Templates",
-    "Physik/attachments/Elektrisches Feld 2025-02-16 20.55.25.excalidraw.md",
     "Physik/attachments/Index 2025-02-17 20.29.51.excalidraw.md",
     "Influenz.md",
     "Untitled.md",
