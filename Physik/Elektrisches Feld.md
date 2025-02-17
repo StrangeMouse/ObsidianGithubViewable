@@ -27,10 +27,21 @@ Umgebung um einen Elektrischen Körper, in der eine Kraft auf andere Ladungen wi
 - Durch Influenz verursachte Ladungsdichte auf der Oberfläche eines Leiters in einem elektrischen Feld
 - $\sigma=\dfrac{Q}{A}=\varepsilon_0\cdot\varepsilon_r\cdot\vec{E}$ 
 - Es wird angenommen, dass alle Ladungsträger sich auf der Oberfläche befinden
-- Ladungsträger verschieben sich so lange, bis ein elektrisches Feld mit der gleichen Feldstärke in die entgegengesetzte Richtung ensteht
+
+### Feldlinien
+- beschreiben die elektrische Feldstärke
+- zeigen in Richtung der Kraft auf eine positive Ladung
+- von positiv zu negativ
+- stehen immer senkrecht auf Oberflächen (ansonsten gäbe es Kräfte entlang der Oberfläche)
+- stoßen sich gegenseitig ab (Konstruktionshilfe)
+- sind so kurz wie möglich (Konstruktionshilfe)
+
 ### Feldlinienbilder
-- Spitzeneffekt: ![[Elektrisches Feld 2025-02-16 20.55.25.excalidraw]]
-- 
+- homogenes Feld ([[Plattenkondensator]])
+	- ![[Elektrisches Feld 2025-02-17 20.30.52.excalidraw]]
+- Spitzeneffekt: 
+	- Die elektrische Feldstärke ist an einer Spitze am stärksten
+	- Effekt wird für Blitzableiter benutzt![[Elektrisches Feld 2025-02-16 20.55.25.excalidraw]]
 
 
 
