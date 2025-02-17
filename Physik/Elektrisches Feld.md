@@ -8,7 +8,7 @@ Umgebung um einen Elektrischen Körper, in der eine Kraft auf andere Ladungen wi
 
 ### Coulomb'sches Gesetz
 - $\vec{F}=\vec{E}\cdot{q}$    =>   $\vec{F}=\dfrac{1}{4\pi\cdot\varepsilon_0\cdot\varepsilon_r}\cdot\dfrac{Q\cdot{q}}{r^2}$ 
-- Kraft auf Ladung in radialsymmetrischem Feld
+- Kraft auf [[Elektrische Ladung|Ladung]] in radialsymmetrischem Feld
 
 ### Influenz
 - Elektronen in Leitern werden von äußeren elektrischen Feldern beeinflusst
@@ -40,12 +40,12 @@ Umgebung um einen Elektrischen Körper, in der eine Kraft auf andere Ladungen wi
 - homogenes Feld
 	- Feldbild im [[Plattenkondensator]]![[Elektrisches Feld 2025-02-17 20.30.52.excalidraw|30%]]
 - Radialsymmetrisch
-	- Feldbild einer Punktladung![[Elektrisches Feld 2025-02-17 20.37.23.excalidraw|50%]]
+	- Feldbild einer Punktladung![[Elektrisches Feld 2025-02-17 20.37.23.excalidraw|40%]]
 - Faraday'scher Käfig
-	- Feld wird durch Influenz in durch Leiter umgebenen Raum ausgeglichen ![[Elektrisches Feld 2025-02-17 20.50.58.excalidraw]]
+	- Feld wird durch Influenz in durch Leiter umgebenen Raum ausgeglichen ![[Elektrisches Feld 2025-02-17 20.50.58.excalidraw|50%]]
 - Spitzeneffekt: 
 	- Die elektrische Feldstärke ist an einer Spitze am stärksten
-	- Effekt wird für Blitzableiter benutzt![[Elektrisches Feld 2025-02-16 20.55.25.excalidraw]]
+	- Effekt wird für Blitzableiter benutzt![[Elektrisches Feld 2025-02-16 20.55.25.excalidraw|60%]]
 
 
 
