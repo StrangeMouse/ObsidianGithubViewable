@@ -9,5 +9,5 @@ $$\varphi=\frac{E_{pot}}{q}$$
 ### Äquipotenziallinien
 - [[Elektrisches Feld#Feldlinienbilder|Feldlinienbilder]] können auch mittels Äquipotenziallinien dargestellt werden
 - Diese markieren jeweils Bereiche mit der selben Potenzialdifferenz
-- ![[Elektrisches Potenzial 2025-02-18 17.38.17.excalidraw]]
+- Beispiel: ![[Elektrisches Potenzial 2025-02-18 17.38.17.excalidraw]]
 
