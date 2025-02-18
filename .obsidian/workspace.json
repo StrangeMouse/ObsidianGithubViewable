@@ -22,6 +22,16 @@
             }
           },
           {
+            "id": "a81a666db9708656",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "912d053af5e9f190",
             "type": "leaf",
             "state": {
@@ -204,8 +214,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "912d053af5e9f190",
+  "active": "a81a666db9708656",
   "lastOpenFiles": [
+    "Physik/attachments/test.md",
     "Physik/Millikan-Versuch.md",
     "Physik/Elektrische Ladung.md",
     "Physik/Quantelung.md",
