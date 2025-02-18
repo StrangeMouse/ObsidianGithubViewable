@@ -25,10 +25,14 @@
             "id": "a81a666db9708656",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Physik/Quantelung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quantelung"
             }
           },
           {
@@ -56,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,12 +218,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a81a666db9708656",
+  "active": "912d053af5e9f190",
   "lastOpenFiles": [
-    "Physik/attachments/test.md",
-    "Physik/Millikan-Versuch.md",
-    "Physik/Elektrische Ladung.md",
     "Physik/Quantelung.md",
+    "Physik/Millikan-Versuch.md",
+    "Physik/attachments/Pasted image 20250218164405.png",
+    "Physik/attachments/test.md",
+    "Physik/Elektrische Ladung.md",
     "Physik/Elektrisches Feld.md",
     "Physik/Plattenkondensator.md",
     "conflict-files-obsidian-git.md",
