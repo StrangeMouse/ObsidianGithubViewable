@@ -23,7 +23,7 @@
 	- radialsymmetrisch
 - Äquipotenziallinien
 
-### Elektrische Spannung
+### [[Elektrische Spannung]]
 - Spannung als Energie pro Ladung
 - Spannung als Potenzialdifferenz
 

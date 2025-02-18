@@ -1,0 +1,2 @@
+Potenzialdifferenz zwischen zwei Punkten
+
