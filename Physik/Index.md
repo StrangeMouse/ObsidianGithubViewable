@@ -1,5 +1,5 @@
 ## Elektrisches und magnetisches Feld
-### Elektrisches Feld
+### [[Elektrisches Feld]]
 - Feldlinienbilder
 	- homogen
 	- radialsymmetrisch
@@ -13,11 +13,11 @@
 	- radialsymmetrisch
 	- Coulomb'sches Gesetz
 
-### Elektrische Ladung
+### [[Elektrische Ladung]]
 - Ladung als Erhaltungsgröße
 - Millikanversuch (Quantelung der Ladung)
 
-### Elektrisches Potenzial
+### [[Elektrisches Potenzial]]
 - Potenzial in Elektrischen Feldern
 	- homogen
 	- radialsymmetrisch
