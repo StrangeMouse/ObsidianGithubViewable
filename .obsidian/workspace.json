@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Elektrisches Feld.md",
+                "file": "Physik/Millikan-Versuch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elektrisches Feld"
+              "title": "Millikan-Versuch"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physik/Elektrisches Feld.md",
+                "file": "Physik/Millikan-Versuch.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Elektrisches Feld"
+              "title": "Outline of Millikan-Versuch"
             }
           },
           {
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -180,9 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "175cccdaf3b32514",
+  "active": "36fad6c35cfb3780",
   "lastOpenFiles": [
     "Physik/Elektrische Ladung.md",
+    "Physik/Plattenkondensator.md",
+    "Physik/Millikan-Versuch.md",
     "Physik/Elektrisches Feld.md",
     "conflict-files-obsidian-git.md",
     "Templates/Excalidraw.md",
@@ -190,8 +192,6 @@
     "Physik/attachments/Elektrisches Feld 2025-02-17 20.50.58.excalidraw.md",
     "Physik/attachments/Elektrisches Feld 2025-02-17 20.37.23.excalidraw.md",
     "Physik/attachments/Elektrisches Feld 2025-02-17 20.30.52.excalidraw.md",
-    "Physik/Plattenkondensator.md",
-    "Physik/Millikan-Versuch.md",
     "Physik/attachments/Elektrisches Feld 2025-02-16 20.55.25.excalidraw.md",
     "Physik/attachments",
     "Physik/Index.md",
