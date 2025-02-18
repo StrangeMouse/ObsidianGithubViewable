@@ -36,15 +36,17 @@
             }
           },
           {
-            "id": "a81a666db9708656",
+            "id": "eb1f74768ddcce77",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Physik/attachments/Elektrisches Potenzial 2025-02-18 17.38.17.excalidraw.md"
+                "file": "Physik/Elektrisches Potenzial.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Elektrisches Potenzial 2025-02-18 17.38.17.excalidraw"
+              "icon": "lucide-file",
+              "title": "Elektrisches Potenzial"
             }
           }
         ],
@@ -169,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physik/attachments/Elektrisches Potenzial 2025-02-18 17.38.17.excalidraw.md",
+                "file": "Physik/Elektrisches Potenzial.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Elektrisches Potenzial 2025-02-18 17.38.17.excalidraw"
+              "title": "Outline of Elektrisches Potenzial"
             }
           },
           {
@@ -207,14 +209,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a81a666db9708656",
+  "active": "eb1f74768ddcce77",
   "lastOpenFiles": [
-    "Physik/Elektrisches Potenzial.md",
-    "Physik/attachments/Elektrisches Potenzial 2025-02-18 17.38.17.excalidraw.md",
     "Physik/Elektrische Ladung.md",
-    "Physik/Quantelung.md",
     "Physik/attachments/Elektrisches Feld 2025-02-17 20.37.23.excalidraw.md",
     "Physik/Elektrisches Feld.md",
+    "Physik/attachments/Elektrisches Potenzial 2025-02-18 17.38.17.excalidraw.md",
+    "Physik/Elektrisches Potenzial.md",
+    "Physik/attachments/Elektrisches Feld 2025-02-16 20.55.25.excalidraw.md",
+    "Physik/Quantelung.md",
     "Physik/Index.md",
     "Physik/Millikan-Versuch.md",
     "Physik/attachments/Pasted image 20250218164405.png",
@@ -225,7 +228,6 @@
     "Templates",
     "Physik/attachments/Elektrisches Feld 2025-02-17 20.50.58.excalidraw.md",
     "Physik/attachments/Elektrisches Feld 2025-02-17 20.30.52.excalidraw.md",
-    "Physik/attachments/Elektrisches Feld 2025-02-16 20.55.25.excalidraw.md",
     "Physik/attachments",
     "Private/Amazon list.md",
     "Geschichte/Writing File.md",
