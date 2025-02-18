@@ -4,4 +4,4 @@ $\varphi=\dfrac{E_{pot}}{q}$ (Potenzielle Energie pro Ladung)
 
 ### Potenzial in bestimmten elektrischen Feldern
 - homogen: $\varphi=\vec{E}\cdot\vec{s}$
-- radialsymmetrisch: $\varphi=\int_{r_0}^{r_1}\dfrac{Q}{4\pi\cdot\varepsilon_0\cdot\}$
+- radialsymmetrisch: $\varphi=\int\dfrac{Q}{4\pi\cdot\varepsilon_0\cdot\varepsilon_r\cdot{r^2}}\,dr$
