@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Elektrische Ladung.md",
+                "file": "Physik/Millikan-Versuch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elektrische Ladung"
+              "title": "Millikan-Versuch"
+            }
+          },
+          {
+            "id": "912d053af5e9f190",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -35,7 +45,8 @@
               "title": "Quantelung"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,13 +167,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physik/Elektrische Ladung.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Elektrische Ladung"
+              "title": "Outline"
             }
           },
           {
@@ -194,13 +204,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2fb486dae634b9d",
+  "active": "912d053af5e9f190",
   "lastOpenFiles": [
-    "Physik/Elektrisches Feld.md",
     "Physik/Millikan-Versuch.md",
-    "Physik/Quantelung.md",
-    "Physik/Plattenkondensator.md",
     "Physik/Elektrische Ladung.md",
+    "Physik/Quantelung.md",
+    "Physik/Elektrisches Feld.md",
+    "Physik/Plattenkondensator.md",
     "conflict-files-obsidian-git.md",
     "Templates/Excalidraw.md",
     "Templates",
