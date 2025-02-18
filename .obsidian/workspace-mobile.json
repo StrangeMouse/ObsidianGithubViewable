@@ -1,50 +1,24 @@
 {
   "main": {
-    "id": "3b5f880791342b4c",
+    "id": "6f8c77ea65c3dddb",
     "type": "split",
     "children": [
       {
-        "id": "1786cd3e6a59dd47",
+        "id": "4ac67fcb7a4eb0fb",
         "type": "tabs",
         "children": [
           {
-            "id": "16a2279660b07274",
+            "id": "073957a35773c88f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Elektrisches Feld.md",
+                "file": "Mathe/Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elektrisches Feld"
-            }
-          },
-          {
-            "id": "a1ca8acbc0615350",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Physik/attachments/Elektrisches Feld 2025-02-16 20.55.25.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Elektrisches Feld 2025-02-16 20.55.25.excalidraw"
-            }
-          },
-          {
-            "id": "bf56f7fff79f430a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physik/Elektrisches Feld.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Elektrisches Feld"
+              "title": "Index"
             }
           }
         ]
@@ -53,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "457bec036aa0eb98",
+    "id": "0b2fbbb789e033e6",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "d31ac59719f21230",
+        "id": "955dc48275b8c5fc",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -70,7 +44,7 @@
         }
       },
       {
-        "id": "764fb955a8d1fabe",
+        "id": "e0cd2c734f4ed1a6",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -87,7 +61,7 @@
         }
       },
       {
-        "id": "b1c101deefafceaf",
+        "id": "fea57af41f3946af",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -102,7 +76,7 @@
         }
       },
       {
-        "id": "fda59f520ec6d781",
+        "id": "6ad0ac2b6e606a33",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -115,16 +89,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "66e2a298dc0bef6a",
+    "id": "78622aeea50a1922",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "002ab161efe64cbf",
+        "id": "fbd2754ad1ebff39",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Physik/Index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -138,12 +111,11 @@
         }
       },
       {
-        "id": "5a96cfae3e7bd476",
+        "id": "e1f361fc24169c48",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Physik/Index.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -152,12 +124,11 @@
         }
       },
       {
-        "id": "54b2e42b154cdc30",
+        "id": "e641ded06e0f87d7",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/Elektrisches Feld.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -165,19 +136,9 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
-      },
-      {
-        "id": "686fdc9c84b2c0eb",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
-        }
       }
     ],
-    "currentTab": 2
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,44 +148,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16a2279660b07274",
+  "active": "073957a35773c88f",
   "lastOpenFiles": [
-    "Physik/Millikan-Versuch.md",
-    "/Physik/Elektrisches Feld.md",
-    "/Physik",
-    "Physik/attachments/Elektrisches Feld 2025-02-16 20.55.25.excalidraw.md",
-    "Physik/Elektrisches Feld.md",
-    "Physik/Elektrische Ladung.md",
-    "Physik/Plattenkondensator.md",
-    "Physik/Index.md",
-    "Physik/attachments/Elektrisches Feld 2025-02-17 20.50.58.excalidraw.md",
-    "Physik/attachments/Elektrisches Feld 2025-02-17 20.30.52.excalidraw.md",
-    "Templates/Excalidraw.md",
-    "Physik/attachments/Elektrisches Feld 2025-02-17 20.37.23.excalidraw.md",
-    "Excalidraw",
-    "Templates",
-    "Physik/attachments/Index 2025-02-17 20.29.51.excalidraw.md",
-    "Influenz.md",
-    "Untitled.md",
-    "conflict-files-obsidian-git.md",
-    "Excalidraw/Drawing 2025-02-17 10.48.51.excalidraw.md",
-    "Physik/attachments",
-    "Excalidraw/Elektrisches Feld 2025-02-16 20.39.52.excalidraw.md",
-    "Geschichte/Writing File.md",
-    "Geschichte",
-    "Mathe/Index.md",
-    "/Physik/Index.md",
-    "/Mathe/Index.md",
-    "Mathe",
-    "/Mathe",
     "Private/Amazon list.md",
-    "/Private/Amazon list.md",
+    "Physik/Index.md",
+    "Mathe/Index.md",
+    "Geschichte/Writing File.md",
     "Private",
-    "/Private",
-    "Physik"
+    "Physik",
+    "Mathe",
+    "Geschichte"
   ]
 }
