@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -194,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "879a5d4e131fe078",
+  "active": "b2fb486dae634b9d",
   "lastOpenFiles": [
     "Physik/Elektrisches Feld.md",
     "Physik/Millikan-Versuch.md",
