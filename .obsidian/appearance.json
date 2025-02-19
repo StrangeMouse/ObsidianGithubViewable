@@ -1,6 +1,7 @@
 {
   "enabledCssSnippets": [
-    "fonts"
+    "fonts",
+    "S - Embed Adjustments"
   ],
   "textFontFamily": "Inter,MyFontLarge",
   "baseFontSizeAction": true,

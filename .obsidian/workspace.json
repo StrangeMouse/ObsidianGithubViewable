@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "f27648864e984d72",
+        "id": "09061c7e3e2acfdc",
         "type": "tabs",
         "children": [
           {
-            "id": "36fad6c35cfb3780",
+            "id": "879a5d4e131fe078",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Elektrisches Feld.md",
+                "file": "Physik/Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elektrisches Feld"
+              "title": "Index"
+            }
+          },
+          {
+            "id": "147a4281d098be9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physik/Elektrische Spannung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elektrische Spannung"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physik/Elektrisches Feld.md",
+                "file": "Physik/Elektrische Spannung.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Elektrisches Feld"
+              "title": "Outline of Elektrische Spannung"
             }
           },
           {
@@ -180,21 +195,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "175cccdaf3b32514",
+  "active": "147a4281d098be9d",
   "lastOpenFiles": [
-    "Physik/Elektrische Ladung.md",
+    "Physik/Index.md",
+    "Physik/Elektrische Spannung.md",
+    "Physik/Elektrisches Potenzial.md",
     "Physik/Elektrisches Feld.md",
+    "Physik/attachments/Elektrisches Potenzial 2025-02-18 17.38.17.excalidraw.md",
+    "Physik/Plattenkondensator.md",
+    "Physik/Millikan-Versuch.md",
+    "Physik/Elektrische Ladung.md",
+    "Physik/attachments/Elektrisches Feld 2025-02-17 20.37.23.excalidraw.md",
+    "Physik/attachments/Elektrisches Feld 2025-02-16 20.55.25.excalidraw.md",
+    "Physik/Quantelung.md",
+    "Physik/attachments/Pasted image 20250218164405.png",
+    "Physik/attachments/test.md",
     "conflict-files-obsidian-git.md",
     "Templates/Excalidraw.md",
     "Templates",
     "Physik/attachments/Elektrisches Feld 2025-02-17 20.50.58.excalidraw.md",
-    "Physik/attachments/Elektrisches Feld 2025-02-17 20.37.23.excalidraw.md",
     "Physik/attachments/Elektrisches Feld 2025-02-17 20.30.52.excalidraw.md",
-    "Physik/Plattenkondensator.md",
-    "Physik/Millikan-Versuch.md",
-    "Physik/attachments/Elektrisches Feld 2025-02-16 20.55.25.excalidraw.md",
     "Physik/attachments",
-    "Physik/Index.md",
     "Private/Amazon list.md",
     "Geschichte/Writing File.md",
     "Geschichte",

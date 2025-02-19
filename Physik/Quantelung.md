@@ -1,0 +1,2 @@
+- Aufteilung einer Größe in diskrete Mindestwerte
+- Beispiel: Ladung ist in Elektronen und Protonen gequantelt
