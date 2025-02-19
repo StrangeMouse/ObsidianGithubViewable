@@ -11,14 +11,10 @@
             "id": "2217ba8f9f8d1fb5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physik/Plattenkondensator.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plattenkondensator"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -167,13 +163,14 @@
   },
   "active": "2217ba8f9f8d1fb5",
   "lastOpenFiles": [
-    "Physik/Millikan-Versuch.md",
-    "Physik/Elektrische Ladung.md",
-    "Physik/Elektrisches Feld.md",
+    "Physik/Quantelung.md",
     "Physik/Index.md",
+    "Physik/Millikan-Versuch.md",
+    "Physik/Elektrisches Feld.md",
+    "Physik/Plattenkondensator.md",
+    "Physik/Elektrische Ladung.md",
     "Physik/attachments/Elektrisches Potenzial 2025-02-18 17.38.17.excalidraw.md",
     "Physik/Elektrisches Potenzial.md",
-    "Physik/Quantelung.md",
     "/Physik/Elektrische Ladung.md",
     "/Physik/attachments/Elektrisches Potenzial 2025-02-18 17.38.17.excalidraw.md",
     "/Physik/attachments/Elektrisches Feld 2025-02-17 20.37.23.excalidraw.md",
@@ -189,7 +186,6 @@
     "Physik/attachments/Elektrisches Feld 2025-02-16 20.55.25.excalidraw.md",
     "Physik/attachments/Elektrisches Feld 2025-02-17 20.50.58.excalidraw.md",
     "/Physik/Elektrisches Feld.md",
-    "Physik/Plattenkondensator.md",
     "Physik/attachments/Elektrisches Feld 2025-02-17 20.30.52.excalidraw.md",
     "Templates/Excalidraw.md",
     "Physik/attachments/Elektrisches Feld 2025-02-17 20.37.23.excalidraw.md",

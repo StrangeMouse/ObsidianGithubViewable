@@ -15,7 +15,7 @@
 
 ### [[Elektrische Ladung]]
 - Ladung als Erhaltungsgröße
-- Millikanversuch (Quantelung der Ladung)
+- [[Millikan-Versuch]] ([[Quantelung]] der Ladung)
 
 ### [[Elektrisches Potenzial]]
 - Potenzial in Elektrischen Feldern
