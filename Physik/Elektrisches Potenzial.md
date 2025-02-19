@@ -1,5 +1,5 @@
 Maß für die Arbeit, die ein [[Elektrisches Feld]] an einer Elektrischen Ladung verrichten kann
-Es entspricht der Potenziellen Energie pro [[Elektrische Ladung|Ladung]]:
+Es entspricht der Potenziellen Energie pro [[Elektrische Ladung|Ladung]] (Volt):
 $$\varphi=\frac{E_{pot}}{q}$$
 
 ### Potenzial in bestimmten [[Elektrisches Feld|elektrischen Feldern]]
