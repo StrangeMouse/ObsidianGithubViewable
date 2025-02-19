@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Physik  ",
@@ -15,10 +15,17 @@
       }
     },
     {
-      "query": "path:",
+      "query": "path:Private  ",
       "color": {
         "a": 1,
         "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:Mathe  ",
+      "color": {
+        "a": 1,
+        "rgb": 65535
       }
     }
   ],
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.37983692987045,
+  "scale": 1.5701986039566753,
   "close": false
 }

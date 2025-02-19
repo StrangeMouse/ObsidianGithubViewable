@@ -1,2 +1,2 @@
-Potenzialdifferenz zwischen zwei Punkten
+[[Physik/Elektrisches Potenzial|Potenzial]]differenz zwischen zwei Punkten
 
