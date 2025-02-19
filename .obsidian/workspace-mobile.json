@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Elektrische Spannung.md",
+                "file": "Physik/Elektrische Ladung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elektrische Spannung"
+              "title": "Elektrische Ladung"
             }
           },
           {
@@ -177,8 +177,8 @@
   },
   "active": "a79ddd990d53a0a3",
   "lastOpenFiles": [
-    "Physik/Elektrisches Feld.md",
     "Physik/Elektrische Spannung.md",
+    "Physik/Elektrisches Feld.md",
     "Physik/Elektrisches Potenzial.md",
     "Physik/Millikan-Versuch.md",
     "Physik/Elektrische Ladung.md",
