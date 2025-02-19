@@ -166,7 +166,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/Index.md",
+            "file": "Physik/Elektrische Spannung.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -200,10 +200,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1b89b2d95ee09be0",
+  "active": "8375f2192f10930d",
   "lastOpenFiles": [
-    "Physik/Elektrische Spannung.md",
     "Physik/Index.md",
+    "Physik/Elektrische Spannung.md",
     "Physik/Elektrisches Potenzial.md",
     "Physik/Elektrisches Feld.md",
     "Physik/Elektrische Ladung.md",
