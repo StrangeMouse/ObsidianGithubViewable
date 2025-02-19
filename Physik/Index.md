@@ -31,7 +31,7 @@
 - Stromstärke als Ladung pro Zeit
 - Stromstärke als Ableitung der Ladung über Zeit
 
-### Plattenkondensator
+### [[Plattenkondensator]]
 - Feldstärke
 - Feldenergie
 - Definition der Kapazität
