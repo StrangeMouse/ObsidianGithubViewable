@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Elektrische Spannung.md",
+                "file": "Physik/Elektrische Stromstärke.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elektrische Spannung"
+              "title": "Elektrische Stromstärke"
             }
           }
         ]
@@ -167,7 +167,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/Elektrische Spannung.md",
+            "file": "Physik/Elektrische Stromstärke.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -203,8 +203,9 @@
   },
   "active": "8375f2192f10930d",
   "lastOpenFiles": [
-    "Physik/Index.md",
     "Physik/Elektrische Spannung.md",
+    "Physik/Elektrische Stromstärke.md",
+    "Physik/Index.md",
     "Physik/Elektrisches Potenzial.md",
     "Physik/Elektrisches Feld.md",
     "Physik/Elektrische Ladung.md",
@@ -232,7 +233,6 @@
     "Excalidraw",
     "Templates",
     "Physik/attachments/Index 2025-02-17 20.29.51.excalidraw.md",
-    "Influenz.md",
     "Physik/attachments",
     "Geschichte",
     "Mathe",

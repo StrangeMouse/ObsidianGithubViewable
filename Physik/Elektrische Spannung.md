@@ -4,4 +4,4 @@
 $$U=\varphi_1-\varphi_2=\frac{E_{pot_1}-E_{pot_2}}{q}$$
 - Ursache des [[Elektrische Stromstärke|elektrischen Stromes]]
 	- "Antrieb" der Elektronen
-	- Analog zu Druck in Hydrostatischen 
+	- Analog zu Druck in hydraulischen Systemen
