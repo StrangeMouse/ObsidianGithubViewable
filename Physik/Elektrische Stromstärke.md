@@ -1,0 +1,1 @@
+Maß für die Menge an [[Elektrische Ladung|Ladung]] 

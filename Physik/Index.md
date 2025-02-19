@@ -27,7 +27,7 @@
 - Spannung als Energie pro Ladung
 - Spannung als Potenzialdifferenz
 
-### Elektrische Stromstärke
+### [[Elektrische Stromstärke]]
 - Stromstärke als Ladung pro Zeit
 - Stromstärke als Ableitung der Ladung über Zeit
 
