@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d2488d25331f6ba0",
+        "id": "d2467d2d79a047c0",
         "type": "tabs",
         "children": [
           {
-            "id": "217c28b9c46ffc3b",
+            "id": "8375f2192f10930d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Physik/Elektrisches Potenzial.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Elektrisches Potenzial"
             }
           }
         ]
@@ -161,12 +165,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "217c28b9c46ffc3b",
+  "active": "8375f2192f10930d",
   "lastOpenFiles": [
     "Physik/Elektrische Spannung.md",
+    "Physik/Elektrisches Potenzial.md",
     "Physik/Elektrische Ladung.md",
     "Physik/Elektrisches Feld.md",
-    "Physik/Elektrisches Potenzial.md",
     "Physik/Millikan-Versuch.md",
     "Physik/Plattenkondensator.md",
     "Physik/Index.md",
