@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1a2e85cee1e15873",
+        "id": "d2488d25331f6ba0",
         "type": "tabs",
         "children": [
           {
-            "id": "a79ddd990d53a0a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physik/Elektrische Ladung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Elektrische Ladung"
-            }
-          },
-          {
-            "id": "2802588174fc55d3",
+            "id": "217c28b9c46ffc3b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -175,13 +161,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a79ddd990d53a0a3",
+  "active": "217c28b9c46ffc3b",
   "lastOpenFiles": [
     "Physik/Elektrische Spannung.md",
+    "Physik/Elektrische Ladung.md",
     "Physik/Elektrisches Feld.md",
     "Physik/Elektrisches Potenzial.md",
     "Physik/Millikan-Versuch.md",
-    "Physik/Elektrische Ladung.md",
     "Physik/Plattenkondensator.md",
     "Physik/Index.md",
     "Physik/Quantelung.md",
