@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Elektrische Ladung.md",
+                "file": "Physik/Plattenkondensator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elektrische Ladung"
+              "title": "Plattenkondensator"
             }
           }
         ]
@@ -167,6 +167,10 @@
   },
   "active": "2217ba8f9f8d1fb5",
   "lastOpenFiles": [
+    "Physik/Millikan-Versuch.md",
+    "Physik/Elektrische Ladung.md",
+    "Physik/Elektrisches Feld.md",
+    "Physik/Index.md",
     "Physik/attachments/Elektrisches Potenzial 2025-02-18 17.38.17.excalidraw.md",
     "Physik/Elektrisches Potenzial.md",
     "Physik/Quantelung.md",
@@ -182,14 +186,10 @@
     "/Physik/Elektrische Spannung.md",
     "Physik/Elektrische Spannung.md",
     "/Physik",
-    "Physik/Millikan-Versuch.md",
-    "Physik/Elektrisches Feld.md",
     "Physik/attachments/Elektrisches Feld 2025-02-16 20.55.25.excalidraw.md",
     "Physik/attachments/Elektrisches Feld 2025-02-17 20.50.58.excalidraw.md",
     "/Physik/Elektrisches Feld.md",
-    "Physik/Elektrische Ladung.md",
     "Physik/Plattenkondensator.md",
-    "Physik/Index.md",
     "Physik/attachments/Elektrisches Feld 2025-02-17 20.30.52.excalidraw.md",
     "Templates/Excalidraw.md",
     "Physik/attachments/Elektrisches Feld 2025-02-17 20.37.23.excalidraw.md",
