@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Elektrische Stromstärke.md",
+                "file": "Private/Mashups.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elektrische Stromstärke"
+              "title": "Mashups"
             }
           },
           {
@@ -160,7 +160,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/Elektrische Stromstärke.md",
+            "file": "Private/Mashups.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -180,7 +180,7 @@
         }
       }
     ],
-    "currentTab": 2
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,10 +196,11 @@
   },
   "active": "8375f2192f10930d",
   "lastOpenFiles": [
+    "Physik/Elektrische Stromstärke.md",
+    "Private/Mashups.md",
     "Physik/Elektrische Spannung.md",
     "Physik/Index.md",
     "Physik/Elektrisches Potenzial.md",
-    "Physik/Elektrische Stromstärke.md",
     "Physik/Elektrisches Feld.md",
     "Physik/Elektrische Ladung.md",
     "Physik/Millikan-Versuch.md",
@@ -225,7 +226,6 @@
     "Physik/attachments/Elektrisches Feld 2025-02-17 20.37.23.excalidraw.md",
     "Excalidraw",
     "Templates",
-    "Physik/attachments/Index 2025-02-17 20.29.51.excalidraw.md",
     "Physik/attachments",
     "Geschichte",
     "Mathe",
