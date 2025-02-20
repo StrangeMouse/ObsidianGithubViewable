@@ -64,6 +64,30 @@
             }
           },
           {
+            "id": "bd674db66ed054a4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Physik/attachments/Plattenkondensator 2025-02-20 18.42.29.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Plattenkondensator 2025-02-20 18.42.29.excalidraw"
+            }
+          },
+          {
+            "id": "8e3b7ece2b5c2203",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Templates/Excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw"
+            }
+          },
+          {
             "id": "c0164132d98f8540",
             "type": "leaf",
             "state": {
@@ -78,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -189,7 +213,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/Plattenkondensator.md",
+            "file": "Physik/attachments/Plattenkondensator 2025-02-20 18.42.29.excalidraw.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -223,10 +247,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a3662bb954e98136",
+  "active": "bd674db66ed054a4",
   "lastOpenFiles": [
-    "Physik/Index.md",
+    "Templates/Excalidraw.md",
+    "Physik/attachments/Plattenkondensator 2025-02-20 18.42.29.excalidraw.md",
     "Physik/Plattenkondensator.md",
+    "Physik/Index.md",
     "Physik/Elektrische Stromstärke.md",
     "Physik/Dielektrikum.md",
     "Physik/Elektrisches Feld.md",
@@ -251,8 +277,6 @@
     "/Physik/Elektrische Spannung.md",
     "/Physik",
     "Physik/attachments/Elektrisches Feld 2025-02-17 20.50.58.excalidraw.md",
-    "/Physik/Elektrisches Feld.md",
-    "Physik/attachments/Elektrisches Feld 2025-02-17 20.30.52.excalidraw.md",
     "Excalidraw",
     "Templates",
     "Physik/attachments",
