@@ -76,18 +76,6 @@
             }
           },
           {
-            "id": "8e3b7ece2b5c2203",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Templates/Excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Excalidraw"
-            }
-          },
-          {
             "id": "c0164132d98f8540",
             "type": "leaf",
             "state": {
@@ -102,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -247,10 +235,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8e3b7ece2b5c2203",
+  "active": "bd674db66ed054a4",
   "lastOpenFiles": [
-    "Physik/attachments/Plattenkondensator 2025-02-20 18.42.29.excalidraw.md",
     "Templates/Excalidraw.md",
+    "Physik/attachments/Plattenkondensator 2025-02-20 18.42.29.excalidraw.md",
     "Physik/Plattenkondensator.md",
     "Physik/Index.md",
     "Physik/Elektrische Stromstärke.md",
