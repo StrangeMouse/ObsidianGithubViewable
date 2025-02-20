@@ -1,0 +1,1 @@
+Elektischer Isolator, in dem sich ein elektisches Feld 

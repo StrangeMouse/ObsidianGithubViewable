@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Plattenkondensator.md",
+                "file": "Physik/Dielektrikum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plattenkondensator"
+              "title": "Dielektrikum"
             }
           },
           {
@@ -225,8 +225,9 @@
   },
   "active": "f301b3f4d771e17f",
   "lastOpenFiles": [
-    "Physik/Elektrische Stromstärke.md",
     "Physik/Plattenkondensator.md",
+    "Physik/Dielektrikum.md",
+    "Physik/Elektrische Stromstärke.md",
     "Physik/Index.md",
     "Physik/Elektrisches Feld.md",
     "Physik/attachments/Elektrisches Feld 2025-02-16 20.55.25.excalidraw.md",
@@ -252,7 +253,6 @@
     "Physik/attachments/Elektrisches Feld 2025-02-17 20.50.58.excalidraw.md",
     "/Physik/Elektrisches Feld.md",
     "Physik/attachments/Elektrisches Feld 2025-02-17 20.30.52.excalidraw.md",
-    "Templates/Excalidraw.md",
     "Excalidraw",
     "Templates",
     "Physik/attachments",
