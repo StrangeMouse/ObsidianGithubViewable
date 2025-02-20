@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Index.md",
+                "file": "Physik/Plattenkondensator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Plattenkondensator"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Elektrische Spannung"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physik/Elektrische Spannung.md",
+                "file": "Physik/Plattenkondensator.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Elektrische Spannung"
+              "title": "Outline of Plattenkondensator"
             }
           },
           {
@@ -177,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -195,10 +194,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "147a4281d098be9d",
+  "active": "879a5d4e131fe078",
   "lastOpenFiles": [
     "Physik/Index.md",
     "Physik/Elektrische Spannung.md",
+    "Private/Movies.md",
+    "Private/Mashups.md",
+    "Physik/attachments/Plattenkondensator 2025-02-20 18.42.29.excalidraw.md",
+    "Physik/Elektrische Stromstärke.md",
+    "Physik/Dielektrikum.md",
     "Physik/Elektrisches Potenzial.md",
     "Physik/Elektrisches Feld.md",
     "Physik/attachments/Elektrisches Potenzial 2025-02-18 17.38.17.excalidraw.md",
@@ -223,7 +227,6 @@
     "Physik/Elektrisch.md",
     "Mathe",
     "Doppelspaltversuche.md",
-    "Elektromagnetischer Schwingkreis.md",
     "Private"
   ]
 }
