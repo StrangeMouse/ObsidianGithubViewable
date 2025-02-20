@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Elektrische Spannung"
             }
+          },
+          {
+            "id": "d9558b0f86f46f95",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,13 +169,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physik/Elektrische Spannung.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Elektrische Spannung"
+              "title": "Outline"
             }
           },
           {
@@ -195,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "147a4281d098be9d",
+  "active": "d9558b0f86f46f95",
   "lastOpenFiles": [
     "Physik/Index.md",
     "Physik/Elektrische Spannung.md",
