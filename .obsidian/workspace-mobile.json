@@ -53,12 +53,14 @@
             "id": "a3662bb954e98136",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Physik/attachments/Plattenkondensator 2025-02-20 18.42.29.excalidraw.md"
+                "file": "Physik/Plattenkondensator.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Plattenkondensator 2025-02-20 18.42.29.excalidraw"
+              "icon": "lucide-file",
+              "title": "Plattenkondensator"
             }
           },
           {
@@ -76,8 +78,7 @@
             }
           }
         ],
-        "currentTab": 3,
-        "stacked": true
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -223,8 +224,8 @@
   },
   "active": "a3662bb954e98136",
   "lastOpenFiles": [
-    "Physik/Plattenkondensator.md",
     "Physik/attachments/Plattenkondensator 2025-02-20 18.42.29.excalidraw.md",
+    "Physik/Plattenkondensator.md",
     "Physik/Elektrisches Feld.md",
     "Templates/Excalidraw.md",
     "Physik/Index.md",
