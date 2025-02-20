@@ -50,6 +50,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -160,7 +161,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/Elektrische Spannung.md",
+            "file": "Physik/Elektrische Stromstärke.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -194,13 +195,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8375f2192f10930d",
+  "active": "8e6cc12f5c67936d",
   "lastOpenFiles": [
+    "Physik/Elektrische Spannung.md",
     "Physik/Elektrische Stromstärke.md",
     "Physik/Index.md",
     "Physik/Elektrisches Feld.md",
     "Private/Movies.md",
-    "Physik/Elektrische Spannung.md",
     "Physik/Millikan-Versuch.md",
     "Private/Mashups.md",
     "Physik/Elektrisches Potenzial.md",
