@@ -50,18 +50,6 @@
             }
           },
           {
-            "id": "a3662bb954e98136",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-02-20 23.23.18.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-20 23.23.18.excalidraw"
-            }
-          },
-          {
             "id": "c0164132d98f8540",
             "type": "leaf",
             "state": {
@@ -76,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -220,11 +208,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a3662bb954e98136",
+  "active": "8e6cc12f5c67936d",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-02-20 23.23.18.excalidraw.md",
+    "/Physik/Plattenkondensator.md",
+    "/Physik",
     "Physik/Plattenkondensator.md",
     "Templates/Excalidraw.md",
-    "Excalidraw/Drawing 2025-02-20 23.23.18.excalidraw.md",
     "Physik/Index.md",
     "Physik/attachments/Plattenkondensator 2025-02-20 18.42.29.excalidraw.md",
     "Physik/Elektrisches Feld.md",
@@ -248,8 +238,6 @@
     "/Physik/attachments/Elektrisches Feld 2025-02-16 20.55.25.excalidraw.md",
     "/Physik/attachments",
     "/Physik/Quantelung.md",
-    "/Physik/Elektrische Spannung.md",
-    "/Physik",
     "Excalidraw",
     "Templates",
     "Physik/attachments",
