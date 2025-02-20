@@ -90,6 +90,7 @@
             }
           }
         ],
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -234,7 +235,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "de51f9fd026dd7a5",
+  "active": "bd674db66ed054a4",
   "lastOpenFiles": [
     "Physik/Elektrisches Feld.md",
     "Physik/Plattenkondensator.md",
