@@ -3,7 +3,8 @@
     "fonts",
     "S - Embed Adjustments"
   ],
-  "textFontFamily": "MyFontLarge,Inter",
+  "textFontFamily": "Inter,MyFontLarge",
   "baseFontSizeAction": true,
-  "baseFontSize": 20
+  "baseFontSize": 20,
+  "theme": "moonstone"
 }
