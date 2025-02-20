@@ -3,7 +3,7 @@
     "fonts",
     "S - Embed Adjustments"
   ],
-  "textFontFamily": "Inter,MyFontLarge",
+  "textFontFamily": "MyFontLarge,Inter",
   "baseFontSizeAction": true,
   "baseFontSize": 20
 }
