@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -247,10 +247,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bd674db66ed054a4",
+  "active": "8e3b7ece2b5c2203",
   "lastOpenFiles": [
-    "Templates/Excalidraw.md",
     "Physik/attachments/Plattenkondensator 2025-02-20 18.42.29.excalidraw.md",
+    "Templates/Excalidraw.md",
     "Physik/Plattenkondensator.md",
     "Physik/Index.md",
     "Physik/Elektrische Stromstärke.md",
