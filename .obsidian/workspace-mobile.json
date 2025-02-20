@@ -50,7 +50,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -161,7 +160,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/Index.md",
+            "file": "Physik/Elektrische Spannung.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -195,12 +194,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c0164132d98f8540",
+  "active": "8375f2192f10930d",
   "lastOpenFiles": [
-    "Physik/Elektrisches Feld.md",
-    "Physik/Index.md",
-    "Private/Movies.md",
     "Physik/Elektrische Stromstärke.md",
+    "Physik/Index.md",
+    "Physik/Elektrisches Feld.md",
+    "Private/Movies.md",
     "Physik/Elektrische Spannung.md",
     "Physik/Millikan-Versuch.md",
     "Private/Mashups.md",
