@@ -7,6 +7,8 @@ Passives elektrisches Bauelement bestehend aus zwei leitenden Platten und einem 
 ### Feldstärke
 - Allgemein: $\displaystyle\vec E=\frac{\vec F}{q}$
 - Abhängig von Abstand und Spannung: $\displaystyle\vec E =\frac{U}{d}$
-	- Je größer die Spannung und je kleiner der Abstand, desto größer das Feld
-	- Spannung von außen entspricht genau dem elektrischen Feld in dem Kondensator $$\displaylines{E_{pot}=\vec{F}\cdot s\\\frac{E_{pot}}{Q}=\frac{\vec{F}\cdot s}{Q}}$$
+	- Je größer die Spannung und je kleiner der Abstand, desto größer das Feld 
+
+> [!Noch drüber Nachdenken:]
+> - Spannung von außen entspricht genau dem elektrischen Feld in dem Kondensator $$\displaylines{E_{pot}=\vec{F}\cdot s\\\frac{E_{pot}}{Q}=\frac{\vec{F}\cdot s}{Q}}$$
 
