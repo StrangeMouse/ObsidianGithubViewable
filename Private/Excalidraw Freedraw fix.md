@@ -1,1 +1,2 @@
+- bump schema version to 3 [link to post](https://github.com/excalidraw/excalidraw/issues/3693#issuecomment-1024999153)
 - 
