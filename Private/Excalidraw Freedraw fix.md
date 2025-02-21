@@ -1,2 +1,5 @@
+- Issue:
+	- line thickness is applied to both shapes 
+	- Pen thickness **way too thick** in comparison to shapes
 - bump schema version to 3 [link to post](https://github.com/excalidraw/excalidraw/issues/3693#issuecomment-1024999153)
-- 
+- change renderer multiplier
