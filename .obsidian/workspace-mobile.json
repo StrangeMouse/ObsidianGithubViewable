@@ -71,8 +71,8 @@
               "state": {
                 "file": "Excalidraw/Drawing 2025-02-20 23.23.18.excalidraw.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-20 23.23.18.excalidraw"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -215,8 +215,8 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       }
     ],
