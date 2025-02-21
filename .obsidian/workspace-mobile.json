@@ -78,18 +78,6 @@
             }
           },
           {
-            "id": "8e6cc12f5c67936d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-02-20 23.23.18.excalidraw.md"
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
             "id": "c0164132d98f8540",
             "type": "leaf",
             "state": {
@@ -104,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -248,15 +236,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d34ede12b3125bfc",
+  "active": "718632778fe6a629",
   "lastOpenFiles": [
+    "Physik/Elektrisches Feld.md",
+    "Private/Excalidraw Freedraw fix.md",
+    "Excalidraw/Drawing 2025-02-20 23.23.18.excalidraw.md",
     "Physik/Plattenkondensator.md",
     "Physik/Index.md",
     "Physik/Elektrisches Potenzial.md",
     "Physik/Elektrische Spannung.md",
-    "Private/Excalidraw Freedraw fix.md",
-    "Excalidraw/Drawing 2025-02-20 23.23.18.excalidraw.md",
-    "Physik/Elektrisches Feld.md",
     "Geschichte/Writing File.md",
     "Physik/Elektrische Stromstärke.md",
     "/Physik/Plattenkondensator.md",
