@@ -12,4 +12,5 @@ Passives elektrisches Bauelement bestehend aus zwei leitenden Platten und einem 
 > - Spannung von außen entspricht genau dem elektrischen Feld in dem Kondensator $$\displaylines{E_{pot}=\vec{F}\cdot s\\\frac{E_{pot}}{Q}=\frac{\vec{F}\cdot s}{Q}}$$
 
 ### Feldenergie
-- Energie im Feld entspricht der Potenziellen 
+- Energie im Feld entspricht der Potenziellen Energie aller Elektronen auf den Platten
+- 
