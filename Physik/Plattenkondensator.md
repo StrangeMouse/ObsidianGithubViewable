@@ -7,5 +7,5 @@ Passives elektrisches Bauelement bestehend aus zwei leitenden Platten und einem 
 ### Feldstärke
 - Allgemein: $\displaystyle\vec E=\frac{\vec F}{q}$
 - Abhängig von Abstand und Spannung: $\displaystyle\vec E =\frac{U}{d}$
-	- Je 
+	- Je größer die Spannung und je kleiner der Abstand, desto größer das Feld
 
