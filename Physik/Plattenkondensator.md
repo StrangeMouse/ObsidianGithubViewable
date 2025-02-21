@@ -2,7 +2,6 @@ Passives elektrisches Bauelement bestehend aus zwei leitenden Platten und einem 
 ![[Plattenkondensator 2025-02-20 18.42.29.excalidraw]]
 ### Kapazität
 - Beschreibt Verhältnis aus Spannung und gespeicherter Ladung in der Einheit Farad$$C=\frac{Q}{U};\space [C]=F$$
-- 
 
 ### Feldstärke
 - Allgemein: $\displaystyle\vec E=\frac{\vec F}{q}$
@@ -12,3 +11,5 @@ Passives elektrisches Bauelement bestehend aus zwei leitenden Platten und einem 
 > [!Noch drüber Nachdenken:]
 > - Spannung von außen entspricht genau dem elektrischen Feld in dem Kondensator $$\displaylines{E_{pot}=\vec{F}\cdot s\\\frac{E_{pot}}{Q}=\frac{\vec{F}\cdot s}{Q}}$$
 
+### Feldenergie
+- Energie im Feld entspricht der Potenziellen 
