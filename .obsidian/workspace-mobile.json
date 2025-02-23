@@ -64,6 +64,18 @@
             }
           },
           {
+            "id": "4cdb6de73c24481f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Physik/attachments/Plattenkondensator 2025-02-23 21.44.58.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Plattenkondensator 2025-02-23 21.44.58.excalidraw"
+            }
+          },
+          {
             "id": "362b30ad6565f0ed",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -202,7 +214,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/Plattenkondensator.md",
+            "file": "Physik/attachments/Plattenkondensator 2025-02-23 21.44.58.excalidraw.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -236,11 +248,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "213a4717f13ad0b0",
+  "active": "4cdb6de73c24481f",
   "lastOpenFiles": [
+    "Physik/Plattenkondensator.md",
+    "Physik/attachments/Plattenkondensator 2025-02-23 21.44.58.excalidraw.md",
     "Physik/Ohm'sches Gesetz.md",
     "Physik/Index.md",
-    "Physik/Plattenkondensator.md",
     "Physik/Elektrische Spannung.md",
     "Physik/attachments/Plattenkondensator 2025-02-23 17.15.02.excalidraw.md",
     "Physik/Elektrische Stromstärke.md",
@@ -264,7 +277,6 @@
     "/Physik/Elektrische Ladung.md",
     "/Physik/attachments/Elektrisches Potenzial 2025-02-18 17.38.17.excalidraw.md",
     "/Physik/attachments/Elektrisches Feld 2025-02-17 20.37.23.excalidraw.md",
-    "/Physik/Millikan-Versuch.md",
     "/Physik/attachments",
     "Excalidraw",
     "Templates",

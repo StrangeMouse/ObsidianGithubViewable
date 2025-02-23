@@ -22,5 +22,5 @@ Passives elektrisches Bauelement bestehend aus zwei leitenden Platten und einem 
 - Bei einer Parallelschaltung wirken die Zwei Kondensatoren wie ein Kondensator mit der Kapazität der Summe der beiden einzelnen![[Plattenkondensator 2025-02-23 17.15.02.excalidraw|50%]]
 
 ### Auf- und Entladevorgänge
-- ![[Ohm'sches Gesetz]]
-- Daraus folgt für den Kondensator:$$$$ 
+- Die Auf- und Entladevorgänge sind durch jeweils eine Exponentialfunktion beschrieben:
+- ![[Plattenkondensator 2025-02-23 21.44.58.excalidraw]]
