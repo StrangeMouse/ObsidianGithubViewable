@@ -20,3 +20,6 @@ Passives elektrisches Bauelement bestehend aus zwei leitenden Platten und einem 
 
 ### Parallelschaltung von Kondensatoren
 - Bei einer Parallelschaltung wirken die Zwei Kondensatoren wie ein Kondensator mit der Kapazität der Summe der beiden einzelnen![[Plattenkondensator 2025-02-23 17.15.02.excalidraw|50%]]
+
+### Auf- und Entladevorgänge
+- 
