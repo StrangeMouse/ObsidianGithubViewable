@@ -19,4 +19,4 @@ Passives elektrisches Bauelement bestehend aus zwei leitenden Platten und einem 
 - Daraus folgt:$$\begin{align}E_{pot}&=\int Q \cdot U \, dU\\E_{pot} &= \int C \cdot U^2 \, dU \\ \Aboxed{ E_{pot} &= \frac 1 2 \ C \cdot U  }\end {align}$$
 
 ### Parallelschaltung von Kondensatoren
-- ![[Plattenkondensator 2025-02-23 17.15.02.excalidraw]]Bei einer Parallelschaltung Wirken die Zwei Kondensatoren wie ein Kondensator mit der Kapazität der Summe der beiden einzelnen
+- ![[Plattenkondensator 2025-02-23 17.15.02.excalidraw|50%]]Bei einer Parallelschaltung Wirken die Zwei Kondensatoren wie ein Kondensator mit der Kapazität der Summe der beiden einzelnen
