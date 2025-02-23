@@ -23,4 +23,4 @@ Passives elektrisches Bauelement bestehend aus zwei leitenden Platten und einem 
 
 ### Auf- und Entladevorgänge
 - Die Auf- und Entladevorgänge sind durch jeweils eine Exponentialfunktion beschrieben:![[Plattenkondensator 2025-02-23 21.44.58.excalidraw]]
-- Für den Entladevorgang folgt dies aus der Folgenden Differentialgleichung: $$\begin{align} I&=\frac U R \\ I &= \end{align}$$
+- Für den Entladevorgang folgt dies aus der Folgenden Differentialgleichung: $$\begin{align} I(t)&=\frac U R \\ I&= \frac {\frac Q C} R\end{align}$$
