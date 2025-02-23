@@ -36,18 +36,6 @@
             }
           },
           {
-            "id": "53a5f19022a55ffa",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Physik/attachments/Plattenkondensator 2025-02-23 17.15.02.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Plattenkondensator 2025-02-23 17.15.02.excalidraw"
-            }
-          },
-          {
             "id": "983e664cb090718f",
             "type": "leaf",
             "state": {
@@ -90,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -234,7 +222,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "983e664cb090718f",
+  "active": "8375f2192f10930d",
   "lastOpenFiles": [
     "Physik/attachments/Plattenkondensator 2025-02-23 17.15.02.excalidraw.md",
     "Physik/Plattenkondensator.md",
