@@ -2,7 +2,7 @@ Passives elektrisches Bauelement bestehend aus zwei leitenden Platten und einem 
 ![[Plattenkondensator 2025-02-20 18.42.29.excalidraw]]
 ### Kapazität
 - Beschreibt Verhältnis aus Spannung und gespeicherter Ladung in der Einheit Farad$$C=\frac{Q}{U};\space [C]=F$$
-- Herleitung über [[Elektrisches Feld#Flächenladungsdichte (Verschiebungsdichte)|Flächenladungsdichte]]:$$\displaylines{\sigma=\frac Q A=\varepsilon_0\cdot\varepsilon_r\cdot\vec E\\ \vec E=\frac U d\\ \frac Q A=\varepsilon_0\cdot\varepsilon_r\cdot\frac U d\\\frac Q U = \varepsilon_0\cdot\varepsilon_r\cdot\frac A d}$$
+- Herleitung über [[Elektrisches Feld#Flächenladungsdichte (Verschiebungsdichte)|Flächenladungsdichte]]:$$\displaylines{ \sigma=\frac Q A=\varepsilon_0\cdot\varepsilon_r\cdot\vec E\\ \vec E=\frac U d\\ \frac Q A=\varepsilon_0\cdot\varepsilon_r\cdot\frac U d\\\frac Q U = \varepsilon_0\cdot\varepsilon_r\cdot\frac A d}$$
 
 ### Feldstärke
 - Allgemein: $\displaystyle\vec E=\frac{\vec F}{q}$
