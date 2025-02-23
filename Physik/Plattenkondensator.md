@@ -2,7 +2,7 @@ Passives elektrisches Bauelement bestehend aus zwei leitenden Platten und einem 
 ![[Plattenkondensator 2025-02-20 18.42.29.excalidraw]]
 ### Kapazität
 - Beschreibt Verhältnis aus Spannung und gespeicherter Ladung in der Einheit Farad$$C=\frac{Q}{U};\space [C]=F$$
-- Herleitung über [[Elektrisches Feld#Flächenladungsdichte (Verschiebungsdichte)|Flächenladungsdichte]]:$$\displaylines{\begin{aligned}\sigma&=\frac Q A=\varepsilon_0\cdot\varepsilon_r\cdot\vec E \quad &(1)\\\\ \vec E&=\frac U d \quad &(2)\\\\ \text{Aus (1) und (2):}\quad \frac Q A&=\varepsilon_0\cdot\varepsilon_r\cdot\frac U d \\\\ \frac Q U &= \varepsilon_0\cdot\varepsilon_r\cdot\frac A d \\\\ C &=\varepsilon_0\cdot\varepsilon_r\cdot\frac A d \end{aligned}}$$
+- Herleitung über [[Elektrisches Feld#Flächenladungsdichte (Verschiebungsdichte)|Flächenladungsdichte]]:$$\displaylines{\begin{aligned}\sigma&=\frac Q A=\varepsilon_0\cdot\varepsilon_r\cdot\vec E \quad &(1)\\\\ \vec E&=\frac U d \quad &(2)\\\\ \text{Aus (1) und (2):}\quad \frac Q A&=\varepsilon_0\cdot\varepsilon_r\cdot\frac U d \\ \frac Q U &= \varepsilon_0\cdot\varepsilon_r\cdot\frac A d \\ C &=\varepsilon_0\cdot\varepsilon_r\cdot\frac A d \end{aligned}}$$
 
 ### Feldstärke
 - Allgemein: $\displaystyle\vec E=\frac{\vec F}{q}$
@@ -17,3 +17,5 @@ Passives elektrisches Bauelement bestehend aus zwei leitenden Platten und einem 
 - Ladung auf den Platten: $\quad Q=C\cdot U$
 - Potenzielle Energie: $\quad E_{pot}=\int Q \cdot U\,dU$
 - Daraus folgt:$$\begin{align}E_{pot}&=\int Q \cdot U \, dU\\E_{pot} &= \int C \cdot U^2 \, dU \\ E_{pot} &= \frac 1 2 \ C \cdot U  \end {align}$$
+
+### 
