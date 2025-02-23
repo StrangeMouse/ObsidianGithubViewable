@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,10 +222,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "362b30ad6565f0ed",
+  "active": "983e664cb090718f",
   "lastOpenFiles": [
-    "Physik/Elektrische Stromstärke.md",
     "Physik/Index.md",
+    "Physik/Elektrische Stromstärke.md",
     "Private/Excalidraw Freedraw fix.md",
     "Physik/Elektrisches Feld.md",
     "Physik/Elektrische Spannung.md",
