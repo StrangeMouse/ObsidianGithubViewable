@@ -50,16 +50,6 @@
             }
           },
           {
-            "id": "718632778fe6a629",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "c0164132d98f8540",
             "type": "leaf",
             "state": {
@@ -220,9 +210,9 @@
   },
   "active": "983e664cb090718f",
   "lastOpenFiles": [
+    "Physik/Plattenkondensator.md",
     "Physik/Index.md",
     "Physik/attachments/Plattenkondensator 2025-02-20 18.42.29.excalidraw.md",
-    "Physik/Plattenkondensator.md",
     "Physik/Elektrisches Feld.md",
     "Physik/Elektrische Spannung.md",
     "Private/Excalidraw Freedraw fix.md",
