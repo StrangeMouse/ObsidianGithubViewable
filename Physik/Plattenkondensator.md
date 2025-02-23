@@ -15,4 +15,5 @@ Passives elektrisches Bauelement bestehend aus zwei leitenden Platten und einem 
 ### Feldenergie
 - Energie im Feld entspricht der Potenziellen Energie aller Elektronen (der [[Elektrische Ladung|Ladung]]) auf den Platten
 - Ladung auf den Platten: $Q=C\cdot U$
+- Potenzielle Energie: $E_{pot}=\int Q \cdot U dU$
 - 

@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -222,18 +222,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "983e664cb090718f",
+  "active": "362b30ad6565f0ed",
   "lastOpenFiles": [
+    "Physik/Elektrische Stromstärke.md",
     "Physik/Index.md",
-    "Physik/Plattenkondensator.md",
-    "Physik/attachments/Plattenkondensator 2025-02-20 18.42.29.excalidraw.md",
+    "Private/Excalidraw Freedraw fix.md",
     "Physik/Elektrisches Feld.md",
     "Physik/Elektrische Spannung.md",
-    "Private/Excalidraw Freedraw fix.md",
+    "Physik/Plattenkondensator.md",
+    "Physik/attachments/Plattenkondensator 2025-02-20 18.42.29.excalidraw.md",
     "Excalidraw/Drawing 2025-02-20 23.23.18.excalidraw.md",
     "Physik/Elektrisches Potenzial.md",
     "Geschichte/Writing File.md",
-    "Physik/Elektrische Stromstärke.md",
     "/Physik/Plattenkondensator.md",
     "/Physik",
     "Templates/Excalidraw.md",
