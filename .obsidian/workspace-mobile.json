@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "53a5f19022a55ffa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Physik/attachments/Plattenkondensator 2025-02-23 17.15.02.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Plattenkondensator 2025-02-23 17.15.02.excalidraw"
+            }
+          },
+          {
             "id": "362b30ad6565f0ed",
             "type": "leaf",
             "state": {
@@ -78,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -222,10 +234,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "983e664cb090718f",
+  "active": "53a5f19022a55ffa",
   "lastOpenFiles": [
-    "Physik/Index.md",
     "Physik/Plattenkondensator.md",
+    "Physik/attachments/Plattenkondensator 2025-02-23 17.15.02.excalidraw.md",
+    "Physik/Index.md",
     "Physik/Elektrische Stromstärke.md",
     "Private/Excalidraw Freedraw fix.md",
     "Physik/Elektrisches Feld.md",
@@ -250,7 +263,6 @@
     "/Physik/attachments/Elektrisches Feld 2025-02-17 20.37.23.excalidraw.md",
     "/Physik/Millikan-Versuch.md",
     "/Physik/Index.md",
-    "/Physik/Elektrisches Potenzial.md",
     "/Physik/attachments",
     "Excalidraw",
     "Templates",
