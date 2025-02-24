@@ -39,7 +39,7 @@
 - Auf- und Entladevorgänge
 	- Differenzialgleichung für Entladung
 
-### Bewegte Ladungen im elektrischen Feld
+### [[Bewegte Ladungen im elektrischen Feld]]
 - Beschleunigung und Abbremsung parallel zur Feldrichtung
 
 ### Magnetisches Feld
