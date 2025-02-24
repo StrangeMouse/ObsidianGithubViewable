@@ -5,7 +5,7 @@ Passives elektrisches Bauelement bestehend aus zwei leitenden Platten und einem 
 - Herleitung über [[Elektrisches Feld#Flächenladungsdichte (Verschiebungsdichte)|Flächenladungsdichte]]:$$\displaylines{\begin{aligned}\sigma&=\frac Q A=\varepsilon_0\cdot\varepsilon_r\cdot\vec E \quad &(1)\\\\ \vec E&=\frac U d \quad &(2)\\\\ \text{Aus (1) und (2):}\quad \frac Q A&=\varepsilon_0\cdot\varepsilon_r\cdot\frac U d \\ \frac Q U &= \varepsilon_0\cdot\varepsilon_r\cdot\frac A d \\ \Aboxed {C &=\varepsilon_0\cdot\varepsilon_r\cdot\frac A d} \end{aligned}}$$
 
 ### Feldstärke
-- Allgemein: $\displaystyle\vec E=\frac{\vec F}{q}$
+- Allgemein: $\displaystyle\vec E=\frac{\vec F}{q}$ ([[Elektrisches Feld#Elektrische Feldstärke|elektrische Feldstärke]])
 - Abhängig von Abstand und Spannung: $\displaystyle\vec E =\frac{U}{d}$
 	- Je größer die Spannung und je kleiner der Abstand, desto größer das Feld 
 
@@ -23,6 +23,6 @@ Passives elektrisches Bauelement bestehend aus zwei leitenden Platten und einem 
 
 ### Auf- und Entladevorgänge
 - Die Auf- und Entladevorgänge sind durch jeweils eine Exponentialfunktion beschrieben:![[Plattenkondensator 2025-02-23 21.44.58.excalidraw]]
-- Für den Entladevorgang folgt dies aus der Folgenden Differentialgleichung: $$\begin{align} I(t)&=-\frac {U(t)} R \\ I(t)&=-\frac {\frac {Q(t)} C} R \\ I(t)&=-\frac 1 {R\cdot C}\cdot Q(t) \\ \frac {dQ} {dt} &= -\frac 1 {R\cdot C}\cdot Q(t) \\ \frac 1 {Q(t)}\,dQ&=-\frac 1 {R\cdot C}\,dt &|&\int \\ \ln(Q(t)) &= -\frac 1 {R\cdot C} \, t + C&|& \, e^x \\\\ \Aboxed{ Q(t) &= e^{-\frac 1 {R\cdot C}t}\cdot Q_0} \end{align}$$
+- Für den Entladevorgang folgt dies aus der Folgenden [[Mathe/Differentialgleichung|Differentialgleichung]]: $$\begin{align} I(t)&=-\frac {U(t)} R \\ I(t)&=-\frac {\frac {Q(t)} C} R \\ I(t)&=-\frac 1 {R\cdot C}\cdot Q(t) \\ \frac {dQ} {dt} &= -\frac 1 {R\cdot C}\cdot Q(t) \\ \frac 1 {Q(t)}\,dQ&=-\frac 1 {R\cdot C}\,dt &|&\int \\ \ln(Q(t)) &= -\frac 1 {R\cdot C} \, t + C&|& \, e^x \\\\ \Aboxed{ Q(t) &= e^{-\frac 1 {R\cdot C}t}\cdot Q_0} \end{align}$$
 
 

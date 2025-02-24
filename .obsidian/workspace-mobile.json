@@ -64,7 +64,7 @@
             }
           },
           {
-            "id": "362b30ad6565f0ed",
+            "id": "ad956ee909d1541d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -75,18 +75,6 @@
               },
               "icon": "lucide-file",
               "title": "Bewegte Ladungen im elektrischen Feld"
-            }
-          },
-          {
-            "id": "136c39a082ace878",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Physik/attachments/Bewegte Ladungen im elektrischen Feld 2025-02-24 10.10.11.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Bewegte Ladungen im elektrischen Feld 2025-02-24 10.10.11.excalidraw"
             }
           },
           {
@@ -116,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -260,13 +248,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a7cccbd65d9f56b4",
+  "active": "ad956ee909d1541d",
   "lastOpenFiles": [
-    "Physik/attachments/Bewegte Ladungen im elektrischen Feld 2025-02-24 10.10.11.excalidraw.md",
-    "Physik/Bewegte Ladungen im elektrischen Feld.md",
-    "Physik/attachments/Bewegte Ladungen im elektrischen Feld 2025-02-24 09.53.03.excalidraw.md",
-    "Physik/Plattenkondensator.md",
     "Physik/Index.md",
+    "Physik/Bewegte Ladungen im elektrischen Feld.md",
+    "Physik/Plattenkondensator.md",
+    "Physik/attachments/Bewegte Ladungen im elektrischen Feld 2025-02-24 10.10.11.excalidraw.md",
+    "Physik/attachments/Bewegte Ladungen im elektrischen Feld 2025-02-24 09.53.03.excalidraw.md",
     "Physik/attachments/Plattenkondensator 2025-02-23 21.44.58.excalidraw.md",
     "Physik/Ohm'sches Gesetz.md",
     "Physik/Elektrische Spannung.md",
