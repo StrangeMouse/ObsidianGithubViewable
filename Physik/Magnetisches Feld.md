@@ -1,0 +1,1 @@
+Umgebung um einen Magneten oder einen durchflossenen Leiter, in dem auf bewegte Ladungen  
