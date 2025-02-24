@@ -25,20 +25,6 @@
             "id": "453394761d9c6c94",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physik/Magnetisches Feld.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Magnetisches Feld"
-            }
-          },
-          {
-            "id": "45a33c420cd7ada6",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Physik/attachments/Magnetisches Feld 2025-02-24 11.53.16.excalidraw.md"
@@ -196,7 +182,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/Magnetisches Feld.md",
+            "file": "Physik/attachments/Magnetisches Feld 2025-02-24 11.53.16.excalidraw.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -232,12 +218,12 @@
   },
   "active": "453394761d9c6c94",
   "lastOpenFiles": [
+    "Physik/Magnetisches Feld.md",
+    "Physik/Bewegte Ladungen im elektrischen Feld.md",
+    "Private/Excalidraw Freedraw fix.md",
+    "Physik/attachments/Magnetisches Feld 2025-02-24 11.53.16.excalidraw.md",
     "Physik/Index.md",
     "Physik/Ohm'sches Gesetz.md",
-    "Physik/Magnetisches Feld.md",
-    "Physik/attachments/Magnetisches Feld 2025-02-24 11.53.16.excalidraw.md",
-    "Private/Excalidraw Freedraw fix.md",
-    "Physik/Bewegte Ladungen im elektrischen Feld.md",
     "Physik/Plattenkondensator.md",
     "Physik/Elektrisches Feld.md",
     "Physik/Elektrische Spannung.md",
