@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Index.md",
+                "file": "Physik/Magnetisches Feld.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Magnetisches Feld"
             }
           },
           {
@@ -78,18 +78,6 @@
             }
           },
           {
-            "id": "a7cccbd65d9f56b4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Physik/attachments/Bewegte Ladungen im elektrischen Feld 2025-02-24 09.53.03.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Bewegte Ladungen im elektrischen Feld 2025-02-24 09.53.03.excalidraw"
-            }
-          },
-          {
             "id": "c0164132d98f8540",
             "type": "leaf",
             "state": {
@@ -104,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -248,20 +236,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ad956ee909d1541d",
+  "active": "983e664cb090718f",
   "lastOpenFiles": [
-    "Physik/Elektrische Spannung.md",
     "Physik/Index.md",
-    "Physik/Plattenkondensator.md",
+    "Physik/Magnetisches Feld.md",
+    "Physik/Elektrisches Feld.md",
+    "Physik/Elektrische Spannung.md",
     "Physik/Bewegte Ladungen im elektrischen Feld.md",
-    "Physik/attachments/Bewegte Ladungen im elektrischen Feld 2025-02-24 10.10.11.excalidraw.md",
     "Physik/attachments/Bewegte Ladungen im elektrischen Feld 2025-02-24 09.53.03.excalidraw.md",
+    "Physik/Plattenkondensator.md",
+    "Physik/attachments/Bewegte Ladungen im elektrischen Feld 2025-02-24 10.10.11.excalidraw.md",
     "Physik/attachments/Plattenkondensator 2025-02-23 21.44.58.excalidraw.md",
     "Physik/Ohm'sches Gesetz.md",
     "Physik/attachments/Plattenkondensator 2025-02-23 17.15.02.excalidraw.md",
     "Physik/Elektrische Stromstärke.md",
     "Private/Excalidraw Freedraw fix.md",
-    "Physik/Elektrisches Feld.md",
     "Physik/attachments/Plattenkondensator 2025-02-20 18.42.29.excalidraw.md",
     "Excalidraw/Drawing 2025-02-20 23.23.18.excalidraw.md",
     "Physik/Elektrisches Potenzial.md",
@@ -276,7 +265,6 @@
     "Private/Mashups.md",
     "Physik/Elektrische Ladung.md",
     "Physik/Quantelung.md",
-    "Physik/attachments/Elektrisches Potenzial 2025-02-18 17.38.17.excalidraw.md",
     "/Physik/attachments",
     "Excalidraw",
     "Templates",

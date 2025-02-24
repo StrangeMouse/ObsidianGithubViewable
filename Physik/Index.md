@@ -42,7 +42,7 @@
 ### [[Bewegte Ladungen im elektrischen Feld]]
 - Beschleunigung und Abbremsung parallel zur Feldrichtung
 
-### Magnetisches Feld
+### [[Magnetisches Feld]]
 - Bewegte Ladungen als Ursache
 - Feldlinienbilder
 	- gerader Leiter
