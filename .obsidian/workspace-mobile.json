@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "45a33c420cd7ada6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Physik/attachments/Magnetisches Feld 2025-02-24 11.53.16.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Magnetisches Feld 2025-02-24 11.53.16.excalidraw"
+            }
+          },
+          {
             "id": "213a4717f13ad0b0",
             "type": "leaf",
             "state": {
@@ -78,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,7 +200,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/Magnetisches Feld.md",
+            "file": "Physik/attachments/Magnetisches Feld 2025-02-24 11.53.16.excalidraw.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -222,10 +234,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "453394761d9c6c94",
+  "active": "45a33c420cd7ada6",
   "lastOpenFiles": [
-    "Physik/Index.md",
     "Physik/Magnetisches Feld.md",
+    "Physik/attachments/Magnetisches Feld 2025-02-24 11.53.16.excalidraw.md",
+    "Physik/Index.md",
     "Physik/Elektrisches Feld.md",
     "Physik/Elektrische Spannung.md",
     "Physik/Bewegte Ladungen im elektrischen Feld.md",
@@ -250,7 +263,6 @@
     "Physik/Millikan-Versuch.md",
     "Private/Mashups.md",
     "Physik/Elektrische Ladung.md",
-    "Physik/Quantelung.md",
     "/Physik/attachments",
     "Excalidraw",
     "Templates",
