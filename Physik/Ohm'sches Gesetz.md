@@ -1,1 +1,1 @@
-Der fließende Strom ist abhängig von der Spannung und dem elektrischen Widerstand, durch den dieser Fließt $$I=\frac U R$$
+Der fließende [[Elektrische Stromstärke|Strom]] ist abhängig von der [[Elektrische Spannung|Spannung]] und dem elektrischen Widerstand, durch den dieser Fließt $$I=\frac U R$$
