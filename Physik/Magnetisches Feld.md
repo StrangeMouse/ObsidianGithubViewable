@@ -8,12 +8,11 @@ Umgebung um einen Magneten oder einen durchflossenen Leiter, in dem auf bewegte 
 - Äquivalent zur Elektrischen Feldstärke
 - Einheit: Tesla $[B]=T$
 - Um einen geraden Stromdurchflossenen Leiter: $B=\mu_0 \cdot \mu_r \cdot \dfrac I {2\pi \cdot r}$
-	- Rechte-Faust-Regel: 
+	- Rechte-Faust-Regel:  
 - Im inneren einer langen Spule: 
 
 ### Lorentzkraft
 - $F_L=B\cdot I\cdot l\quad\text{(wenn I senkrecht zu B)}$ 
 - $F_L=B\cdot q \cdot v$
-	- $I=\dfrac {\Delta Q} {\Delta t}=\dfrac {n\cdot e}{\Delta t}$
-	- 
-	- 
+	- $I=\dfrac {\Delta Q} {\Delta t}=\dfrac {n\cdot e}{\Delta t}\implies I\cdot l = n\cdot e \dfrac l {\Delta t} = q\cdot v$
+- Rechte-Hand-Regel:
