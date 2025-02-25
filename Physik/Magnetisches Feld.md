@@ -12,5 +12,5 @@ Umgebung um einen Magneten oder einen durchflossenen Leiter, in dem auf bewegte 
 - Im inneren einer langen Spule: 
 
 ### Lorentzkraft
-- $F_L=B\cdot I\cdot l$
+- $F_L=B\cdot I\cdot l\quad\text{(wenn I senkrecht zu B)}$ 
 - 
