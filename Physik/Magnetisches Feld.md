@@ -7,7 +7,8 @@ Umgebung um einen Magneten oder einen durchflossenen Leiter, in dem auf bewegte 
 - Kraft auf Leiter der Länge $l$, durch den der Strom $I$ fließt
 - Äquivalent zur Elektrischen Feldstärke
 - Einheit: Tesla $[B]=T$
-- 
+- Um einen geraden Stromdurchflossenen Leiter: $B=\mu_0 \cdot \mu_r \cdot \dfrac I {2\pi \cdot r}$
+- Inm 
 
 ### Lorentzkraft
 - $F_L=B\cdot I\cdot l$
