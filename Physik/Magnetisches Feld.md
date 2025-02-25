@@ -6,5 +6,4 @@ Umgebung um einen Magneten oder einen durchflossenen Leiter, in dem auf bewegte 
 - $B=\dfrac F {I \cdot l}$
 - Kraft auf Leiter der Länge $l$, durch den der Strom $I$ fließt
 - Äquivalent zur Elektrischen Feldstärke
-- Einheit: Tesla
-
+- Einheit: Tesla $[B]=T$

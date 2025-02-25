@@ -3,6 +3,7 @@ Umgebung um einen Elektrischen Körper, in der eine Kraft auf andere Ladungen wi
 ### Elektrische Feldstärke
 - $\vec{E}=\dfrac{\vec{F}}{q}$ 
 - Analogie zur Gravitation: Kraft auf Körper in bestimmte Richtung
+- Einheit: $[\vec E]=\dfrac NC$
 - In [[Plattenkondensator]]: $\vec{E}=\dfrac{{U}}{d}$
 - Radialsymmetrisches Feld: $\vec{E}=\dfrac{1}{4\pi\cdot\varepsilon_0\cdot\varepsilon_r}\cdot\dfrac{Q}{r^2}$
 
