@@ -9,5 +9,5 @@ Umgebung um einen Magneten oder einen durchflossenen Leiter, in dem auf bewegte 
 - Einheit: Tesla $[B]=T$
 
 ### Lorentzkraft
-- $F_L=B\cdot I\cdot l\cdot$
+- $F_L=B\cdot I\cdot l$
 - 
