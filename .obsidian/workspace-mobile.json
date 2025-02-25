@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Magnetisches Feld.md",
+                "file": "Geschichte/Writing File.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magnetisches Feld"
+              "title": "Writing File"
             }
           },
           {
@@ -183,7 +183,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/Magnetisches Feld.md",
+            "file": "Geschichte/Writing File.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -219,8 +219,8 @@
   },
   "active": "dd62ca034be043c1",
   "lastOpenFiles": [
-    "Physik/attachments/Magnetisches Feld 2025-02-24 11.53.16.excalidraw.md",
     "Physik/Magnetisches Feld.md",
+    "Physik/attachments/Magnetisches Feld 2025-02-24 11.53.16.excalidraw.md",
     "Physik/Elektrisches Feld.md",
     "Physik/Bewegte Ladungen im elektrischen Feld.md",
     "Physik/Index.md",

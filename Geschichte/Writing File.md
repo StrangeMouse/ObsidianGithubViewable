@@ -5,4 +5,5 @@
 - Deutschland verzichtet auf atomare, biologische und chemische Waffen
 - Militär soll auf 370000 mann reduziert werden
 - Deutschland und UDSSR werden Abzug der sowjetischen Truppen in DDR Vertraglich regeln
-- Besatzungsmächte beenden Rechte in bezug auf Deuschland
+- Besatzungsmächte beenden Rechte in Bezug auf Deutschland
+- Oder-Neiße-Linie wird geachtet
