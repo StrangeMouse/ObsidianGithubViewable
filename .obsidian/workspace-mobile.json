@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Magnetisches Feld.md",
+                "file": "Physik/Dielektrikum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magnetisches Feld"
+              "title": "Dielektrikum"
             }
           },
           {
@@ -198,7 +198,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/Magnetisches Feld.md",
+            "file": "Physik/Dielektrikum.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -234,20 +234,22 @@
   },
   "active": "453394761d9c6c94",
   "lastOpenFiles": [
-    "Physik/attachments/Magnetisches Feld 2025-02-24 11.53.16.excalidraw.md",
+    "Physik/Plattenkondensator.md",
+    "Physik/Elektrische Ladung.md",
+    "Physik/Millikan-Versuch.md",
+    "Physik/Elektrische Stromstärke.md",
     "Physik/Magnetisches Feld.md",
+    "Physik/attachments/Magnetisches Feld 2025-02-24 11.53.16.excalidraw.md",
     "Physik/Elektrisches Feld.md",
     "Physik/Index.md",
     "Physik/Bewegte Ladungen im elektrischen Feld.md",
     "Private/Excalidraw Freedraw fix.md",
     "Physik/Ohm'sches Gesetz.md",
-    "Physik/Plattenkondensator.md",
     "Physik/Elektrische Spannung.md",
     "Physik/attachments/Bewegte Ladungen im elektrischen Feld 2025-02-24 09.53.03.excalidraw.md",
     "Physik/attachments/Bewegte Ladungen im elektrischen Feld 2025-02-24 10.10.11.excalidraw.md",
     "Physik/attachments/Plattenkondensator 2025-02-23 21.44.58.excalidraw.md",
     "Physik/attachments/Plattenkondensator 2025-02-23 17.15.02.excalidraw.md",
-    "Physik/Elektrische Stromstärke.md",
     "Physik/attachments/Plattenkondensator 2025-02-20 18.42.29.excalidraw.md",
     "Excalidraw/Drawing 2025-02-20 23.23.18.excalidraw.md",
     "Physik/Elektrisches Potenzial.md",
@@ -258,9 +260,7 @@
     "Physik/Dielektrikum.md",
     "Physik/attachments/Elektrisches Feld 2025-02-16 20.55.25.excalidraw.md",
     "Private/Movies.md",
-    "Physik/Millikan-Versuch.md",
     "Private/Mashups.md",
-    "Physik/Elektrische Ladung.md",
     "/Physik/attachments",
     "Excalidraw",
     "Templates",
