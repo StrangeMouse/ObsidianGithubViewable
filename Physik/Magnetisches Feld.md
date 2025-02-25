@@ -5,4 +5,3 @@ Umgebung um einen Magneten oder einen durchflossenen Leiter, in dem auf bewegte 
 ### Magnetische Flussdichte
 - $B=\dfrac F {I \cdot l}$ Kraft auf Leiter der Länge $l$, durch den der Strom $I$ fließt
 - 
--  
