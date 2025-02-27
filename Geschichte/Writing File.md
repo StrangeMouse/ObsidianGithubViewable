@@ -9,4 +9,8 @@
 - Oder-Neiße-Linie wird geachtet
 
 ### Eine Bilanz der Einigung
-- 
+- Transformation zu Demokratie und Marktwirtschaft eines sozialistischen Staates immer mit Arbeitslosigkeit, wirtschaftlichen Verwerfungen und Elitenwechsel verbunden
+- Vergleich mit Westdeutschland täuscht:
+	- Im Vergleich zu andered ehemals sozialistischen Ländern hat Ostdeutschland den besten Lebensstandard
+- Es wurden zu große Versprechen in der Politik gemacht, die die Ostdeutschen geglaubt haben, aber nie vollständig in die Tat umgesetzt wurden
+- => Insgesamt ist die Einigung relativ zur Ausgangssituation gut gelungen
