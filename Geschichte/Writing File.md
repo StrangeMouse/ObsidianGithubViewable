@@ -7,3 +7,6 @@
 - Deutschland und UDSSR werden Abzug der sowjetischen Truppen in DDR Vertraglich regeln
 - Besatzungsmächte beenden Rechte in Bezug auf Deutschland
 - Oder-Neiße-Linie wird geachtet
+
+### Eine Bilanz der Einigung
+- 
