@@ -5,4 +5,9 @@ Bei der Bewegung einer Ladugng parallel zum magnetischen Feld wirkt keine Kraft 
 Bei der bewegung einer Ladung senkrecht zum Feld, wirkt die Lorentzkraft immer senkrecht zur Bewegungsrichtung auf die Ladung
 
 ![[Bewegte Ladungen im magnetischen Feld 2025-02-28 15.37.45.excalidraw]]
-Die Lorentzkraft wirkt
+Die Lorentzkraft wirkt dabei als Zentripetalkraft, wordurch eine Kreisbahn entsteht
+#### Bahnkurve des Elektrons
+- Zentripetalkraft: $F_Z=m\cdot\dfrac {v^2} r$
+- Lorentzkraft: $F_L=B\cdot v\cdot e$
+$$\begin{align} F_L&=F_Z \\ B\cdot v\cdot e &= m\cdot \frac {v^2} r \\\\ r&= \frac{m\cdot v^2}{B\cdot v\cdot e}\end{align}$$
+
