@@ -25,3 +25,6 @@ Umgebung um einen Magneten oder einen durchflossenen Leiter, in dem auf bewegte 
 	- magnetische Feldkonstante
 	- Permeabilitätszahl des Vakuums
 	- Gibt Verhältnis zwischen Kraft auf eine bewegte Ladung und dem von ihr erzeugten magnetischen Feld an
+- $\mu_r:$
+	- Materialabhängige Permeabilitätszahl
+	- Gibt die Fähigkeit eines 
