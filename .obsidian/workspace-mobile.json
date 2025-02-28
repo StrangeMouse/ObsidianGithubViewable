@@ -129,8 +129,7 @@
               "title": "Excalidraw Freedraw fix"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,7 +239,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/Bewegte Ladungen im magnetischen Feld.md",
+            "file": "Physik/Magnetisches Feld.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -274,12 +273,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1dc658f5cf069f87",
+  "active": "fdeeec0d7ebeae52",
   "lastOpenFiles": [
-    "Physik/Bewegte Ladungen im elektrischen Feld.md",
-    "Physik/Bewegte Ladungen im magnetischen Feld.md",
-    "Physik/Index.md",
     "Physik/Elektrisches Feld.md",
+    "Physik/Bewegte Ladungen im magnetischen Feld.md",
+    "Physik/Bewegte Ladungen im elektrischen Feld.md",
+    "Physik/Index.md",
     "Physik/Magnetisches Feld.md",
     "Physik/attachments/Magnetisches Feld 2025-02-24 11.53.16.excalidraw.md",
     "Geschichte/Writing File.md",
