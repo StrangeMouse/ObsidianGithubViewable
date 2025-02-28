@@ -15,8 +15,11 @@ Umgebung um einen Magneten oder einen durchflossenen Leiter, in dem auf bewegte 
 
 ### Lorentzkraft
 - $F_L=B\cdot I\cdot l\quad\text{(wenn I senkrecht zu B)}$ 
-	- $F_L=(\vec B \times \vec I)\cdot l$
-- $F_L=B\cdot q \cdot v \quad \text{(wenn I senkrecht zu B)}$
+	- $F_L=(\vec B \times \vec I)\cdot l \quad \text{ (wenn I \textbf {nicht} senkrecht zu B)}$
+
+- $F_L=B\cdot v \cdot q \quad \text{(wenn v senkrecht zu B)}$
+	- $F_L=(\vec B \times \vec v)\cdot l \quad \text{ (wenn v \textbf {nicht} senkrecht zu B)}$
+
 	- $I=\dfrac {\Delta Q} {\Delta t}=\dfrac {n\cdot e}{\Delta t}\implies I\cdot l = n\cdot e \dfrac l {\Delta t} = q\cdot v$
 
 - Rechte-Hand-Regel (für technische Stromrichtung):
