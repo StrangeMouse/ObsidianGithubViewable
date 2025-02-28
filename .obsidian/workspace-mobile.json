@@ -142,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -252,7 +252,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/attachments/Bewegte Ladungen im magnetischen Feld 2025-02-28 15.37.45.excalidraw.md",
+            "file": "Physik/Bewegte Ladungen im magnetischen Feld.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -286,10 +286,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f17f0ad6c3f9f804",
+  "active": "1dc658f5cf069f87",
   "lastOpenFiles": [
-    "Physik/Bewegte Ladungen im magnetischen Feld.md",
     "Physik/attachments/Bewegte Ladungen im magnetischen Feld 2025-02-28 15.37.45.excalidraw.md",
+    "Physik/Bewegte Ladungen im magnetischen Feld.md",
     "Physik/Bewegte Ladungen im elektrischen Feld.md",
     "Physik/Magnetisches Feld.md",
     "Physik/Elektrisches Feld.md",
