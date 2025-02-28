@@ -16,4 +16,4 @@ Umgebung um einen Magneten oder einen durchflossenen Leiter, in dem auf bewegte 
 - $F_L=B\cdot I\cdot l\quad\text{(wenn I senkrecht zu B)}$ 
 - $F_L=B\cdot q \cdot v$
 	- $I=\dfrac {\Delta Q} {\Delta t}=\dfrac {n\cdot e}{\Delta t}\implies I\cdot l = n\cdot e \dfrac l {\Delta t} = q\cdot v$
-- Rechte-Hand-Regel:
+- Rechte-Hand-Regel:[[]]

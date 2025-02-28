@@ -50,18 +50,6 @@
             }
           },
           {
-            "id": "d204e8722d0f8ecf",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Geschichte/attachments/Writing File 2025-02-28 09.23.56.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Writing File 2025-02-28 09.23.56.excalidraw"
-            }
-          },
-          {
             "id": "fa3a7a197d9d04ee",
             "type": "leaf",
             "state": {
@@ -114,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,7 +212,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Geschichte/attachments/Writing File 2025-02-28 09.23.56.excalidraw.md",
+            "file": "Physik/Magnetisches Feld.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -258,7 +246,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d204e8722d0f8ecf",
+  "active": "fdeeec0d7ebeae52",
   "lastOpenFiles": [
     "Geschichte/Writing File.md",
     "Geschichte/attachments/Writing File 2025-02-28 09.23.56.excalidraw.md",
