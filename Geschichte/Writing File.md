@@ -14,3 +14,10 @@
 	- Im Vergleich zu andered ehemals sozialistischen Ländern hat Ostdeutschland den besten Lebensstandard
 - Es wurden zu große Versprechen in der Politik gemacht, die die Ostdeutschen geglaubt haben, aber nie vollständig in die Tat umgesetzt wurden
 - => Insgesamt ist die Einigung relativ zur Ausgangssituation gut gelungen
+
+### Stellungnahme zu Schröders Thesen
+- Zustimmung:
+	- DDR war totalitär Staat
+	- Umstellung auf marktwirtschaft und demokratie nicht einfach oder schnell
+	- Für Gesamtdeutschland war die Wiedervereinigung wirtschaftlich gut
+	- Vergleich mit Ostdeutschland mit anderen Osteuropäischen Staaten zeigt: Umstellung hat vergleichsweise gut funktioniert
