@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dd62ca034be043c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geschichte/Writing File.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Writing File"
-            }
-          },
-          {
             "id": "fdeeec0d7ebeae52",
             "type": "leaf",
             "state": {
@@ -33,6 +19,48 @@
               },
               "icon": "lucide-file",
               "title": "Magnetisches Feld"
+            }
+          },
+          {
+            "id": "dab4a77fdb3da787",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physik/Elektrisches Feld.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elektrisches Feld"
+            }
+          },
+          {
+            "id": "1dc658f5cf069f87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physik/Bewegte Ladungen im magnetischen Feld.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bewegte Ladungen im magnetischen Feld"
+            }
+          },
+          {
+            "id": "494b340bc46ccbaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physik/Bewegte Ladungen im elektrischen Feld.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bewegte Ladungen im elektrischen Feld"
             }
           },
           {
@@ -102,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,7 +240,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/Magnetisches Feld.md",
+            "file": "Physik/Bewegte Ladungen im magnetischen Feld.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -246,20 +274,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fdeeec0d7ebeae52",
+  "active": "1dc658f5cf069f87",
   "lastOpenFiles": [
+    "Physik/Bewegte Ladungen im elektrischen Feld.md",
+    "Physik/Bewegte Ladungen im magnetischen Feld.md",
+    "Physik/Index.md",
     "Physik/Elektrisches Feld.md",
     "Physik/Magnetisches Feld.md",
-    "Geschichte/Writing File.md",
     "Physik/attachments/Magnetisches Feld 2025-02-24 11.53.16.excalidraw.md",
+    "Geschichte/Writing File.md",
     "Physik/attachments/Pasted image 20250228123603.jpg",
     "Geschichte/attachments/Writing File 2025-02-28 09.23.56.excalidraw.md",
     "Geschichte/attachments",
     "Physik/attachments/Pasted image 20250225223820.jpg",
     "Physik/attachments/Pasted image 20250225164239.png",
-    "Physik/Bewegte Ladungen im elektrischen Feld.md",
     "Physik/Elektrisches Potenzial.md",
-    "Physik/Index.md",
     "Physik/Dielektrikum.md",
     "Physik/Plattenkondensator.md",
     "Physik/Elektrische Ladung.md",

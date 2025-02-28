@@ -52,7 +52,7 @@
 	- lange Spule
 - magnetische Feldkonstante
 
-### Bewegte Ladungen im magnetischen Feld
+### [[Bewegte Ladungen im magnetischen Feld]]
 - Bewegung parallel und senkrecht zum magnetischen Feld
 - Lorentzkraft
 	- als Zentripetalkraft
