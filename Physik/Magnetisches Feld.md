@@ -18,4 +18,5 @@ Umgebung um einen Magneten oder einen durchflossenen Leiter, in dem auf bewegte 
 	- $I=\dfrac {\Delta Q} {\Delta t}=\dfrac {n\cdot e}{\Delta t}\implies I\cdot l = n\cdot e \dfrac l {\Delta t} = q\cdot v$
 - Rechte-Hand-Regel (für technische Stromrichtung):
 - ![[Pasted image 20250228123603.jpg|200]]
-- 
+
+### Permeabilitätszahlen
