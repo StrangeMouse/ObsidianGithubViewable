@@ -22,3 +22,5 @@
 	- Für Gesamtdeutschland war die Wiedervereinigung wirtschaftlich gut
 	- Vergleich mit Ostdeutschland mit anderen Osteuropäischen Staaten zeigt: Umstellung hat vergleichsweise gut funktioniert
 	- Vergleich mit DDR (Unterdrückung, Zensur, etc.): Jetzt gute Verhältnisse
+
+![[Writing File 2025-02-28 09.23.56.excalidraw]]
