@@ -20,3 +20,8 @@ Umgebung um einen Magneten oder einen durchflossenen Leiter, in dem auf bewegte 
 - ![[Pasted image 20250228123603.jpg|200]]
 
 ### Permeabilitätszahlen
+- Beschreiben die Magnetisierungsfähigkeit eines Materials
+- $\mu_0:$ 
+	- magnetische Feldkonstante
+	- Permeabilitätszahl des Vakuums
+	- Gibt Verhältnis 
