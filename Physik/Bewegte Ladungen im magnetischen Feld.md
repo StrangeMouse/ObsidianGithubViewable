@@ -9,5 +9,6 @@ Die Lorentzkraft wirkt dabei als Zentripetalkraft, wordurch eine Kreisbahn entst
 #### Bahnkurve des Elektrons
 - Zentripetalkraft: $F_Z=m\cdot\dfrac {v^2} r$
 - Lorentzkraft: $F_L=B\cdot v\cdot e$
+- 
 $$\begin{align} F_L&=F_Z \\ B\cdot v\cdot e &= m\cdot \frac {v^2} r \\\\ r&= \frac{m\cdot v^2}{B\cdot v\cdot e}\end{align}$$
 
