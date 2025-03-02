@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "609853a8d66d6127",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Physik/attachments/Bewegte Ladungen im magnetischen Feld 2025-03-02 19.01.38.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Bewegte Ladungen im magnetischen Feld 2025-03-02 19.01.38.excalidraw"
+            }
+          },
+          {
             "id": "6ba086aaf4afa158",
             "type": "leaf",
             "state": {
@@ -240,7 +252,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/Dielektrikum.md",
+            "file": "Physik/attachments/Bewegte Ladungen im magnetischen Feld 2025-03-02 19.01.38.excalidraw.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -274,9 +286,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6ba086aaf4afa158",
+  "active": "609853a8d66d6127",
   "lastOpenFiles": [
     "Physik/Bewegte Ladungen im magnetischen Feld.md",
+    "Physik/attachments/Bewegte Ladungen im magnetischen Feld 2025-03-02 19.01.38.excalidraw.md",
+    "Physik/Dielektrikum.md",
     "Physik/Elektrisches Feld.md",
     "Physik/Index.md",
     "Private/Excalidraw Freedraw fix.md",
@@ -291,7 +305,6 @@
     "Physik/attachments/Pasted image 20250225223820.jpg",
     "Physik/attachments/Pasted image 20250225164239.png",
     "Physik/Elektrisches Potenzial.md",
-    "Physik/Dielektrikum.md",
     "Physik/Plattenkondensator.md",
     "Physik/Elektrische Ladung.md",
     "Physik/Millikan-Versuch.md",
@@ -306,7 +319,6 @@
     "Excalidraw/Drawing 2025-02-20 23.23.18.excalidraw.md",
     "/Physik/Plattenkondensator.md",
     "/Physik",
-    "Templates/Excalidraw.md",
     "/Physik/attachments",
     "Excalidraw",
     "Templates",
