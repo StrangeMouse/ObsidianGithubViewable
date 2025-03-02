@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Bewegte Ladungen im magnetischen Feld.md",
+                "file": "Physik/Hall-Effekt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bewegte Ladungen im magnetischen Feld"
+              "title": "Hall-Effekt"
             }
           },
           {
@@ -252,7 +252,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/Bewegte Ladungen im magnetischen Feld.md",
+            "file": "Physik/Hall-Effekt.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -288,12 +288,13 @@
   },
   "active": "65f9338e49ff845f",
   "lastOpenFiles": [
+    "Physik/Bewegte Ladungen im magnetischen Feld.md",
+    "Physik/Hall-Effekt.md",
     "Physik/attachments/Bewegte Ladungen im magnetischen Feld 2025-03-02 19.01.38.excalidraw.md",
     "Physik/Dielektrikum.md",
     "Physik/Index.md",
     "Physik/Magnetisches Feld.md",
     "Physik/Elektrisches Feld.md",
-    "Physik/Bewegte Ladungen im magnetischen Feld.md",
     "Private/Excalidraw Freedraw fix.md",
     "Physik/Bewegte Ladungen im elektrischen Feld.md",
     "Geschichte/Writing File.md",
@@ -317,7 +318,6 @@
     "Physik/attachments/Plattenkondensator 2025-02-23 17.15.02.excalidraw.md",
     "Physik/attachments/Plattenkondensator 2025-02-20 18.42.29.excalidraw.md",
     "Excalidraw/Drawing 2025-02-20 23.23.18.excalidraw.md",
-    "/Physik/Plattenkondensator.md",
     "/Physik",
     "/Physik/attachments",
     "Excalidraw",
