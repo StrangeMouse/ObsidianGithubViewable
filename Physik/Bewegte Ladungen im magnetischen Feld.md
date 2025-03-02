@@ -18,4 +18,7 @@ $$\begin{align} F_L&=F_Z \\ B\cdot v\cdot e &= m\cdot \frac {v^2} r \\\\ r&= \fr
 Durch die Überlagerung von elektrischem und magnetischem Feld können mittels einer Blende Elektronen mit einer bestimmten Geschwindigkeit gefiltert werden
 
 ![[Bewegte Ladungen im magnetischen Feld 2025-03-02 19.01.38.excalidraw]]
-Nur Elektronen, bei denen die Lorentzkraft und die elektrische Feldkraft den selben Betrag haben fliegen mit einer 
+
+Nur Elektronen mit der richtigen Geschwindigkeit, bei denen die Lorentzkraft und die elektrische Feldkraft den selben Betrag haben fliegen mit einer waagerechten Flugbahn durch die Blende.
+
+§
