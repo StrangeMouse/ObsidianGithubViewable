@@ -154,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -264,7 +264,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/attachments/Hall-Effekt 2025-03-02 19.40.06.excalidraw.md",
+            "file": "Physik/Hall-Effekt.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -298,10 +298,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2571d91513e2aa7a",
+  "active": "65f9338e49ff845f",
   "lastOpenFiles": [
-    "Physik/Hall-Effekt.md",
     "Physik/attachments/Hall-Effekt 2025-03-02 19.40.06.excalidraw.md",
+    "Physik/Hall-Effekt.md",
     "Physik/Bewegte Ladungen im magnetischen Feld.md",
     "Physik/attachments/Bewegte Ladungen im magnetischen Feld 2025-03-02 19.01.38.excalidraw.md",
     "Physik/Dielektrikum.md",
