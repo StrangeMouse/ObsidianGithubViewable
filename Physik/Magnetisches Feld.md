@@ -14,6 +14,7 @@ Umgebung um einen Magneten oder einen durchflossenen Leiter, in dem auf bewegte 
 - Im Inneren einer langen Spule: $B=\mu_0 \cdot \mu_r \cdot \dfrac {n\cdot I} {l}$
 
 ### Lorentzkraft
+- Auf Elektronen, die sich Senkrecht zum Magnetfeld bewegen wirkt die Lorentzkraft
 - $F_L=B\cdot I\cdot l\quad\text{(wenn I senkrecht zu B)}$ 
 	- $F_L=(\vec B \times \vec I)\cdot l \quad \text{ (wenn I \textbf {nicht} senkrecht zu B)}$
 
