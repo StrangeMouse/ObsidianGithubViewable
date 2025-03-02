@@ -14,3 +14,5 @@ $$\begin{align} F_L&=F_Z \\ B\cdot v\cdot e &= m\cdot \frac {v^2} r \\\\ r&= \fr
 
 
 ### Überlagerung elektrischer und magnetischer Felder
+#### Geschwindigkeitsfilterung von Elektronen
+- Durch die Überlagerung von elektrischem und magnetischem Feld kann 
