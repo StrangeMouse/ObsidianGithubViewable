@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "2571d91513e2aa7a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Physik/attachments/Hall-Effekt 2025-03-02 19.40.06.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Hall-Effekt 2025-03-02 19.40.06.excalidraw"
+            }
+          },
+          {
             "id": "609853a8d66d6127",
             "type": "leaf",
             "state": {
@@ -142,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -252,7 +264,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/Hall-Effekt.md",
+            "file": "Physik/attachments/Hall-Effekt 2025-03-02 19.40.06.excalidraw.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -286,10 +298,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "65f9338e49ff845f",
+  "active": "2571d91513e2aa7a",
   "lastOpenFiles": [
-    "Physik/Bewegte Ladungen im magnetischen Feld.md",
     "Physik/Hall-Effekt.md",
+    "Physik/attachments/Hall-Effekt 2025-03-02 19.40.06.excalidraw.md",
+    "Physik/Bewegte Ladungen im magnetischen Feld.md",
     "Physik/attachments/Bewegte Ladungen im magnetischen Feld 2025-03-02 19.01.38.excalidraw.md",
     "Physik/Dielektrikum.md",
     "Physik/Index.md",
@@ -317,7 +330,6 @@
     "Physik/attachments/Plattenkondensator 2025-02-23 21.44.58.excalidraw.md",
     "Physik/attachments/Plattenkondensator 2025-02-23 17.15.02.excalidraw.md",
     "Physik/attachments/Plattenkondensator 2025-02-20 18.42.29.excalidraw.md",
-    "Excalidraw/Drawing 2025-02-20 23.23.18.excalidraw.md",
     "/Physik",
     "/Physik/attachments",
     "Excalidraw",
