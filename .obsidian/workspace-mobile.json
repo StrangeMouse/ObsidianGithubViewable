@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Hall-Effekt.md",
+                "file": "Englisch/Writing File.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hall-Effekt"
+              "title": "Writing File"
             }
           },
           {
@@ -300,8 +300,12 @@
   },
   "active": "65f9338e49ff845f",
   "lastOpenFiles": [
-    "Physik/attachments/Hall-Effekt 2025-03-02 19.40.06.excalidraw.md",
+    "Private/Movies.md",
+    "Englisch/Writing File.md",
+    "Englisch",
+    "Private/Amazon list.md",
     "Physik/Hall-Effekt.md",
+    "Physik/attachments/Hall-Effekt 2025-03-02 19.40.06.excalidraw.md",
     "Physik/Bewegte Ladungen im magnetischen Feld.md",
     "Physik/attachments/Bewegte Ladungen im magnetischen Feld 2025-03-02 19.01.38.excalidraw.md",
     "Physik/Dielektrikum.md",
@@ -327,9 +331,6 @@
     "Physik/Elektrische Spannung.md",
     "Physik/attachments/Bewegte Ladungen im elektrischen Feld 2025-02-24 09.53.03.excalidraw.md",
     "Physik/attachments/Bewegte Ladungen im elektrischen Feld 2025-02-24 10.10.11.excalidraw.md",
-    "Physik/attachments/Plattenkondensator 2025-02-23 21.44.58.excalidraw.md",
-    "Physik/attachments/Plattenkondensator 2025-02-23 17.15.02.excalidraw.md",
-    "Physik/attachments/Plattenkondensator 2025-02-20 18.42.29.excalidraw.md",
     "/Physik",
     "/Physik/attachments",
     "Excalidraw",
@@ -337,7 +338,6 @@
     "Physik/attachments",
     "Geschichte",
     "Mathe",
-    "/Mathe",
-    "Private"
+    "/Mathe"
   ]
 }
