@@ -1,2 +1,2 @@
 ### Are we heading towards a dystopian world?
-The article
+The article from netzwelt.de presents possible issues and security risks concerning older versions of Amazon-Echo-Speakers. A security expert managed to manipulate the firmware of one of these speakers, effectively converting it into a bug, able to listen to everything being said. This modification however is only possible through physical access to the device and via an sd-card. Amazon will very likely not be able to fix this vulnerability retrospectively, so a switch to a newer version may be wise.
