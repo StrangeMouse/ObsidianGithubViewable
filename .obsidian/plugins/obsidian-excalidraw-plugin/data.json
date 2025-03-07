@@ -103,6 +103,94 @@
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.8.3",
     "libraryItems": [
       {
+        "id": "VLj7Hauscg0Zl69yBGJfD",
+        "status": "unpublished",
+        "elements": [
+          {
+            "id": "bbsZQfoJnin2Da10Z-bOR",
+            "type": "rectangle",
+            "x": 1085.6464790628447,
+            "y": -188.95071470772228,
+            "width": 140,
+            "height": 60,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "frameId": null,
+            "index": "a5G",
+            "roundness": {
+              "type": 3
+            },
+            "seed": 1864330295,
+            "version": 1831,
+            "versionNonce": 1181058615,
+            "isDeleted": false,
+            "boundElements": [
+              {
+                "id": "FP5PP6ii",
+                "type": "text"
+              },
+              {
+                "id": "3Xe8sjrBbtXsHLAwPmAtE",
+                "type": "arrow"
+              },
+              {
+                "id": "rLqzrr755kXPLH9RbTjtI",
+                "type": "arrow"
+              }
+            ],
+            "updated": 1741331236166,
+            "link": null,
+            "locked": false
+          },
+          {
+            "id": "FP5PP6ii",
+            "type": "text",
+            "x": 1111.4765266702666,
+            "y": -183.95071470772228,
+            "width": 88.33990478515625,
+            "height": 50,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 0.5,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "frameId": null,
+            "index": "a5V",
+            "roundness": null,
+            "seed": 637916857,
+            "version": 1513,
+            "versionNonce": 40216407,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1741331236166,
+            "link": null,
+            "locked": false,
+            "text": "Zweiter\nWeltkrieg",
+            "rawText": "Zweiter Weltkrieg",
+            "fontSize": 20,
+            "fontFamily": 5,
+            "textAlign": "center",
+            "verticalAlign": "middle",
+            "containerId": "bbsZQfoJnin2Da10Z-bOR",
+            "originalText": "Zweiter Weltkrieg",
+            "autoResize": true,
+            "lineHeight": 1.25
+          }
+        ],
+        "created": 1741331239358
+      },
+      {
         "id": "smb1DS8snpEMdC5x4s8-v",
         "status": "unpublished",
         "elements": [
