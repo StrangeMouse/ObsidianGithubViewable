@@ -58,9 +58,9 @@
 	- als Zentripetalkraft
 	- Bestimmung des Verhältnisses aus Ladung und Masse eines Elektrons
 - relativistische Massenzunahme
-- Hall-Effekt
+- [[Hall-Effekt]]
 
-### Magnetischer Fluss
+### [[Magnetischer Fluss]]
 - Definition
 ### Induktion
 - Induktionsspannung aufgrund zeitlicher Änderung im magnetischen Flusses

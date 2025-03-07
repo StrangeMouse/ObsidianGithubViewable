@@ -21,4 +21,5 @@ Durch die Überlagerung von elektrischem und magnetischem Feld können mittels e
 
 Nur Elektronen mit der richtigen Geschwindigkeit, bei denen die Lorentzkraft und die elektrische Feldkraft den selben Betrag haben fliegen mit einer waagerechten Flugbahn durch die Blende.
 
-### ![[Hall-Effekt]]
+### [[Hall-Effekt]]
+![[Hall-Effekt|clean no-title]]
