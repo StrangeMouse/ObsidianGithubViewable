@@ -1,1 +1,2 @@
 - Replacement for spotify algorithm
+- maybe not compliant with tos
