@@ -3,3 +3,4 @@
 - [x] Abgeschirmtes Cinch-Kabel
 - [ ] Kaffee Waage 
 - [ ] BMS boomblaster
+- [ ] Filament black or gray
