@@ -10,3 +10,5 @@ Spannung, die in einem Leiter aufgrund einer Veränderung des magnetischen Felde
 
 $$U_{ind}=\left[(\Delta\vec B \times\vec A)+ (\vec B \times\Delta\vec A)\right]\cdot \Delta t$$
 $$U_{ind}=\Delta(\vec B \times\vec A) \cdot \Delta t $$
+
+### Induktionsgesetz
