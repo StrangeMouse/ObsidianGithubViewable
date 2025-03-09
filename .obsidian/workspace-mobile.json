@@ -49,8 +49,7 @@
               "title": "Index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +126,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Physik/Hall-Effekt.md",
+            "file": "Physik/Magnetischer Fluss.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Physik/Hall-Effekt.md",
+            "file": "Physik/Magnetischer Fluss.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -160,7 +159,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/Hall-Effekt.md",
+            "file": "Physik/Magnetischer Fluss.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -194,11 +193,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "079fc173cb6288ef",
+  "active": "16e51764ef0d7324",
   "lastOpenFiles": [
+    "Physik/Hall-Effekt.md",
     "Physik/Magnetischer Fluss.md",
     "Physik/Index.md",
-    "Physik/Hall-Effekt.md",
     "Physik/Elektrische Ladung.md",
     "Physik/Elektrisches Feld.md",
     "Geschichte/attachments/Writing File 2025-02-28 09.23.56.excalidraw.md",
