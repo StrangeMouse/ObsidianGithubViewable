@@ -62,7 +62,7 @@
 
 ### [[Magnetischer Fluss]]
 - Definition
-### Induktion
+### [[Induktion]]
 - Induktionsspannung aufgrund zeitlicher Änderung im magnetischen Flusses
 - Induktionsgesetz
 	- lineare Fälle

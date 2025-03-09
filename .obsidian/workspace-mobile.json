@@ -41,15 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Index.md",
+                "file": "Physik/Induktion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Induktion"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Physik/Magnetischer Fluss.md",
+            "file": "Physik/Induktion.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Physik/Magnetischer Fluss.md",
+            "file": "Physik/Induktion.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -159,7 +160,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/Magnetischer Fluss.md",
+            "file": "Physik/Induktion.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -193,10 +194,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "16e51764ef0d7324",
+  "active": "daea98b7c1659349",
   "lastOpenFiles": [
-    "Physik/Hall-Effekt.md",
     "Physik/Magnetischer Fluss.md",
+    "Physik/Hall-Effekt.md",
+    "Physik/Induktion.md",
     "Physik/Index.md",
     "Physik/Elektrische Ladung.md",
     "Physik/Elektrisches Feld.md",
@@ -226,7 +228,6 @@
     "Physik/attachments/Pasted image 20250225164239.png",
     "Physik/Elektrisches Potenzial.md",
     "Physik/Plattenkondensator.md",
-    "Physik/Elektrische Stromstärke.md",
     "/Physik",
     "/Physik/attachments",
     "Excalidraw",
