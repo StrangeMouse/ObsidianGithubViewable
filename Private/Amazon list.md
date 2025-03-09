@@ -4,3 +4,4 @@
 - [ ] Kaffee Waage 
 - [ ] BMS boomblaster
 - [ ] Filament black or gray
+- [ ] nickel strip
