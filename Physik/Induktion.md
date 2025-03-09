@@ -8,4 +8,4 @@ Spannung, die in einem Leiter aufgrund einer Veränderung des magnetischen Felde
 	1. Veränderung der magnetischen Flussdichte
 	2. Veränderung der Fläche des Leiters
 
-$$U$$
+$$U_{ind}=(\Delta\vec B \times \Delta\vec A) \cdot \Delta t $$
