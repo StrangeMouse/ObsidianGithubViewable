@@ -1,0 +1,1 @@
+"Menge" des Magnet
