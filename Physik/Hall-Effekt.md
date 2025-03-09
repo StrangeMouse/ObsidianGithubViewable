@@ -7,3 +7,4 @@ Methode, um elektronisch Magnetfelder zu messen
 - Elektronen verschieben sich in Richtung einer Seite des Leiters senkrecht zum Strom
 - Verschiebung kann als Spannung senkrecht zur Stromrichtung und Magnetfeldrichung gemessen werden
 - Je stärker das Magnetfeld, desto größer die Spannung
+$$\begin{aligned}F_L&=e\cdot v \cdot B &(1) \\\\ F_E&=  \end{aligned}$$
