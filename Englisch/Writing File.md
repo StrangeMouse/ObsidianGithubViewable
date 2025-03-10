@@ -7,5 +7,4 @@ In my opinion humanoid robots are quite unnecessary. They are more of a gimmick 
 ### Findings of Frey and Osborne
 - even highly qualified workers risk becoming obsolete and replaced by robots
 - every second american is at a high risk of being replaced during the next 20 years
-- in the end the consumers decide, if a job will be replaced by robots (e.g. Waiters)
-- 
+- in the end the consumers decide, if a job will be replaced by robotns (e.g. Waiters)
