@@ -25,8 +25,11 @@ $$\begin{aligned}U_{ind}&=n\cdot\frac{\Delta(\vec B \times\vec A)}{\Delta t}\\\\
 ### Lentz'sche Regel
 - Der Induktionsstrom ist so gerichtet, dass er seiner Ursache entgegenwirkt
 - Das entstehende Magnetfeld wirkt der bewegenden Kraft entgegen
+- Die Arbeit, um die Elektronen im Leiter zu bewegen, also den Strom zu verursachen muss zusätzlich aufgewendet werden (Energieerhaltung)
+- Beispiele:
+	- Wirbelstrombremse
 
-###
+### 
 
 
 
