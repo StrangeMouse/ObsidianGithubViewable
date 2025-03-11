@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Amazon list.md",
+                "file": "Private/UNIVERSITÄT PRO CON.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amazon list"
+              "title": "UNIVERSITÄT PRO CON"
             }
           }
         ],
@@ -154,7 +154,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physik/Elektrisches Feld.md",
+            "file": "Private/UNIVERSITÄT PRO CON.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -174,7 +174,7 @@
         }
       }
     ],
-    "currentTab": 2
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,6 +190,8 @@
   },
   "active": "bf56f7fff79f430a",
   "lastOpenFiles": [
+    "Private/Amazon list.md",
+    "Private/UNIVERSITÄT PRO CON.md",
     "Physik/Induktion.md",
     "/Physik/Magnetischer Fluss.md",
     "/Physik/Induktion.md",
@@ -219,8 +221,6 @@
     "Physik/attachments/Elektrisches Potenzial 2025-02-18 17.38.17.excalidraw.md",
     "Physik/attachments/Bewegte Ladungen im magnetischen Feld 2025-03-02 19.01.38.excalidraw.md",
     "Physik/attachments/Bewegte Ladungen im elektrischen Feld 2025-02-24 10.10.11.excalidraw.md",
-    "Physik/attachments/Bewegte Ladungen im elektrischen Feld 2025-02-24 09.53.03.excalidraw.md",
-    "Physik/Quantelung.md",
     "Geschichte/attachments",
     "Excalidraw",
     "Englisch",
