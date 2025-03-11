@@ -12,4 +12,14 @@ $$U_{ind}=\frac{(\Delta\vec B \times\vec A)+ (\vec B \times\Delta\vec A)}{\Delta
 $$U_{ind}=\frac{\Delta(\vec B \times\vec A)}{\Delta t} $$
 
 ### Induktionsgesetz
+- Eine Spule mit n Windungen kann als n Leiterschleifen modelliert werden
+- Daraus folgt:
+$$\begin{aligned}U_{ind}&=n\cdot\frac{\Delta(\vec B \times\vec A)}{\Delta t}\\\\U_{ind}&=n\cdot\frac{\Delta\Phi}{\Delta t}\end{aligned}$$
+- Daraus folgt für $B\perp A:$ $$U_{ind}=n\cdot\frac{\Delta(B \cdot A)}{\Delta t}$$
+
+### 
+
+
+
+
 
