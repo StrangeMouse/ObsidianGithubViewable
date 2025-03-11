@@ -32,7 +32,9 @@ $$\begin{aligned}U_{ind}&=n\cdot\frac{\Delta(\vec B \times\vec A)}{\Delta t}\\\\
 ### Selbstinduktion
 - Leiter besitzen ein Magnetfeld, welches Proportional zum Strom durch den Leiter ist
 - Das Magnetfeld verändert sich bei veränderder Stromstärke
-- Das sich verändernde Magnetfeld 
+- Das sich verändernde Magnetfeld induziert wiederum eine Spannung im Leiter
+- Eine sich verändernde Stromstärke hemmt also seine eigene Veränderung
+- 
 
 
 
