@@ -19,7 +19,14 @@ $$\begin{aligned}U_{ind}&=n\cdot\frac{\Delta(\vec B \times\vec A)}{\Delta t}\\\\
 #### Differenzen- und Differenzialquotient
 - Bei linearen Veränderungen von $\Phi$ gilt die zuvor aufgestellte Formel $$U_{ind}=n\cdot\frac{\Delta\Phi}{\Delta t}$$
 - Bei nichtlinearen Veränderungen von $\Phi$ lässt sich der Differenzenquotient in einen Differenzialquotienten überführen $$\begin{aligned}U_{ind}&=n\cdot \frac{d\Phi}{dt}\\\\U_{ind}&=n\cdot\dot\Phi\end{aligned}$$
+- Bei konstanter Fläche A $(\dot A = 0)$ gilt:$$U_{ind}=n\cdot A\cdot \dot B$$
+- Bei konstanter Fläche B $(\dot B = 0)$ gilt:$$U_{ind}=n\cdot \dot A\cdot B$$
 
+### Lentz'sche Regel
+- Der Induktionsstrom ist so gerichtet, dass er seiner Ursache entgegenwirkt
+- Das entstehende Magnetfeld wirkt der bewegenden Kraft entgegen
+
+###
 
 
 
