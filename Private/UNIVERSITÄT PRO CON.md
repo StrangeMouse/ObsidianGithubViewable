@@ -3,12 +3,13 @@
 #### Pro:
 - Sommarlåv
 - Finare Stad (Göteborg)
+- Ny Upplevelse
 
 ### Con:
 - svårt att hitta vänner
 - snobbigt
 - (sämre lön)
-- Unbekannt
+- okänt för mig
 
 ### Deutschland
 
@@ -20,4 +21,4 @@
 #### Con:
 - Keine Sommerferien
 - Schlechtere Stadt (Karlsruhe, Tübingen)
-- 
+- Langweiliger
