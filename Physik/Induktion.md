@@ -18,8 +18,7 @@ $$\begin{aligned}U_{ind}&=n\cdot\frac{\Delta(\vec B \times\vec A)}{\Delta t}\\\\
 - Daraus folgt für $B\perp A:$ $$U_{ind}=n\cdot\frac{\Delta(B \cdot A)}{\Delta t}$$
 #### Differenzen- und Differenzialquotient
 - Bei linearen Veränderungen von $\Phi$ gilt die zuvor aufgestellte Formel $$U_{ind}=n\cdot\frac{\Delta\Phi}{\Delta t}$$
-- Bei nichtlinearen Veränderungen von $\Phi$ lässt sich der Differenzenquotient in einen Differenzialquotienten überführen
-
+- Bei nichtlinearen Veränderungen von $\Phi$ lässt sich der Differenzenquotient in einen Differenzialquotienten überführen $$\begin{aligned}U_{ind}&=n\cdot \frac{d\Phi}{dt}\\\\U_{ind}&=n\cdot\dot\Phi\end{aligned}$$
 
 
 
