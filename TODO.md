@@ -1,6 +1,11 @@
 ### Schule
 - [ ] Geschi lernen
 
+### Urlaub
+- [ ] Urlaub nach Schweden planen
+	- [ ] Wohnmobil?
+	- [ ] Zelt?
+
 ### Abitur (bis 29.4)
 - [ ] Physik lernen
 - [ ] Mathe lernen
@@ -11,7 +16,7 @@
 - [ ] Afterparty
 
 ### Mottowoche
-- [ ] Sixpack machen
+- [ ] Bier sixpack machen
 - [ ] Bierkostüm besorgen
 
 
