@@ -15,13 +15,13 @@ $$U_{ind}=\frac{\Delta(\vec B \cdot\vec A)}{\Delta t} $$
 ### Induktionsgesetz
 - Eine Spule mit n Windungen kann als n Leiterschleifen modelliert werden
 - Daraus folgt:
-$$\begin{aligned}U_{ind}&=n\cdot\frac{\Delta(\vec B \cdot\vec A)}{\Delta t}\\\\U_{ind}&=n\cdot\frac{\Delta\Phi}{\Delta t}\end{aligned}$$
-- Daraus folgt für $B\perp A:$ $$U_{ind}=n\cdot\frac{\Delta(B \cdot A)}{\Delta t}$$
+$$\begin{aligned}U_{ind}&=-n\cdot\frac{\Delta(\vec B \cdot\vec A)}{\Delta t}\\\\U_{ind}&=-n\cdot\frac{\Delta\Phi}{\Delta t}\end{aligned}$$
+- Daraus folgt für $B\perp A:$ $$U_{ind}=-n\cdot\frac{\Delta(B \cdot A)}{\Delta t}$$
 #### Differenzen- und Differenzialquotient
-- Bei linearen Veränderungen von $\Phi$ gilt die zuvor aufgestellte Formel $$U_{ind}=n\cdot\frac{\Delta\Phi}{\Delta t}$$
-- Bei nichtlinearen Veränderungen von $\Phi$ lässt sich der Differenzenquotient in einen Differenzialquotienten überführen $$\begin{aligned}U_{ind}&=n\cdot \frac{d\Phi}{dt}\\\\U_{ind}&=n\cdot\dot\Phi\end{aligned}$$
-- Bei konstanter Fläche A $(\dot A = 0)$ gilt:$$U_{ind}=n\cdot A\cdot \dot B$$
-- Bei konstanter Fläche B $(\dot B = 0)$ gilt:$$U_{ind}=n\cdot \dot A\cdot B$$
+- Bei linearen Veränderungen von $\Phi$ gilt die zuvor aufgestellte Formel $$U_{ind}=-n\cdot\frac{\Delta\Phi}{\Delta t}$$
+- Bei nichtlinearen Veränderungen von $\Phi$ lässt sich der Differenzenquotient in einen Differenzialquotienten überführen $$\begin{aligned}U_{ind}&=-n\cdot \frac{d\Phi}{dt}\\\\U_{ind}&=-n\cdot\dot\Phi\end{aligned}$$
+- Bei konstanter Fläche A $(\dot A = 0)$ gilt:$$U_{ind}=-n\cdot A\cdot \dot B$$
+- Bei konstanter Fläche B $(\dot B = 0)$ gilt:$$U_{ind}=-n\cdot \dot A\cdot B$$
 
 ### Lentz'sche Regel
 - Der Induktionsstrom ist so gerichtet, dass er seiner Ursache entgegenwirkt
