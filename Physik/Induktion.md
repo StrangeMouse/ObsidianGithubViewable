@@ -8,13 +8,14 @@ Spannung, die in einem Leiter aufgrund einer Veränderung des magnetischen Felde
 	1. Veränderung der magnetischen Flussdichte
 	2. Veränderung der Fläche des Leiters
 
-$$U_{ind}=\frac{\Delta(\vec \abs B\cdot \vec A) }{\Delta t}$$
-$$U_{ind}=\frac{\Delta(\vec B \times\vec A)}{\Delta t} $$
+$$U_{ind}=\frac{\Delta(\lvert \vec B\rvert \cdot \lvert \vec A \rvert \cdot \cos(\varphi)) }{\Delta t}$$
+$$U_{ind}=\frac{\Delta(\vec B \cdot\vec A)}{\Delta t} $$
+
 
 ### Induktionsgesetz
 - Eine Spule mit n Windungen kann als n Leiterschleifen modelliert werden
 - Daraus folgt:
-$$\begin{aligned}U_{ind}&=n\cdot\frac{\Delta(\vec B \times\vec A)}{\Delta t}\\\\U_{ind}&=n\cdot\frac{\Delta\Phi}{\Delta t}\end{aligned}$$
+$$\begin{aligned}U_{ind}&=n\cdot\frac{\Delta(\vec B \cdot\vec A)}{\Delta t}\\\\U_{ind}&=n\cdot\frac{\Delta\Phi}{\Delta t}\end{aligned}$$
 - Daraus folgt für $B\perp A:$ $$U_{ind}=n\cdot\frac{\Delta(B \cdot A)}{\Delta t}$$
 #### Differenzen- und Differenzialquotient
 - Bei linearen Veränderungen von $\Phi$ gilt die zuvor aufgestellte Formel $$U_{ind}=n\cdot\frac{\Delta\Phi}{\Delta t}$$
