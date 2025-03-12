@@ -20,3 +20,15 @@
 - [ ] Bierkostüm besorgen
 
 
+
+
+
+
+
+
+
+
+### unimportant
+- [ ] bluetooth distortion (lost - tony ann)
+
+
