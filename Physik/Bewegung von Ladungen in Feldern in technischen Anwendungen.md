@@ -3,4 +3,4 @@
 
 ### Linearbeschleuniger
 - Hintereinanderschaltung mehrerer Beschleunigungsstrecken (Driftröhren)![[Pasted image 20250312211530.png]]
-- Die länge
+- Die Länge der Driftröhren muss von dem Abstand zur Teilchenquelle abhängen, wenn der Beschleuniger mit einer gleichbleibenden Frequenz betrieben werden soll
