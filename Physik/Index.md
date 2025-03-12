@@ -72,7 +72,7 @@
 - Induktivität einer Spule
 - Selbstinduktion
 
-### Bewegung von Ladungen in Feldern in technischen Anwendungen
+### [[Bewegung von Ladungen in Feldern in technischen Anwendungen]]
 - Braun'sche Röhre
 	- Aufbau und Verwendung
 	- Superpositionsprinzip
