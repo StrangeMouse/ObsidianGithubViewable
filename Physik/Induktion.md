@@ -41,6 +41,9 @@ $$\begin{aligned}U_{ind}&=-n\cdot\frac{\Delta(\vec B \cdot\vec A)}{\Delta t}\\\\
 - Proportionalitätsfaktor für den Strom der Selbstinduktion $L$
 - Bei einer langen Spule: $$L=\frac{\mu_0\cdot\mu_r \cdot n^2\cdot A}{l}$$
 
+### Energie des Magnetfeldes einer langen Spule
+
+
 
 
 
