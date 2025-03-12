@@ -35,7 +35,7 @@ $$\begin{aligned}U_{ind}&=-n\cdot\frac{\Delta(\vec B \cdot\vec A)}{\Delta t}\\\\
 - Das Magnetfeld verändert sich bei veränderder Stromstärke
 - Das sich verändernde Magnetfeld induziert wiederum eine Spannung im Leiter
 - Eine sich verändernde Stromstärke hemmt also ihre eigene Veränderung
-- Für eine lange Spule gilt daher:$$\begin{aligned} U \end{aligned}$$
+- Für eine lange Spule gilt daher:$$\begin{aligned} U_{ind}&=-n\cdot\frac{\Delta(\vec B \cdot\vec A)}{\Delta t} \\\ \end{aligned}$$
 
 
 
