@@ -24,6 +24,9 @@
 ### Abidenkmal
 - [ ] 20 Euro schein?
 
+### Abizug?
+
+
 ### Mottowoche
 - [ ] Bier sixpack machen
 - [ ] Bierkostüm besorgen
