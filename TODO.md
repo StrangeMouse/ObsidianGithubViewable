@@ -18,6 +18,12 @@
 - [ ] Caterer
 - [ ] Afterparty
 
+### Abistreich
+- [ ] Lehrerrave?
+
+### Abidenkmal
+- [ ] 20 Euro schein?
+
 ### Mottowoche
 - [ ] Bier sixpack machen
 - [ ] Bierkostüm besorgen
