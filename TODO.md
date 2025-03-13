@@ -25,7 +25,8 @@
 - 
 
 ### Abidenkmal
-- [ ] 20 Euro schein?
+- 20 Euro schein?
+- Denkmal
 
 ### Abizug?
 
