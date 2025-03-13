@@ -8,7 +8,7 @@
 
 ### Abitur (bis 29.4)
 - [ ] Physik lernen
-	- [ ] Q1
+	- [x] Q1
 	- [ ] Q2
 	- [ ] Q3
 - [ ] Mathe lernen
