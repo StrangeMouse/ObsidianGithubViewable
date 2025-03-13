@@ -19,8 +19,10 @@
 - [ ] Afterparty
 
 ### Abistreich
-- [ ] Lehrerrave?
-- [ ] 
+- Lehrerrave?
+-  Lehrer Dance battle
+- 80er Musik + techno + fußball
+- 
 
 ### Abidenkmal
 - [ ] 20 Euro schein?
