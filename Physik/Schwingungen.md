@@ -6,5 +6,8 @@
 - **Schwingungsdauer/Periodendauer:** Dauer einer Periode $(T)$
 - **Frequenz:** Anzahl Perioden pro Zeit $(f)$
 - **Phasenwinkel:** Position im Schwingungsverlauf
+- **Rückstellkraft:** Kraft in Richtung Ruhelage
 
-### Zeitlicher Verlauf
+
+### Harmonische Schwingung
+- Schwingung, bei der die R
