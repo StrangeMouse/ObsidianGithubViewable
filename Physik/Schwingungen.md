@@ -14,3 +14,4 @@ Schwingung, bei der die Rückstellkraft proportional zur Auslenkung ist
 
 #### Federpendel
 ![[Schwingungen 2025-03-14 14.30.34.excalidraw]]
+
