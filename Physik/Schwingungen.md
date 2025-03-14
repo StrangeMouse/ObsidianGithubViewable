@@ -5,6 +5,6 @@
 - **Periode:** Sich wiederholende Einheit der Schwingung
 - **Schwingungsdauer/Periodendauer:** Dauer einer Periode $(T)$
 - **Frequenz:** Anzahl Perioden pro Zeit $(f)$
-**Phasenwinkel:** Position in der Periode 
+- **Phasenwinkel:** Position im Schwingungsverlauf
 
 ### Zeitlicher Verlauf
