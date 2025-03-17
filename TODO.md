@@ -23,6 +23,7 @@
 - Lehrer Dance battle
 - 80er Musik + techno + fußball
 - BEERDIGUNG mit (Chor-)Musik
+- Singende steigt aus dem Sarg auf
 - Denkmal für Abijahrgang auf *Sarg*
 - Afterparty
 
