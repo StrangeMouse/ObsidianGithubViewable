@@ -20,13 +20,9 @@
 
 ### Abistreich
 - Lehrerrave?
-- Lehrer Dance battle
+-  Lehrer Dance battle
 - 80er Musik + techno + fußball
-- BEERDIGUNG mit (Chor-)Musik
-- Reden zu abschluss
-- Singende steigt aus dem Sarg auf
-- Denkmal für Abijahrgang auf *Sarg*
-- Afterparty
+- 
 
 ### Abidenkmal
 - 20 Euro schein?
