@@ -15,6 +15,6 @@ Schwingung, bei der die Rückstellkraft proportional zur Auslenkung ist
 #### Federpendel
 ![[Schwingungen 2025-03-14 14.30.34.excalidraw]]
 
-- Rückstellkraft ist eine Kombination aus Federkraft und Gewichtskraft$$\begin{aligned}F_r&=F_F - F_G \\ F_r &= D \cdot s -m\cdot g \\  \end{aligned}$$
+- Rückstellkraft ist eine Kombination aus Federkraft und Gewichtskraft$$\begin{aligned}F_r&=F_F - F_G \\ F_r &= D \cdot s -m\cdot g \\ F_{r}&=  \end{aligned}$$
 - Ruhelage ist die Auslenkung der Feder, in der die Gewichtskraft gleich der Federkraft ist 
 - 
