@@ -22,6 +22,7 @@ Schwingung, bei der die Rückstellkraft proportional zur Auslenkung ist
 F_{r}(t)&= -D\cdot y(t) \\
 a_{r}(t)\cdot m&=-D\cdot y(t) \\
 a_{r}(t)&=-\frac{D}{m}\cdot y(t) \\
-\ddot{y}(t)&=-\frac{D}{m}\cdot y(t)
+\ddot{y}(t)&=-\frac{D}{m}\cdot y(t) \\
+\text{L\"osung mittels Ansatz}
 \end{align}
 $$
