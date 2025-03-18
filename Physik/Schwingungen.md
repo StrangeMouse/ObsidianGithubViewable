@@ -19,9 +19,9 @@ Schwingung, bei der die Rückstellkraft proportional zur Auslenkung ist
 - Ruhelage ist die Auslenkung der Feder, in der die Gewichtskraft gleich der Federkraft ist $(s_{0})$
 - Aus der Rückstellkraft lässt sich die DGL der Schwinung aufstellen: $$
 \begin{align}
-F_{r}(t)&= -D\cdot y(t) \\ \\
-a_{r}(t)\cdot m&=-D\cdot y(t) \\ \\
-a_{r}(t)&=-\frac{D}{m}\cdot y(t) \\ \\
+F_{r}(t)&= -D\cdot y(t) \\
+a_{r}(t)\cdot m&=-D\cdot y(t) \\
+a_{r}(t)&=-\frac{D}{m}\cdot y(t) \\
 \ddot{y}(t)&=-\frac{D}{m}\cdot y(t) \\ \\ 
 \implies y(t)&= \hat{y}\cdot \sin(w\cdot t)
 \end{align}
