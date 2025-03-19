@@ -28,12 +28,12 @@ a_{r}(t)&=-\frac{D}{m}\cdot y(t) \\
 $$
 - Für die Schwingungsdauer folgt:$$
 \begin{align}
-y(t)&=\hat{y}\cdot \sin(w\cdot t) \\ 
+y(t)&=\hat{y}\cdot \sin(w\cdot t)&&&&&&&&&&\\ 
 \dot{y}(t)&=w \cdot \hat{y}\cdot \sin(w\cdot t) \\
 \ddot{y}(t) &=w^{2}\cdot \hat{y}\cdot \sin (w\cdot t) \\ \\
 a(t) &=w^{2}\cdot \hat{y}\cdot \sin (w\cdot t) \\
 m\cdot a(t) &=m \cdot w^{2}\cdot \hat{y}\cdot \sin (w\cdot t) \\
-F(t) &=m \cdot w^{2}\cdot y(t) \\
-\text{f\"ur das Federpendel gilt:} \quad F(t)&=
+F(t) &=m \cdot w^{2}\cdot y(t) \\ \\\
+\text{f\"ur das Federpendel gilt:} \quad F(t)&= 
 \end{align}
 $$
