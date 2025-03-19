@@ -34,6 +34,8 @@ y(t)&=\hat{y}\cdot \sin(w\cdot t)&&&&&&&&&&\\
 a(t) &=w^{2}\cdot \hat{y}\cdot \sin (w\cdot t) \\
 m\cdot a(t) &=m \cdot w^{2}\cdot \hat{y}\cdot \sin (w\cdot t) \\
 F(t) &=m \cdot w^{2}\cdot y(t) \\ \\
-\text{f\"ur das Federpendel gilt:} \quad F(t)&= 
+\text{f\"ur das Federpendel gilt:} \quad F(t)&=-D\cdot y(t) \\ \\
+\implies-D\cdot y(t)&=m\cdot w^{2}\cdot y(t) \\
+ 
 \end{align}
 $$
