@@ -26,3 +26,10 @@ a_{r}(t)&=-\frac{D}{m}\cdot y(t) \\
 \implies y(t)&= \hat{y}\cdot \sin(w\cdot t)
 \end{align}
 $$
+- Für die Schwingungsdauer folgt:$$
+\begin{align}
+y(t)&=\hat{y}\cdot \sin(w\cdot t) \\ \\
+\dot{y}(t)&=w \cdot \hat{y}\cdot \sin(w\cdot t) \\ \\
+\ddot{y}(t) &=w^{2}\cdot \hat{y}\cdot \sin (w\cdot t)
+\end{align}
+$$
