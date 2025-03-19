@@ -36,6 +36,8 @@ m\cdot a(t) &=m \cdot w^{2}\cdot \hat{y}\cdot \sin (w\cdot t) \\
 F(t) &=m \cdot w^{2}\cdot y(t) \\ \\
 \text{f\"ur das Federpendel gilt:} \quad F(t)&=-D\cdot y(t) \\ \\
 \implies-D\cdot y(t)&=m\cdot w^{2}\cdot y(t) \\
- 
+-D&=m\cdot w^{2} \\
+w^{2}&=-\frac{D}{m} \\
+w&=\sqrt{ -\frac{D}{m} }
 \end{align}
 $$
