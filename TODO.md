@@ -1,10 +1,12 @@
 ### Schule
-- [ ] Geschi lernen
+- [x] Geschi lernen
+- [ ] Beurlaubung für Physik Exkursion
 
 ### Urlaub
 - [ ] Urlaub nach Schweden planen
 	- [ ] Wohnmobil?
 	- [ ] Zelt?
+	- [ ] Norwegen?
 
 ### Abitur (bis 29.4)
 - [ ] Physik lernen
@@ -16,6 +18,10 @@
 
 ### Abiball
 - [ ] Caterer
+- [ ] Finanzen
+	- [ ] Geldangaben von Mia
+	- [ ] In Tabelle Eintragen
+	- [ ] Gema (kein Eintritt, nur Essen)
 - [ ] Afterparty
 
 ### Abistreich
@@ -26,14 +32,18 @@
 
 ### Abidenkmal
 - 20 Euro schein?
-- Denkmal
+- Rakete?
+	- machbarkeit
 
 ### Abizug?
-
+Nu uh
 
 ### Mottowoche
 - [ ] Bier sixpack machen
+	- [ ] Pappe besorgen
+	- [ ] Krepppapier
 - [ ] Bierkostüm besorgen
+- [ ] Deiters Wiesbaden oder Online (grün)
 
 
 
