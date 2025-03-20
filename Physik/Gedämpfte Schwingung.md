@@ -1,2 +1,2 @@
-- Reibung in einem Schwingenden System verursacht eine Abnahme der Schwinungsamplitude über die Zeit
+- Reibung in einem Schwingenden System verursacht eine Abnahme der Schwingungsamplitude über die Zeit
 - 
