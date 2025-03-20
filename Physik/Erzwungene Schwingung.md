@@ -9,5 +9,9 @@ Wenn ein Schwingendes System periodisch Angeregt wird, spricht man von einer erz
 	- Erreger ist dem Resonator um $\frac{1}{2}\pi$ voraus
 	- Kraft wirkt in Beschleunigungsrichtung
 	- $v \sim \cos(w\cdot t);\quad a \sim -\sin(w\cdot t)$
+- Resonatoramplitude wird immer größer
+- [[Resonanz|Resonanzfall]]
 
 ### Erregerfrequenz >> Resonanzfrequenz
+- Erreger und Resonator schwingen [[Phasenverschiebung|gegenphasig]]
+- Resonatoramplitude ist kleiner als Erregeramplitude
