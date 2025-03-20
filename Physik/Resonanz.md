@@ -1,0 +1,1 @@
+Jedes Schwingende System
