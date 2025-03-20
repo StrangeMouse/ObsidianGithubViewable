@@ -1,1 +1,1 @@
-Jedes Schwingende System
+Jedes Schwingende System hat eine eigenfrequenz
