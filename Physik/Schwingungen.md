@@ -44,7 +44,11 @@ $$
 
 #### Fadenpendel bei kleinen Auslenkungen
 ![[Schwingungen 2025-03-20 17.28.12.excalidraw|30%]]
-
+- Betrachtet man beim Fadenpendel die Auslenkung nur in x-Richtung so gilt:$$
+\begin{align}
+\sin(\alpha)&=F_{G}
+\end{align}
+$$
 
 
 
