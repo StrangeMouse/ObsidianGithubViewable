@@ -34,14 +34,16 @@ y(t)&=\hat{y}\cdot \sin(w\cdot t)&&&&&&&&\\
 a(t) &=w^{2}\cdot \hat{y}\cdot \sin (w\cdot t) \\
 m\cdot a(t) &=m \cdot w^{2}\cdot \hat{y}\cdot \sin (w\cdot t) \\
 F(t) &=m \cdot w^{2}\cdot y(t) \\ \\
-\text{f\"ur das Federpendel gilt:} \quad F(t)&=-D\cdot y(t) \\ \\
-\implies-D\cdot y(t)&=m\cdot w^{2}\cdot y(t) \\
--D&=m\cdot w^{2} \\
-w^{2}&=-\frac{D}{m} \\ \\
-w&=\sqrt{ -\frac{D}{m} }
+\text{f\"ur das Federpendel gilt:} \quad F(t)&=D\cdot y(t) \\ \\
+\implies D\cdot y(t)&=m\cdot w^{2}\cdot y(t) \\
+D&=m\cdot w^{2} \\
+w^{2}&=\frac{D}{m} \\ \\
+w&=\sqrt{ \frac{D}{m} } \\
+T&=2\pi \cdot \sqrt{ \frac{D}{m} }
 \end{align}
 $$
-- 
+- Die Schwingungsbewegung ist deckungsgleich mit der Projektion einer Kreisbewegung
+	- ==> Die Schwingung kann durch eine Sinuskurve beschrieben werden![[Pasted image 20250320191739.png]]
 
 #### Fadenpendel bei kleinen Auslenkungen
 ![[Schwingungen 2025-03-20 17.28.12.excalidraw|30%]]
@@ -57,7 +59,7 @@ $$
 
 - Die Rückstellende Kraft ist proportional zur Auslenkung 
 	- ==> Harmonische Schwingung bei kleiner Auslenkung
-- Für die Schwingungsdauer gilt wie beim [[Schwingungen#Federpendel|Federpendel]]: $$
+- Für die Schwingungsdauer gilt wie beim [[Schwingung#Federpendel|Federpendel]]: $$
 \begin{align}
 \ddot{x}(t)&=w^{2}\cdot x(t) \\
 a(t)&=w^{2}\cdot x(t) \\
@@ -67,10 +69,13 @@ F_{R}&=m\cdot g\cdot \frac{x}{l} \\ \\
 F(t)&=F_{R} \\
 m\cdot w^{2}\cdot x(t)&=m\cdot g\cdot \frac{x}{l} \\ \\
 w^{2}&=\frac{g}{l} \\
-w&=\sqrt{ \frac{g}{l} }
+w&=\sqrt{ \frac{g}{l} } \\
+T&=2\pi \cdot\sqrt{ \frac{g}{l} }
 
 \end{align}
 $$
+
+##
 
 
 
