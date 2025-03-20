@@ -46,3 +46,4 @@ $$
 ![[Schwingungen 2025-03-19 23.21.53.excalidraw|30%]]
 
 
+
