@@ -43,7 +43,20 @@ w&=\sqrt{ -\frac{D}{m} }
 $$
 
 #### Fadenpendel bei kleinen Auslenkungen
-![[Schwingungen 2025-03-20 17.28.12.excalidraw]]
+![[Schwingungen 2025-03-20 17.28.12.excalidraw|30%]]
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![[Schwingungen 2025-03-19 23.21.53.excalidraw|30%]]
 
 
