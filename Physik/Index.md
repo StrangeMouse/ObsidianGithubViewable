@@ -109,8 +109,9 @@
 ### [[Resonanz]]
 - Definition
 - Resonanzkurven mit verschiedener Dämpfung
-### Erzwungene Schwingung
+### [[Erzwungene Schwingung]]
 - Phasenverschiebung zwischen Kraft und Elongation
+- - Resonanzkurven mit verschiedener Dämpfung
 ### [[Gedämpfte Schwingung]]
 - Erweiterung der reibungsfreien Idealisierung
 - Dämpfungsverhalten (exponentielle Abnahme der Amplitude)
