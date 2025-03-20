@@ -106,11 +106,11 @@
 - maximale Stromstärke
 - Gegenüberstellung der Energieformen zu mechanischer Schwingung
 
-### Resonanz
+### [[Resonanz]]
 - Definition
 ### Erzwungene Schwingung
 - Phasenverschiebung zwischen Kraft und Elongation
-### Dämpfung
+### [[Gedämpfte Schwingung]]
 - Erweiterung der reibungsfreien Idealisierung
 - Dämpfungsverhalten (exponentielle Abnahme der Amplitude)
 	- graphische Darstellung

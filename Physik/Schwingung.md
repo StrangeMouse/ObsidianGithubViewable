@@ -88,8 +88,6 @@ $$
 	1. Kinetische Energie in Potenzielle Energie umgewandelt
 	2. Potenzielle Energie in Kinetische Energie umgewandelt
 
-###
-
 
 
 
