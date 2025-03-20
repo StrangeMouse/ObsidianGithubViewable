@@ -46,11 +46,13 @@ $$
 ![[Schwingungen 2025-03-20 17.28.12.excalidraw|30%]]
 - Betrachtet man beim Fadenpendel die Auslenkung nur in x-Richtung so gilt:$$
 \begin{align}
-\sin(\alpha)&=\frac{F_{R}}{F_{G}} \\
+\sin(\alpha)&=\frac{F_{R}}{F_{G}}  &  &  &  &  &  &\\
 F_{R}&=\sin(\alpha)\cdot F_{R} \\ \\
 \tan(\alpha)&=\frac{x}{l} \\
-x&=\tan(\alpha)\cdot l \\
-\text{Kleinwinkeln}
+x&=\tan(\alpha)\cdot l \\ \\
+\text{Kleinwinkeln\"aherung:}\quad\sin (\alpha)&=\tan(\alpha) \\ \\
+\implies \frac{F_{R}}{F_{G}}&=\frac{x}{l} \\
+F_{R}&=F_{G}\cdot \frac{x}{l}
 \end{align}
 $$
 
