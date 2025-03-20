@@ -46,19 +46,30 @@ $$
 ![[Schwingungen 2025-03-20 17.28.12.excalidraw|30%]]
 - Betrachtet man beim Fadenpendel die Auslenkung nur in x-Richtung so gilt:$$
 \begin{align}
-\sin(\alpha)&=\frac{F_{R}}{F_{G}}  &  &  &  &  &  &\\
-F_{R}&=\sin(\alpha)\cdot F_{R} \\ \\
-\tan(\alpha)&=\frac{x}{l} \\
-x&=\tan(\alpha)\cdot l \\ \\
+\sin(\alpha)&=\frac{F_{R}}{F_{G}}  &  &  &  &  &  &\\ \\
+\tan(\alpha)&=\frac{x}{l} \\ \\
 \text{Kleinwinkeln\"aherung:}\quad\sin (\alpha)&=\tan(\alpha) \\ \\
-\implies \frac{F_{R}}{F_{G}}&=\frac{x}{l} \\
+\implies \frac{F_{R}}{F_{G}}&=\frac{x}{l} \\ \\
 F_{R}&=F_{G}\cdot \frac{x}{l}
 \end{align}
+$$ 
+
+- Die Rückstellende Kraft ist proportional zur Auslenkung 
+	- ==> Harmonische Schwingung bei kleiner Auslenkung
+- Für die Schwingungsdauer gilt wie beim [[Schwingungen#Federpendel|Federpendel]]: $$
+\begin{align}
+\ddot{x}(t)&=w^{2}\cdot x(t) \\
+a(t)&=w^{2}\cdot x(t) \\
+F(t)&=m\cdot w^{2}\cdot x(t) \\ \\
+F_R&=F_{G}\cdot \frac{x}{l} \\
+F_{R}&=m\cdot g\cdot \frac{x}{l} \\ \\
+F(t)&=F_{R} \\
+m\cdot w^{2}\cdot x(t)&=m\cdot g\cdot \frac{x}{l} \\ \\
+w^{2}&=\frac{g}{l} \\
+w&=\sqrt{ \frac{g}{l} }
+
+\end{align}
 $$
-
-
-
-
 
 
 
