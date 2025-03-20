@@ -7,4 +7,4 @@ Wenn ein Schwingendes System periodisch Angeregt wird, spricht man von einer erz
 ### Erregerfrequenz = Resonanzfrequenz
 - Erreger und Resonator schwingen um $\frac{1}{2}\pi$ versetzt
 	- Kraft wirkt in Beschleunigungsrichtung
-	- $$
+	- $v \sim \cos(w\cdot t);asim$
