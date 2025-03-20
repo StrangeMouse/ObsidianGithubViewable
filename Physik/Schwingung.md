@@ -75,16 +75,21 @@ T&=2\pi \cdot\sqrt{ \frac{g}{l} }
 \end{align}
 $$
 
-##
-
-
-
-
-
-
-
-
+### Anharmonische Schwingung
 ![[Schwingungen 2025-03-19 23.21.53.excalidraw|30%]]
+- Rückstellende Kraft ist nicht proportional zur Auslenkung
+	- Bsp: Hemmungspendel
+	- Länge bei einer Halbschwingung verändert
+		- ==> Schwingungsdauer für Halbschwingung verändert
+- Kann nicht durch eine Sinuskurver beschrieben werden
+
+### Energieerhaltung
+- Bei einer Schwingung wird immer Abwechselnd:
+	1. Kinetische Energie in Potenzielle Energie umgewandelt
+	2. Potenzielle Energie in Kinetische Energie umgewandelt
+
+###
+
 
 
 
