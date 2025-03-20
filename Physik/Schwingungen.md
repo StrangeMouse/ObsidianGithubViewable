@@ -49,7 +49,7 @@ $$
 \sin(\alpha)&=\frac{F_{R}}{F_{G}} \\
 F_{R}&=\sin(\alpha)\cdot F_{R} \\ \\
 \tan(\alpha)&=\frac{x}{l} \\
-x 
+x
 \end{align}
 $$
 
