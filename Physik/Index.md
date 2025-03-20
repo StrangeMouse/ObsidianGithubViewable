@@ -108,13 +108,13 @@
 
 ### [[Resonanz]]
 - Definition
+- Resonanzkurven mit verschiedener Dämpfung
 ### Erzwungene Schwingung
 - Phasenverschiebung zwischen Kraft und Elongation
 ### [[Gedämpfte Schwingung]]
 - Erweiterung der reibungsfreien Idealisierung
 - Dämpfungsverhalten (exponentielle Abnahme der Amplitude)
 	- graphische Darstellung
-- Resonanzkurven mit verschiedener Dämpfung
 
 ### Phasenverschiebung
 - zwischen äußerer Kraft und Elongation bei [[#Erzwungene Schwingung|erzwungenen Schwingungen]]
