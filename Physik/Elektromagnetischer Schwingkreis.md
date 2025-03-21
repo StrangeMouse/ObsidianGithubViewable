@@ -1,1 +1,1 @@
-![[Elektromagnetischer Schwingkreis 2025-03-21 13.45.34.excalidraw]]
+![[Elektromagnetischer Schwingkreis 2025-03-21 13.45.34.excalidraw|130%]]
