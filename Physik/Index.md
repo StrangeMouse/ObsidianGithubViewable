@@ -98,7 +98,7 @@
 	- lineare Rückstellkraft als Kriterium
 	- Differenzialgleichung
 
-### Elektromagnetischer Schwingkreis
+### [[Elektromagnetischer Schwingkreis]]
 - Schwingungsdauer
 - Frequenz
 - Amplituden
