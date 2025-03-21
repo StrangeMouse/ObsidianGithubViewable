@@ -117,7 +117,7 @@
 - Dämpfungsverhalten (exponentielle Abnahme der Amplitude)
 	- graphische Darstellung
 
-### Phasenverschiebung
+### [[Phasenverschiebung]]
 - zwischen äußerer Kraft und Elongation bei [[#Erzwungene Schwingung|erzwungenen Schwingungen]]
 - zwischen Stromstärke und Spannung bei [[#Elektromagnetischer Schwingkreis|Elektromagnetischen Schwingkreisen]]
 
