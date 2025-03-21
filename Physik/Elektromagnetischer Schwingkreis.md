@@ -5,8 +5,10 @@ $$
 \begin{align}
 U_{C}&=U_{L} \\
 \frac{Q(t)}{C}&=-L\cdot I(t) \\
-\frac{Q(t)}{C}&=-L\cdot \ddot{Q}(t) \\
-\frac{Q(t)}{C}&=-L\cdot \ddot{Q}(t)
+\frac{Q(t)}{C}&=-L\cdot \ddot{Q}(t) \\ \\
+\text{Ansatz: } \quad Q(t)&=\hat{Q}\cdot \sin(w\cdot t)\\
+\quad\ddot{Q}(t)&=-w^{2}\cdot\hat{Q}\cdot \sin(w\cdot t) \\ \\
+
 \end{align}
 $$
 
