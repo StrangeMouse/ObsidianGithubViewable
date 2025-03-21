@@ -2,6 +2,6 @@
 Werden ein geladener Kondensator und eine Spule in Reihe geschaltet, ensteht eine Schwingung des Stromes und der Spannung
 ### Schwingungsdauer
 $$
-
+I(t)=
 $$
 
