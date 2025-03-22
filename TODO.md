@@ -39,6 +39,17 @@
 Nu uh
 
 ### Mottowoche
+1. Kindheitshelden
+	- idk
+2. Dress like your lk
+	- idk
+3. Pyjama
+	- idk
+4. Gruppenkostüm
+	- Bierkasten
+5. Gala/Party/Mafia
+	- Anzug
+
 - [ ] Bier sixpack machen
 	- [ ] Pappe besorgen
 	- [ ] Krepppapier
