@@ -39,7 +39,7 @@ F(t) &=m \cdot w^{2}\cdot y(t) \\ \\
 D&=m\cdot w^{2} \\
 w^{2}&=\frac{D}{m} \\ \\
 w&=\sqrt{ \frac{D}{m} } \\
-T&=2\pi \cdot \sqrt{ \frac{D}{m} }
+T&=2\pi \cdot \sqrt{ \frac{m}{D} }
 \end{align}
 $$
 - Die Schwingungsbewegung ist deckungsgleich mit der Projektion einer Kreisbewegung
