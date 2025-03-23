@@ -23,7 +23,9 @@ Die Maximale Spannung ist bestimmt durch die Gesamtenergie des Schwingkreises, d
 $$
 \begin{align}
 E_{ges}&=E_{pot} \\
-
+E_{ges}&=\frac{1}{2}\cdot C\cdot U_{max}^{2} \\ \\
+U_{max}^{2}&=\frac{2\cdot E_{ges}}{C} \\ \\
+U_{max}&=\sqrt{ \frac{2E_{ges}}{C} }
 \end{align}
 $$
 
