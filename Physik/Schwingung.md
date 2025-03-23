@@ -37,8 +37,9 @@ F(t) &=m \cdot w^{2}\cdot y(t) \\ \\
 \text{f\"ur das Federpendel gilt:} \quad F(t)&=D\cdot y(t) \\ \\
 \implies D\cdot y(t)&=m\cdot w^{2}\cdot y(t) \\
 D&=m\cdot w^{2} \\
-w^{2}&=\frac{D}{m} \\ \\
-w&=\sqrt{ \frac{D}{m} } \\
+w^{2}&=\frac{D}{m} \\
+w&=\sqrt{ \frac{D}{m} } \\ \\
+f&=\frac{1}{2\pi}\sqrt{ \frac{D}{m} } \\
 T&=2\pi \cdot \sqrt{ \frac{m}{D} }
 \end{align}
 $$
