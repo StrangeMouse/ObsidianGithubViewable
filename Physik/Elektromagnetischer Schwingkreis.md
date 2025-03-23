@@ -18,3 +18,5 @@ T&=2\pi \cdot \sqrt{ L\cdot C }
 \end{align}
 $$
 
+###
+
