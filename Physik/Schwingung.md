@@ -89,7 +89,7 @@ $$
 	1. Kinetische Energie in Potenzielle Energie umgewandelt
 	2. Potenzielle Energie in Kinetische Energie umgewandelt
 - Die Gesamtenergie des Systems verändert sich dabei nicht
-- 
+- Energiebilanz f
 
 
 
