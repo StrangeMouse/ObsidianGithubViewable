@@ -87,7 +87,7 @@ $$
 ### Energieerhaltung
 - Bei einer Schwingung wird immer Abwechselnd:
 	1. Kinetische Energie in Potenzielle Energie umgewandelt
-	2. Potenzielle Energie in Kinetische Energie umgewandelt[]()
+	2. Potenzielle Energie in Kinetische Energie umgewandelt
 
 
 
