@@ -28,4 +28,6 @@ U_{max}^{2}&=\frac{2\cdot E_{ges}}{C} \\ \\
 U_{max}&=\sqrt{ \frac{2E_{ges}}{C} }
 \end{align}
 $$
+### Maximale Stromstärke
+Die maximale Stromstärek ist bestimmt durch die Gesamtenergie des Schwingkreises, da 
 
