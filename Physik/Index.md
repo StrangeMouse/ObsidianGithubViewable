@@ -105,6 +105,7 @@
 - maximale Spannung
 - maximale Stromstärke
 - Gegenüberstellung der Energieformen zu mechanischer Schwingung
+- Phasenverschiebung zwischen spannung und stromstärke
 
 ### [[Resonanz]]
 - Definition
