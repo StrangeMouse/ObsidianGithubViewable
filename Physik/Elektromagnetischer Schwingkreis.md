@@ -18,5 +18,9 @@ T&=2\pi \cdot \sqrt{ L\cdot C }
 \end{align}
 $$
 
-###
+### Maximale Spannung
+Die Maximale Spannung ist bestimmt durch die Gesamtenergie des Schwingkreises, da diese erreicht ist wenn der Kondensator vollständig aufgeladen ist
+$$
+E_{ges}=E_{pot}
+$$
 
