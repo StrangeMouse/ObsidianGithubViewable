@@ -89,7 +89,12 @@ $$
 	1. Kinetische Energie in Potenzielle Energie umgewandelt
 	2. Potenzielle Energie in Kinetische Energie umgewandelt
 - Die Gesamtenergie des Systems verändert sich dabei nicht
-- Energiebilanz f
+- Energiebilanz für Federpendel:$$
+\begin{align}
+E_{kin}&=\frac{1}{2}\cdot m\cdot v^{2} &E_{pot}&=\frac{1}{2}\cdot D\cdot s^{2} \\
+
+\end{align}
+$$
 
 
 
