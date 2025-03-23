@@ -92,7 +92,8 @@ $$
 - Energiebilanz für Federpendel:$$
 \begin{align}
 E_{kin}&=\frac{1}{2}\cdot m\cdot v^{2} &E_{pot}&=\frac{1}{2}\cdot D\cdot s^{2} \\
-
+E_{kin}&=\frac{1}{2}\cdot m\cdot(w\cdot \hat{y}\cdot \cos(w\cdot t))^2 &E_{pot}&=\frac{1}{2}\cdot D\cdot \hat{y}\cdot \sin(w\cdot t) \\
+E_{kin}&=\frac{1}{2}\cdot m\cdot
 \end{align}
 $$
 
