@@ -10,6 +10,10 @@ U_{C}&=U_{L} \\
 \quad\ddot{Q}(t)&=-w^{2}\cdot\hat{Q}\cdot \sin(w\cdot t) \\ \\
 \implies \frac{\hat{Q}\cdot \sin(w\cdot t)}{C}&=-L\cdot(-w^{2})\cdot \hat{Q}\cdot \sin(w\cdot t) \\
 \frac{1}{C}&=L\cdot w^{2} \\
+w^{2}&=\frac{1}{L\cdot C} \\
+w&=\sqrt{ \frac{1}{L\cdot C} } \\ \\
+f&=\frac{1}{2\pi}\cdot \sqrt{ \frac{1}{L\cdot C} } \\ \\
+T&=2\pi \cdot \sqrt{ L\cdot C }
 
 \end{align}
 $$
