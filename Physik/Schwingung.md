@@ -90,14 +90,22 @@ $$
 	2. Potenzielle Energie in Kinetische Energie umgewandelt
 - Die Gesamtenergie des Systems verändert sich dabei nicht
 - Energiebilanz für Federpendel:$$
-\begin{split}
+\begin{align}
 E_{kin}&=\frac{1}{2}\cdot m\cdot v^{2} &E_{pot}&=\frac{1}{2}\cdot D\cdot s^{2} \\
 E_{kin}&=\frac{1}{2}\cdot m\cdot(w\cdot \hat{y}\cdot \cos(w\cdot t))^2 &E_{pot}&=\frac{1}{2}\cdot D\cdot (\hat{y}\cdot \sin(w\cdot t))^{2} \\
 E_{kin}&=\frac{1}{2}\cdot m\cdot w^{2}\cdot\hat{y}^{2}\cdot\cos(w\cdot t)^{2} &E_{pot}&=\frac{1}{2}\cdot D\cdot \hat{y}^{2}\cdot\sin(s\cdot t)^{2} \\
 E_{kin}&=\frac{1}{2}\cdot m\cdot \frac{D}{m}\cdot y^{2}\cdot \cos(w\cdot t)^{2} \\
-E_{kin}&=\frac{1}{2}\cdot D\cdot y^{2}\cdot \cos(w\cdot t)^{2} \\ \\
-\end{split}
+E_{kin}&=\frac{1}{2}\cdot D\cdot y^{2}\cdot \cos(w\cdot t)^{2}
+\end{align}
+$$$$
+\begin{align}
+E_{ges}&=E_{kin}+E_{pot} \\
+E_{ges}&=\frac{1}{2}\cdot D\cdot y^{2}\cdot \cos(w\cdot t)^{2}+\frac{1}{2}\cdot D\cdot \hat{y}^{2}\cdot\sin(s\cdot t)^{2} \\
+E_{ges}&=\frac{1}{2}\cdot D\cdot y^{2}\cdot(\cos(w\cdot t)^{2}+\sin(w\cdot t)^{2}) \\ \\
+E_{ges}&=\frac{1}{2}\cdot D\cdot y^{2}
+\end{align}
 $$
+
 
 
 
