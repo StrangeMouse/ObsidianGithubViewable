@@ -33,7 +33,9 @@ Die maximale Stromstärke ist bestimmt durch die Gesamtenergie des Schwingkreise
 $$
 \begin{align}
 E_{ges}&=E_{mag} \\
-E_{ges}&=\frac{1}{2}\cdot L\cdot
+E_{ges}&=\frac{1}{2}\cdot L\cdot I^{2} \\ \\
+I^{2}&=\frac{2\cdot E_{ges}}{L} \\ \\
+I&=\sqrt{ \frac{2E_{ges}}{L}}
 \end{align}
 $$
 
