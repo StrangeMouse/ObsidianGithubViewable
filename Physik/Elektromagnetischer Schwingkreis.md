@@ -19,7 +19,7 @@ T&=2\pi \cdot \sqrt{ L\cdot C }
 $$
 
 ### Maximale Spannung
-Die Maximale Spannung ist bestimmt durch die Gesamtenergie des Schwingkreises, da diese erreicht ist wenn der Kondensator vollständig aufgeladen ist
+Die Maximale Spannung ist bestimmt durch die Gesamtenergie des Schwingkreises, da diese erreicht ist, wenn der Kondensator vollständig aufgeladen ist
 $$
 \begin{align}
 E_{ges}&=E_{pot} \\
@@ -29,5 +29,5 @@ U_{max}&=\sqrt{ \frac{2E_{ges}}{C} }
 \end{align}
 $$
 ### Maximale Stromstärke
-Die maximale Stromstärke ist bestimmt durch die Gesamtenergie des Schwingkreises, da 
+Die maximale Stromstärke ist bestimmt durch die Gesamtenergie des Schwingkreises, da diese Erreicht ist, wenn 
 
