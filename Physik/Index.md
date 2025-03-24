@@ -122,7 +122,7 @@
 - zwischen äußerer Kraft und Elongation bei [[#Erzwungene Schwingung|erzwungenen Schwingungen]]
 - zwischen Stromstärke und Spannung bei [[#Elektromagnetischer Schwingkreis|Elektromagnetischen Schwingkreisen]]
 
-### Wellen
+### [[Wellen]]
 - Beispiele
 	- Seilwellen
 	- Wasserwellen
