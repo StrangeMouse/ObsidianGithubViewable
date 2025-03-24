@@ -6,3 +6,4 @@
 - [ ] Filament black or gray
 - [ ] nickel strip
 - [ ] Rasierklingen
+- [ ] Rote Weste
