@@ -19,7 +19,7 @@
 ### Abiball
 - [ ] Caterer
 - [ ] Finanzen
-	- [ ] Geldangaben von Mia
+	- [x] Geldangaben von Mia
 	- [ ] In Tabelle Eintragen
 	- [ ] Gema (kein Eintritt, nur Essen)
 - [ ] Afterparty
@@ -40,9 +40,11 @@ Nu uh
 
 ### Mottowoche
 1. Kindheitshelden
-	- idk
+	- Nils Holgersson
+		- Rote Weste
 2. Dress like your lk
-	- idk
+	- Schrödingers Katze
+	- Karton
 3. Pyjama
 	- idk
 4. Gruppenkostüm
