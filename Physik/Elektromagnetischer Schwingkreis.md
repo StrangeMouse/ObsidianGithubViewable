@@ -19,15 +19,23 @@ T&=2\pi \cdot \sqrt{ L\cdot C }
 $$
 
 ### Maximale Spannung
-Die Maximale Spannung ist bestimmt durch die Gesamtenergie des Schwingkreises, da diese erreicht ist wenn der Kondensator vollständig aufgeladen ist
+Die Maximale Spannung ist bestimmt durch die Gesamtenergie des Schwingkreises, da diese erreicht ist, wenn der Kondensator vollständig aufgeladen ist
 $$
 \begin{align}
-E_{ges}&=E_{pot} \\
+E_{ges}&=E_{El} \\
 E_{ges}&=\frac{1}{2}\cdot C\cdot U_{max}^{2} \\ \\
 U_{max}^{2}&=\frac{2\cdot E_{ges}}{C} \\ \\
 U_{max}&=\sqrt{ \frac{2E_{ges}}{C} }
 \end{align}
 $$
 ### Maximale Stromstärke
-Die maximale Stromstärke ist bestimmt durch die Gesamtenergie des Schwingkreises, da 
+Die maximale Stromstärke ist bestimmt durch die Gesamtenergie des Schwingkreises, da diese Erreicht ist, wenn die gesamte Energie im Magnetfeld der Spule gespeichert ist
+$$
+\begin{align}
+E_{ges}&=E_{mag} \\
+E_{ges}&=\frac{1}{2}\cdot L\cdot I^{2} \\ \\
+I^{2}&=\frac{2\cdot E_{ges}}{L} \\ \\
+I&=\sqrt{ \frac{2E_{ges}}{L}}
+\end{align}
+$$
 
