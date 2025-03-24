@@ -45,5 +45,5 @@ $$\begin{aligned}U_{ind}&=-n\cdot\frac{\Delta(\vec B \cdot\vec A)}{\Delta t}\\\\
 $$\begin{aligned}  dW&=P\cdot dt \\ &= U_{ind} \cdot I \cdot dt \\ &= -L \cdot \frac{dI}{dt}\cdot I \cdot dt &|\int \\ W&=-\frac 1 2 L \cdot I^2 &|\;\lvert\cdot\rvert \\\\ W&=\frac 1 2 L \cdot I^2 \end{aligned}$$
 
 ### Phasenverschiebung
-Beim Elektrischen Schwingkreis sind die Spannung und Stromstärke um $\frac{\pi}{2}$ Phasenverschoben, da die 
+Beim Elektrischen Schwingkreis sind die Spannung und Stromstärke um $\frac{\pi}{2}$ Phasenverschoben, da die Spannung proportional zur Ladung auf dem Kondensator ist und die Stromstärke die Ableitung der Ladung ist.
 
