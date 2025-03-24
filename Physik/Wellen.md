@@ -20,4 +20,4 @@ Beispiele:
 
 
 
-### Charakteristische Grö
+### Charakteristische Größen
