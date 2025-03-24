@@ -29,5 +29,5 @@ U_{max}&=\sqrt{ \frac{2E_{ges}}{C} }
 \end{align}
 $$
 ### Maximale Stromstärke
-Die maximale Stromstärke ist bestimmt durch die Gesamtenergie des Schwingkreises, da diese Erreicht ist, wenn 
+Die maximale Stromstärke ist bestimmt durch die Gesamtenergie des Schwingkreises, da diese Erreicht ist, wenn die gesamte Energie dfjksal;jfadksl;jkflsa;jkdl;jakl;djkfl;sadjklfjkl;a
 
