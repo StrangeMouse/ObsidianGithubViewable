@@ -44,5 +44,6 @@ $$\begin{aligned}U_{ind}&=-n\cdot\frac{\Delta(\vec B \cdot\vec A)}{\Delta t}\\\\
 ### Energie des Magnetfeldes einer langen Spule
 $$\begin{aligned}  dW&=P\cdot dt \\ &= U_{ind} \cdot I \cdot dt \\ &= -L \cdot \frac{dI}{dt}\cdot I \cdot dt &|\int \\ W&=-\frac 1 2 L \cdot I^2 &|\;\lvert\cdot\rvert \\\\ W&=\frac 1 2 L \cdot I^2 \end{aligned}$$
 
-
+### Phasenverschiebung
+Beim Elektrischen Schwingkreis  
 
