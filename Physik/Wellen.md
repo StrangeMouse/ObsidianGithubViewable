@@ -1,4 +1,6 @@
 Wellen sind Schwingungen, die sich Räumlich ausbreiten. Sie sind sowohl zeitlich, als auch räumlich periodisch
+### Charakteristische Größen
+- 
 ### Transversalwellen
 - Wellen, die senkrecht zur Ausbreitungsrichtung schwingen
 
@@ -17,7 +19,3 @@ Beispiele:
 - Schallwellen
 
 ![[Pasted image 20250324181332.png]]
-
-
-
-### Charakteristische Größen
