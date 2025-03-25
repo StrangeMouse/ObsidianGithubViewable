@@ -7,3 +7,5 @@
 - [ ] nickel strip
 - [ ] Rasierklingen
 - [ ] Rote Weste
+- [ ] Rote Mütze
+
