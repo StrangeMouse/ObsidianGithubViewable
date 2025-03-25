@@ -8,4 +8,3 @@
 - [ ] Rasierklingen
 - [ ] Rote Weste
 - [ ] Rote Mütze
-
