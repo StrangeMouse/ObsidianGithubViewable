@@ -22,7 +22,6 @@ Beispiele:
 
 ![[Pasted image 20250324180549.png]]
 
-Besip
 
 ### Longitudinalwellen
 - Wellen die parallel zur Ausbreitungsrichtung Schwingen
@@ -31,3 +30,4 @@ Beispiele:
 - Schallwellen
 
 ![[Pasted image 20250324181332.png]]
+
