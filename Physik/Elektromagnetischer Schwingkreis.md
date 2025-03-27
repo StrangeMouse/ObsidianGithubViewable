@@ -39,3 +39,8 @@ I&=\sqrt{ \frac{2E_{ges}}{L}}
 \end{align}
 $$
 
+### Gegenüberstellung zu mechanischer Schwingung
+- Der Kondensator entspricht der Feder in einem Federpendel
+- Die Spule entspricht der trägen Masse
+- Elektrische Feldenergie im Kondensator entspricht Spannenergie
+- Magnetische Feldenergie um Spule entspricht Bewegungsenergie
