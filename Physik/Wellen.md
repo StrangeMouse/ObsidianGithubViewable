@@ -33,4 +33,6 @@ Beispiele:
 ![[Pasted image 20250324181332.png]]
 
 ### Zeitliche und Räumliche Periodizität
-- Betrachtet man einen Raumbereich der Welle, so wiederholt sich dieser 
+- Betrachtet man einen Raumbereich der Welle, so wiederholt sich dieser:
+	- Räumlich mit einem Vielfachen der Wellenlänge
+	- Zeitlich mit einem Vielfachen der Periodendauer

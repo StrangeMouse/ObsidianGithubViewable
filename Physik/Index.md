@@ -134,7 +134,7 @@
 	- Zusammenhang mit Frequenz
 - Longitudinal- und Transversalwellen
 - Wellen als zeitlich und räumlich periodischer Vorgang
-### Elektromagnetische Wellen
+### [[Elektromagnetische Wellen]]
 - Vom Kondensator zur Antenne
 ### Elektromagnetisches Spektrum
 - technische Anwendungen
