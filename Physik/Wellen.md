@@ -33,3 +33,4 @@ Beispiele:
 ![[Pasted image 20250324181332.png]]
 
 ### Zeitliche und Räumliche Periodizität
+- Betrachtet man einen Raumbereich
