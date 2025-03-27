@@ -1,6 +1,18 @@
 Wellen sind Schwingungen, die sich Räumlich ausbreiten. Sie sind sowohl zeitlich, als auch räumlich periodisch
 ### Charakteristische Größen
-- Frequenz
+- **Wellenlänge $\lambda$ :** Strecke, die die Welle in einer Periode zurücklegt
+- **Ausbreitungsgeschwindigkeit $v$ :** Geschwindigkeit, mit der sich die Welle ausbreitet
+- **Frequenz $f$ :** Anzahl Wellenlängen, die einen Punkt pro Sekunde durchlaufen
+#### Zusammenhang der Größen
+$$
+\lambda = \frac{v}{f}
+$$
+$$
+f=\frac{v}{\lambda}
+$$
+$$
+v=f\cdot \lambda
+$$
 ### Transversalwellen
 - Wellen, die senkrecht zur Ausbreitungsrichtung schwingen
 
