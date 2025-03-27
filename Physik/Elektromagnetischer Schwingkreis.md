@@ -39,6 +39,10 @@ I&=\sqrt{ \frac{2E_{ges}}{L}}
 \end{align}
 $$
 
+### Phasenverschiebung
+Beim Elektrischen Schwingkreis sind die Spannung und Stromstärke um 
+$\frac{\pi}{2}$ [[Phasenverschiebung|Phasenverschoben]], da die Spannung proportional zur Ladung auf dem Kondensator ist und die Stromstärke die Ableitung der Ladung ist.
+
 ### Gegenüberstellung zu mechanischer Schwingung
 - Der Kondensator entspricht der Feder in einem Federpendel
 - Die Spule entspricht der trägen Masse
