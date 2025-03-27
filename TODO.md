@@ -19,7 +19,7 @@
 ### Abiball
 - [ ] Caterer
 - [ ] Finanzen
-	- [ ] Geldangaben von Mia
+	- [x] Geldangaben von Mia
 	- [ ] In Tabelle Eintragen
 	- [ ] Gema (kein Eintritt, nur Essen)
 - [ ] Afterparty
@@ -39,11 +39,40 @@
 Nu uh
 
 ### Mottowoche
+1. Kindheitshelden
+	- Nils Holgersson
+		- Rote Weste
+2. Dress like your lk
+	- Schrödingers Katze
+	- Karton
+3. Pyjama
+	- idk
+4. Gruppenkostüm
+	- Bierkasten
+5. Gala/Party/Mafia
+	- Anzug
+
 - [ ] Bier sixpack machen
 	- [ ] Pappe besorgen
 	- [ ] Krepppapier
 - [ ] Bierkostüm besorgen
 - [ ] Deiters Wiesbaden oder Online (grün)
+- [ ] Akkupack
+	- [ ] Amazon Bestellung
+		- [ ] Nickelband
+		- [ ] Schalter
+		- [ ] Litze
+
+### Baumarkt
+- 3mm Gewindestange
+- Muttern
+- Grüne Farbe
+
+
+
+
+
+
 
 
 
