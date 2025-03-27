@@ -1,6 +1,6 @@
 Wellen sind Schwingungen, die sich Räumlich ausbreiten. Sie sind sowohl zeitlich, als auch räumlich periodisch
 ### Charakteristische Größen
-- **Wellenlänge:** Die Wellenlänge
+- Frequenz
 ### Transversalwellen
 - Wellen, die senkrecht zur Ausbreitungsrichtung schwingen
 

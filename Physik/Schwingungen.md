@@ -60,7 +60,7 @@ $$
 
 - Die Rückstellende Kraft ist proportional zur Auslenkung 
 	- ==> Harmonische Schwingung bei kleiner Auslenkung
-- Für die Schwingungsdauer gilt wie beim [[Schwingung#Federpendel|Federpendel]]: $$
+- Für die Schwingungsdauer gilt wie beim [[Schwingungen#Federpendel|Federpendel]]: $$
 \begin{align}
 \ddot{x}(t)&=w^{2}\cdot x(t) \\
 a(t)&=w^{2}\cdot x(t) \\

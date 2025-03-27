@@ -81,7 +81,7 @@
 	- Hintereinanderschaltung mehrerer Beschleunigungsstrecken
 
 ## Schwingungen und Wellen
-### [[Schwingung]]
+### [[Schwingungen]]
 - Charakteristische Größen
 	- Elongation
 	- Amplitude
