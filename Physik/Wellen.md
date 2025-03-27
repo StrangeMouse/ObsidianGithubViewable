@@ -33,4 +33,4 @@ Beispiele:
 ![[Pasted image 20250324181332.png]]
 
 ### Zeitliche und Räumliche Periodizität
-- Betrachtet man einen Raumbereich
+- Betrachtet man einen Raumbereich der Welle, so wiederholt sich dieser 
