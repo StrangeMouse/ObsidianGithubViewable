@@ -19,6 +19,7 @@ $$
 Beispiele:
 - Seilwellen
 - Wasserwellen
+- [[Elektromagnetische Wellen]]
 
 ![[Pasted image 20250324180549.png]]
 
@@ -31,3 +32,4 @@ Beispiele:
 
 ![[Pasted image 20250324181332.png]]
 
+### Zeitliche und Räumliche Periodizität
