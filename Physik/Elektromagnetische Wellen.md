@@ -3,4 +3,4 @@
 - Eine Antenne ist ein Schwingkreis, der aufgebogen wurde
 - Das Magnetfeld des Induktors wird dabei durch den Strom in der Mitte des Leiters verursacht
 - Das Elektrische Feld wird durch die Ladungsverschiebung in den Enden verursacht
-- 
+- Die idealisierte Antenne heißt Hertz'scher Dipol 
