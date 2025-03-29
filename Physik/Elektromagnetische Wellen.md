@@ -11,4 +11,5 @@
 
 #### Elektrisches und magnetisches Feld
 - Die Ladungstrennung an den Enden verursacht ein sich zeitlich veränderndes elektrisches Feld
-- Die Ladungsbewegung in der Mitte verursacht ein sich zeitlich veränderndes Magnetfeld 
+- Die Ladungsbewegung in der Mitte verursacht ein sich zeitlich veränderndes Magnetfeld
+- Beide Felder breiten sich 
