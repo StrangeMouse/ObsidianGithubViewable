@@ -8,4 +8,4 @@
 #### Strom- und Spannungsverteilung
 ![[Elektromagnetische Wellen 2025-03-28 23.12.00.excalidraw]]
  - Da die Elektronen, die Enden der Antenne nicht Verlassen können bilden sich dort **Spannungsmaxima**, während sich in der Mitte ein **Strommaximum** bildet
- - 
+ - Das bedeutet, dass sich
