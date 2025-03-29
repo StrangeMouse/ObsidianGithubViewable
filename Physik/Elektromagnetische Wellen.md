@@ -10,4 +10,4 @@
  - Da die Elektronen, die Enden der Antenne nicht Verlassen können bilden sich dort **Spannungsmaxima**, während sich in der Mitte ein **Strommaximum** bildet
 
 #### Elektrisches und magnetisches Feld
-- 
+- Die Ladungstrennung an den Enden verursacht ein
