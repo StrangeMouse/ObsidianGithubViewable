@@ -1,8 +1,8 @@
 ### Schule
 - [x] Geschi lernen
-- [ ] Beurlaubung für Physik Exkursion
+- [x] Beurlaubung für Physik Exkursion
 
-### Urlaub
+### Urlaub!!!!!!!
 - [ ] Urlaub nach Schweden planen
 	- [ ] Wohnmobil?
 	- [ ] Zelt?
