@@ -136,7 +136,7 @@
 - Wellen als zeitlich und räumlich periodischer Vorgang
 ### [[Elektromagnetische Wellen]]
 - Vom Kondensator zur Antenne
-### Elektromagnetisches Spektrum
+### [[Elektromagnetisches Spektrum]]
 - technische Anwendungen
 - biologische Auswirkungen
 
