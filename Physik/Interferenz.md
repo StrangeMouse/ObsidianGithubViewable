@@ -1,0 +1,1 @@
+Wellen überlagern sich gemäß dem Superpositionsprinzip
