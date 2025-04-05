@@ -2,4 +2,4 @@ Wellen überlagern sich gemäß dem Superpositionsprinzip. Die Überlagerung erz
 
 ## Interferenz von Kreiswellen
 ![[Interferenz 2025-04-05 21.51.44.excalidraw]]
-Durch die Überlagerung entstehen örtliche Amplitudenmaxima und Amplitudenminima 
+Durch die Überlagerung entstehen örtliche Amplitudenmaxima und Amplitudenminima
