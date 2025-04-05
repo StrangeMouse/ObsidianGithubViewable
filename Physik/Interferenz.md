@@ -1,1 +1,1 @@
-Wellen überlagern sich gemäß dem Superpositionsprinzip
+Wellen überlagern sich gemäß dem Superpositionsprinzip. Die Überlagerung erzeugt je nach Anordnung der Er
