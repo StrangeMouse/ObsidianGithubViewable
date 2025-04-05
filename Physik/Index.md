@@ -140,7 +140,7 @@
 - technische Anwendungen
 - biologische Auswirkungen
 
-### Interferenz
+### [[Interferenz]]
 - Superpositionsprinzip
 	- Wellen können sich überlagern
 	- Wellen beeinflussen sich gegenseitig nicht
