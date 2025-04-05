@@ -1,0 +1,2 @@
+Das Elektromagnetische Spektrum beschreibt die Eigenschaften [[Elektromagnetische Wellen|elektromagnetischer Strahlung]] abhängig von ihrer Wellenlänge. Das sichtbare Spektrum liegt zwischen $750 \text{ nm}$ und $800\text{ nm}$
+![[Pasted image 20250405213304.png]]

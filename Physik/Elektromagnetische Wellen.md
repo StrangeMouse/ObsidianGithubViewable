@@ -12,4 +12,4 @@
 #### Elektrisches und magnetisches Feld
 - Die Ladungstrennung an den Enden verursacht ein sich zeitlich veränderndes elektrisches Feld
 - Die Ladungsbewegung in der Mitte verursacht ein sich zeitlich veränderndes Magnetfeld
-- Beide Felder breiten sich 
+- Beide Felder breiten sich mit Lichtgeschwindigkeit von der Antenne aus
