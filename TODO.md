@@ -1,8 +1,8 @@
 ### Schule
 - [x] Geschi lernen
-- [x] Beurlaubung für Physik Exkursion
+- [ ] Beurlaubung für Physik Exkursion
 
-### Urlaub!!!!!!!
+### Urlaub
 - [ ] Urlaub nach Schweden planen
 	- [ ] Wohnmobil?
 	- [ ] Zelt?
@@ -63,12 +63,10 @@ Nu uh
 		- [ ] Schalter
 		- [ ] Litze
 
-
-- [ ] Janne Geld geben
-
-### Steam Game
-Replicube
-
+### Baumarkt
+- 3mm Gewindestange
+- Muttern
+- Grüne Farbe
 
 
 
