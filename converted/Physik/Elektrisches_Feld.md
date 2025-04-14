@@ -43,14 +43,14 @@ Umgebung um einen Elektrischen Körper, in der eine Kraft auf andere Ladungen wi
 
 ### Feldlinienbilder
 - homogenes Feld
-	- Feldbild im [Plattenkondensator](Plattenkondensator.md)![Elektrisches Feld 2025-02-17 20.30.52](attachments\Elektrisches_Feld_2025-02-17_20.30.52.excalidraw.svg)
+	- Feldbild im [Plattenkondensator](Plattenkondensator.md)![Elektrisches Feld 2025-02-17 20.30.52](attachments/Elektrisches_Feld_2025-02-17_20.30.52.excalidraw.svg)
 - Radialsymmetrisch
-	- Feldbild einer Punktladung![Elektrisches Feld 2025-02-17 20.37.23](attachments\Elektrisches_Feld_2025-02-17_20.37.23.excalidraw.svg)
+	- Feldbild einer Punktladung![Elektrisches Feld 2025-02-17 20.37.23](attachments/Elektrisches_Feld_2025-02-17_20.37.23.excalidraw.svg)
 - Faraday'scher Käfig
-	- Feld wird durch Influenz in durch Leiter umgebenen Raum ausgeglichen ![Elektrisches Feld 2025-02-17 20.50.58](attachments\Elektrisches_Feld_2025-02-17_20.50.58.excalidraw.svg)
+	- Feld wird durch Influenz in durch Leiter umgebenen Raum ausgeglichen ![Elektrisches Feld 2025-02-17 20.50.58](attachments/Elektrisches_Feld_2025-02-17_20.50.58.excalidraw.svg)
 - Spitzeneffekt: 
 	- Die elektrische Feldstärke ist an einer Spitze am stärksten
-	- Effekt wird für Blitzableiter benutzt![Elektrisches Feld 2025-02-16 20.55.25](attachments\Elektrisches_Feld_2025-02-16_20.55.25.excalidraw.svg)
+	- Effekt wird für Blitzableiter benutzt![Elektrisches Feld 2025-02-16 20.55.25](attachments/Elektrisches_Feld_2025-02-16_20.55.25.excalidraw.svg)
 
 
 
