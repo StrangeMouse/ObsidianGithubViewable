@@ -1,2 +1,0 @@
-- Elektronen in Leitern werden von äußeren elektrischen Feldern beeinflusst
-- Bewegen sich innerhalb des Leiters entsprechend der Feldkraft

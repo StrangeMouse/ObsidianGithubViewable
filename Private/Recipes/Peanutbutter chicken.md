@@ -1,4 +1,0 @@
-- Peanutbutter, Maggi and water in pan
-- Season chicken
-- Cook chicken in sauce
-- Serve on rice
