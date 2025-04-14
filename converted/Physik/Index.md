@@ -1,5 +1,5 @@
 ## Elektrisches und magnetisches Feld
-### [Elektrisches Feld](Elektrisches%20Feld.md)
+### [Elektrisches_Feld](Elektrisches_Feld.md)
 - Feldlinienbilder
 	- homogen
 	- radialsymmetrisch
@@ -13,21 +13,21 @@
 	- radialsymmetrisch
 	- Coulomb'sches Gesetz
 
-### [Elektrische Ladung](Elektrische%20Ladung.md)
+### [Elektrische_Ladung](Elektrische_Ladung.md)
 - Ladung als Erhaltungsgröße
 - [Millikan-Versuch](Millikan-Versuch.md) ([Quantelung](Quantelung.md) der Ladung)
 
-### [Elektrisches Potenzial](Elektrisches%20Potenzial.md)
+### [Elektrisches_Potenzial](Elektrisches_Potenzial.md)
 - Potenzial in Elektrischen Feldern
 	- homogen
 	- radialsymmetrisch
 - Äquipotenziallinien
 
-### [Elektrische Spannung](Elektrische%20Spannung.md)
+### [Elektrische_Spannung](Elektrische_Spannung.md)
 - Spannung als Energie pro Ladung
 - Spannung als Potenzialdifferenz
 
-### [Elektrische Stromstärke](Elektrische%20Stromst%C3%A4rke.md)
+### [Elektrische_Stromstärke](Elektrische_Stromst%C3%A4rke.md)
 - Stromstärke als Ladung pro Zeit
 - Stromstärke als Ableitung der Ladung über Zeit
 
@@ -39,10 +39,10 @@
 - Auf- und Entladevorgänge
 	- Differenzialgleichung für Entladung
 
-### [Bewegte Ladungen im elektrischen Feld](Bewegte%20Ladungen%20im%20elektrischen%20Feld.md)
+### [Bewegte_Ladungen_im_elektrischen_Feld](Bewegte_Ladungen_im_elektrischen_Feld.md)
 - Beschleunigung und Abbremsung parallel zur Feldrichtung
 
-### [Magnetisches Feld](Magnetisches%20Feld.md)
+### [Magnetisches_Feld](Magnetisches_Feld.md)
 - Bewegte Ladungen als Ursache
 - Feldlinienbilder
 	- gerader Leiter
@@ -52,7 +52,7 @@
 	- lange Spule
 - magnetische Feldkonstante
 
-### [Bewegte Ladungen im magnetischen Feld](Bewegte%20Ladungen%20im%20magnetischen%20Feld.md)
+### [Bewegte_Ladungen_im_magnetischen_Feld](Bewegte_Ladungen_im_magnetischen_Feld.md)
 - Bewegung parallel und senkrecht zum magnetischen Feld
 - Lorentzkraft
 	- als Zentripetalkraft
@@ -60,7 +60,7 @@
 - relativistische Massenzunahme
 - [Hall-Effekt](Hall-Effekt.md)
 
-### [Magnetischer Fluss](Magnetischer%20Fluss.md)
+### [Magnetischer_Fluss](Magnetischer_Fluss.md)
 - Definition
 ### [Induktion](Induktion.md)
 - Induktionsspannung aufgrund zeitlicher Änderung im magnetischen Flusses
@@ -72,7 +72,7 @@
 - Induktivität einer Spule
 - Selbstinduktion
 
-### [Bewegung von Ladungen in Feldern in technischen Anwendungen](Bewegung%20von%20Ladungen%20in%20Feldern%20in%20technischen%20Anwendungen.md)
+### [Bewegung_von_Ladungen_in_Feldern_in_technischen_Anwendungen](Bewegung_von_Ladungen_in_Feldern_in_technischen_Anwendungen.md)
 - Braun'sche Röhre
 	- Aufbau und Verwendung
 	- Superpositionsprinzip
@@ -98,7 +98,7 @@
 	- lineare Rückstellkraft als Kriterium
 	- Differenzialgleichung
 
-### [Elektromagnetischer Schwingkreis](Elektromagnetischer%20Schwingkreis.md)
+### [Elektromagnetischer_Schwingkreis](Elektromagnetischer_Schwingkreis.md)
 - Schwingungsdauer
 - Frequenz
 - Amplituden
@@ -110,33 +110,33 @@
 ### [Resonanz](Resonanz.md)
 - Definition
 - Resonanzkurven mit verschiedener Dämpfung
-### [Erzwungene Schwingung](Erzwungene%20Schwingung.md)
+### [Erzwungene_Schwingung](Erzwungene_Schwingung.md)
 - Phasenverschiebung zwischen Kraft und Elongation
 - - Resonanzkurven mit verschiedener Dämpfung
-### [Gedämpfte Schwingung](Ged%C3%A4mpfte%20Schwingung.md)
+### [Gedämpfte_Schwingung](Ged%C3%A4mpfte_Schwingung.md)
 - Erweiterung der reibungsfreien Idealisierung
 - Dämpfungsverhalten (exponentielle Abnahme der Amplitude)
 	- graphische Darstellung
 
 ### [Phasenverschiebung](Phasenverschiebung.md)
-- zwischen äußerer Kraft und Elongation bei [erzwungenen Schwingungen](%23Erzwungene%20Schwingung.md)
-- zwischen Stromstärke und Spannung bei [Elektromagnetischen Schwingkreisen](%23Elektromagnetischer%20Schwingkreis.md)
+- zwischen äußerer Kraft und Elongation bei [erzwungenen Schwingungen](%23Erzwungene_Schwingung.md)
+- zwischen Stromstärke und Spannung bei [Elektromagnetischen Schwingkreisen](%23Elektromagnetischer_Schwingkreis.md)
 
 ### [Wellen](Wellen.md)
 - Beispiele
 	- Seilwellen
 	- Wasserwellen
 	- Schallwellen
-	- [#Elektromagnetische Wellen](%23Elektromagnetische%20Wellen.md)
+	- [#Elektromagnetische_Wellen](%23Elektromagnetische_Wellen.md)
 - Charakteristische Größen
 	- Wellenlänge
 	- Ausbreitungsgeschwindigkeit
 	- Zusammenhang mit Frequenz
 - Longitudinal- und Transversalwellen
 - Wellen als zeitlich und räumlich periodischer Vorgang
-### [Elektromagnetische Wellen](Elektromagnetische%20Wellen.md)
+### [Elektromagnetische_Wellen](Elektromagnetische_Wellen.md)
 - Vom Kondensator zur Antenne
-### [Elektromagnetisches Spektrum](Elektromagnetisches%20Spektrum.md)
+### [Elektromagnetisches_Spektrum](Elektromagnetisches_Spektrum.md)
 - technische Anwendungen
 - biologische Auswirkungen
 
@@ -229,10 +229,10 @@
 - Amplitudenqudrat der Wellenfunktion als Maß für die Aufenthaltswahrscheinlichkeit
 
 ### Atommodelle
-- [#Thomson'sches Atommodell](%23Thomson%27sches%20Atommodell.md)
-- [#Rutherford'sches Atommodell](%23Rutherford%27sches%20Atommodell.md)
-- [#Bohr'sches Atommodell](%23Bohr%27sches%20Atommodell.md)
-- [#Linearer Potenzialtopf](%23Linearer%20Potenzialtopf.md)
+- [#Thomson'sches_Atommodell](%23Thomson%27sches_Atommodell.md)
+- [#Rutherford'sches_Atommodell](%23Rutherford%27sches_Atommodell.md)
+- [#Bohr'sches_Atommodell](%23Bohr%27sches_Atommodell.md)
+- [#Linearer_Potenzialtopf](%23Linearer_Potenzialtopf.md)
 
 ### Thomson'sches Atommodell
 - Entstehung

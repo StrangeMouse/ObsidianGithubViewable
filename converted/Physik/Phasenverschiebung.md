@@ -2,4 +2,4 @@ Phasenverschiebung bezeichnet die Verschiebung zweier Periodischer Vorgänge mit
 
 ### Phasenwinkel
 Periodische Vorgänge, die mit Sinuskurven modelliert werden können sind damit gleichbedeutend mit der Projektion einer Kreisbewegung. Der Winkel zwischen zwei Periodischen vorgängen, wären diese Kreisbewegungen, nennt man **Phasenverschiebungswinkel $\Delta \varphi$**
-![file](Pasted%20image%2020250324171609.png.md)
+![file](Pasted_image_20250324171609.png.md)

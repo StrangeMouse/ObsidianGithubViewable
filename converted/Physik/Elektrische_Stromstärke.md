@@ -1,4 +1,4 @@
-Maß für die Menge an [Ladung](Elektrische%20Ladung.md) pro Zeit und Querschnittsfläche eines Leiters mit der Einheit Ampere $([I]=A)$
+Maß für die Menge an [Ladung](Elektrische_Ladung.md) pro Zeit und Querschnittsfläche eines Leiters mit der Einheit Ampere $([I]=A)$
 $$I=\frac{\Delta Q}{\Delta t} 
 $$
 ### Stromstärke als Ableitung der Ladung

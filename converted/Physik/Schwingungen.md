@@ -13,52 +13,52 @@
 Schwingung, bei der die Rückstellkraft proportional zur Auslenkung ist
 
 #### Federpendel
-![file](Schwingungen%202025-03-14%2014.30.34.excalidraw.md)
+![file](Schwingungen_2025-03-14_14.30.34.excalidraw.md)
 
 - Rückstellkraft ist eine Kombination aus Federkraft und Gewichtskraft
-$$\begin{aligned}F_r&=F_F - F_G \\  &= D \cdot s -m\cdot g \\ &= D\cdot s-D\cdot s_{0}\\ &=D\cdot (s-s_{0}) \\ \\ F_{r}&=(-)D\cdot y\end{aligned}
+$$\begin{aligned}F_r&=F_F - F_G \\\\  &= D \cdot s -m\cdot g \\\\ &= D\cdot s-D\cdot s_{0}\\\\ &=D\cdot (s-s_{0}) \\\\ \\\\ F_{r}&=(-)D\cdot y\end{aligned}
 $$
 - Ruhelage ist die Auslenkung der Feder, in der die Gewichtskraft gleich der Federkraft ist $(s_{0})$
 - Aus der Rückstellkraft lässt sich die DGL der Schwingung aufstellen: 
 $$
 \begin{align}
-F_{r}(t)&= -D\cdot y(t) \\
-a_{r}(t)\cdot m&=-D\cdot y(t) \\
-a_{r}(t)&=-\frac{D}{m}\cdot y(t) \\
-\ddot{y}(t)&=-\frac{D}{m}\cdot y(t) \\ \\ 
+F_{r}(t)&= -D\cdot y(t) \\\\
+a_{r}(t)\cdot m&=-D\cdot y(t) \\\\
+a_{r}(t)&=-\frac{D}{m}\cdot y(t) \\\\
+\ddot{y}(t)&=-\frac{D}{m}\cdot y(t) \\\\ \\\\ 
 \implies y(t)&= \hat{y}\cdot \sin(w\cdot t)
 \end{align}
 $$
 - Für die Schwingungsdauer folgt:
 $$
 \begin{align}
-y(t)&=\hat{y}\cdot \sin(w\cdot t)&&&&&&&&\\ 
-\dot{y}(t)&=w \cdot \hat{y}\cdot \sin(w\cdot t) \\
-\ddot{y}(t) &=w^{2}\cdot \hat{y}\cdot \sin (w\cdot t) \\ \\
-a(t) &=w^{2}\cdot \hat{y}\cdot \sin (w\cdot t) \\
-m\cdot a(t) &=m \cdot w^{2}\cdot \hat{y}\cdot \sin (w\cdot t) \\
-F(t) &=m \cdot w^{2}\cdot y(t) \\ \\
-\text{f\"ur das Federpendel gilt:} \quad F(t)&=D\cdot y(t) \\ \\
-\implies D\cdot y(t)&=m\cdot w^{2}\cdot y(t) \\
-D&=m\cdot w^{2} \\
-w^{2}&=\frac{D}{m} \\
-w&=\sqrt{ \frac{D}{m} } \\ \\
-f&=\frac{1}{2\pi}\sqrt{ \frac{D}{m} } \\
+y(t)&=\hat{y}\cdot \sin(w\cdot t)&&&&&&&&\\\\ 
+\dot{y}(t)&=w \cdot \hat{y}\cdot \sin(w\cdot t) \\\\
+\ddot{y}(t) &=w^{2}\cdot \hat{y}\cdot \sin (w\cdot t) \\\\ \\\\
+a(t) &=w^{2}\cdot \hat{y}\cdot \sin (w\cdot t) \\\\
+m\cdot a(t) &=m \cdot w^{2}\cdot \hat{y}\cdot \sin (w\cdot t) \\\\
+F(t) &=m \cdot w^{2}\cdot y(t) \\\\ \\\\
+\text{f\"ur das Federpendel gilt:} \quad F(t)&=D\cdot y(t) \\\\ \\\\
+\implies D\cdot y(t)&=m\cdot w^{2}\cdot y(t) \\\\
+D&=m\cdot w^{2} \\\\
+w^{2}&=\frac{D}{m} \\\\
+w&=\sqrt{ \frac{D}{m} } \\\\ \\\\
+f&=\frac{1}{2\pi}\sqrt{ \frac{D}{m} } \\\\
 T&=2\pi \cdot \sqrt{ \frac{m}{D} }
 \end{align}
 $$
 - Die Schwingungsbewegung ist deckungsgleich mit der Projektion einer Kreisbewegung
-	- ==> Die Schwingung kann durch eine Sinuskurve beschrieben werden![file](Pasted%20image%2020250320191739.png.md)
+	- ==> Die Schwingung kann durch eine Sinuskurve beschrieben werden![file](Pasted_image_20250320191739.png.md)
 
 #### Fadenpendel bei kleinen Auslenkungen
-![file](Schwingungen%202025-03-20%2017.28.12.excalidraw.md)
+![file](Schwingungen_2025-03-20_17.28.12.excalidraw.md)
 - Betrachtet man beim Fadenpendel die Auslenkung nur in x-Richtung so gilt:
 $$
 \begin{align}
-\sin(\alpha)&=\frac{F_{R}}{F_{G}}  &  &  &  &  &  &\\ \\
-\tan(\alpha)&=\frac{x}{l} \\ \\
-\text{Kleinwinkeln\"aherung:}\quad\sin (\alpha)&=\tan(\alpha) \\ \\
-\implies \frac{F_{R}}{F_{G}}&=\frac{x}{l} \\ \\
+\sin(\alpha)&=\frac{F_{R}}{F_{G}}  &  &  &  &  &  &\\\\ \\\\
+\tan(\alpha)&=\frac{x}{l} \\\\ \\\\
+\text{Kleinwinkeln\"aherung:}\quad\sin (\alpha)&=\tan(\alpha) \\\\ \\\\
+\implies \frac{F_{R}}{F_{G}}&=\frac{x}{l} \\\\ \\\\
 F_{R}&=F_{G}\cdot \frac{x}{l}
 \end{align}
 $$ 
@@ -68,22 +68,22 @@ $$
 - Für die Schwingungsdauer gilt wie beim [Federpendel](Schwingungen%23Federpendel.md): 
 $$
 \begin{align}
-\ddot{x}(t)&=w^{2}\cdot x(t) \\
-a(t)&=w^{2}\cdot x(t) \\
-F(t)&=m\cdot w^{2}\cdot x(t) \\ \\
-F_R&=F_{G}\cdot \frac{x}{l} \\
-F_{R}&=m\cdot g\cdot \frac{x}{l} \\ \\
-F(t)&=F_{R} \\
-m\cdot w^{2}\cdot x(t)&=m\cdot g\cdot \frac{x}{l} \\ \\
-w^{2}&=\frac{g}{l} \\
-w&=\sqrt{ \frac{g}{l} } \\
+\ddot{x}(t)&=w^{2}\cdot x(t) \\\\
+a(t)&=w^{2}\cdot x(t) \\\\
+F(t)&=m\cdot w^{2}\cdot x(t) \\\\ \\\\
+F_R&=F_{G}\cdot \frac{x}{l} \\\\
+F_{R}&=m\cdot g\cdot \frac{x}{l} \\\\ \\\\
+F(t)&=F_{R} \\\\
+m\cdot w^{2}\cdot x(t)&=m\cdot g\cdot \frac{x}{l} \\\\ \\\\
+w^{2}&=\frac{g}{l} \\\\
+w&=\sqrt{ \frac{g}{l} } \\\\
 T&=2\pi \cdot\sqrt{ \frac{g}{l} }
 
 \end{align}
 $$
 
 ### Anharmonische Schwingung
-![file](Schwingungen%202025-03-19%2023.21.53.excalidraw.md)
+![file](Schwingungen_2025-03-19_23.21.53.excalidraw.md)
 - Rückstellende Kraft ist nicht proportional zur Auslenkung
 	- Bsp: Hemmungspendel
 	- Länge bei einer Halbschwingung verändert
@@ -98,10 +98,10 @@ $$
 - Energiebilanz für Federpendel:
 $$
 \begin{align}
-E_{kin}&=\frac{1}{2}\cdot m\cdot v^{2} &E_{pot}&=\frac{1}{2}\cdot D\cdot s^{2} \\
-E_{kin}&=\frac{1}{2}\cdot m\cdot(w\cdot \hat{y}\cdot \cos(w\cdot t))^2 &E_{pot}&=\frac{1}{2}\cdot D\cdot (\hat{y}\cdot \sin(w\cdot t))^{2} \\
-E_{kin}&=\frac{1}{2}\cdot m\cdot w^{2}\cdot\hat{y}^{2}\cdot\cos(w\cdot t)^{2} &E_{pot}&=\frac{1}{2}\cdot D\cdot \hat{y}^{2}\cdot\sin(s\cdot t)^{2} \\
-E_{kin}&=\frac{1}{2}\cdot m\cdot \frac{D}{m}\cdot y^{2}\cdot \cos(w\cdot t)^{2} \\
+E_{kin}&=\frac{1}{2}\cdot m\cdot v^{2} &E_{pot}&=\frac{1}{2}\cdot D\cdot s^{2} \\\\
+E_{kin}&=\frac{1}{2}\cdot m\cdot(w\cdot \hat{y}\cdot \cos(w\cdot t))^2 &E_{pot}&=\frac{1}{2}\cdot D\cdot (\hat{y}\cdot \sin(w\cdot t))^{2} \\\\
+E_{kin}&=\frac{1}{2}\cdot m\cdot w^{2}\cdot\hat{y}^{2}\cdot\cos(w\cdot t)^{2} &E_{pot}&=\frac{1}{2}\cdot D\cdot \hat{y}^{2}\cdot\sin(s\cdot t)^{2} \\\\
+E_{kin}&=\frac{1}{2}\cdot m\cdot \frac{D}{m}\cdot y^{2}\cdot \cos(w\cdot t)^{2} \\\\
 E_{kin}&=\frac{1}{2}\cdot D\cdot y^{2}\cdot \cos(w\cdot t)^{2}
 \end{align}
 $

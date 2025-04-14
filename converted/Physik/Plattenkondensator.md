@@ -1,38 +1,38 @@
-Passives elektrisches Bauelement bestehend aus zwei leitenden Platten und einem [Dielektrikum](Dielektrikum.md), welches elektrische Ladung und damit elektrische Energie in einem [elektrischen Feld](Elektrisches%20Feld.md) speichern kann
-![file](Plattenkondensator%202025-02-20%2018.42.29.excalidraw.md)
+Passives elektrisches Bauelement bestehend aus zwei leitenden Platten und einem [Dielektrikum](Dielektrikum.md), welches elektrische Ladung und damit elektrische Energie in einem [elektrischen Feld](Elektrisches_Feld.md) speichern kann
+![file](Plattenkondensator_2025-02-20_18.42.29.excalidraw.md)
 ### Kapazität
 - Beschreibt Verhältnis aus Spannung und gespeicherter Ladung in der Einheit Farad
 $$C=\frac{Q}{U};\space [C]=F
 $$
-- Herleitung über [Flächenladungsdichte](Elektrisches%20Feld%23Fl%C3%A4chenladungsdichte%20%28Verschiebungsdichte%29.md):
-$$\displaylines{\begin{aligned}\sigma&=\frac Q A=\varepsilon_0\cdot\varepsilon_r\cdot\vec E \quad &(1)\\\\ \vec E&=\frac U d \quad &(2)\\\\ \text{Aus (1) und (2):}\quad \frac Q A&=\varepsilon_0\cdot\varepsilon_r\cdot\frac U d \\ \frac Q U &= \varepsilon_0\cdot\varepsilon_r\cdot\frac A d \\ \Aboxed {C &=\varepsilon_0\cdot\varepsilon_r\cdot\frac A d} \end{aligned}}
+- Herleitung über [Flächenladungsdichte](Elektrisches_Feld%23Fl%C3%A4chenladungsdichte_%28Verschiebungsdichte%29.md):
+$$\displaylines{\begin{aligned}\sigma&=\frac Q A=\varepsilon_0\cdot\varepsilon_r\cdot\vec E \quad &(1)\\\\\\\\ \vec E&=\frac U d \quad &(2)\\\\\\\\ \text{Aus (1) und (2):}\quad \frac Q A&=\varepsilon_0\cdot\varepsilon_r\cdot\frac U d \\\\ \frac Q U &= \varepsilon_0\cdot\varepsilon_r\cdot\frac A d \\\\ \Aboxed {C &=\varepsilon_0\cdot\varepsilon_r\cdot\frac A d} \end{aligned}}
 $$
 
 ### Feldstärke
-- Allgemein: $\displaystyle\vec E=\frac{\vec F}{q}$ ([elektrische Feldstärke](Elektrisches%20Feld%23Elektrische%20Feldst%C3%A4rke.md))
+- Allgemein: $\displaystyle\vec E=\frac{\vec F}{q}$ ([elektrische Feldstärke](Elektrisches_Feld%23Elektrische_Feldst%C3%A4rke.md))
 - Abhängig von Abstand und Spannung: $\displaystyle\vec E =\frac{U}{d}$
 	- Je größer die Spannung und je kleiner der Abstand, desto größer das Feld 
 
 > [!Noch drüber Nachdenken:]
 > - Spannung von außen entspricht genau dem elektrischen Feld in dem Kondensator 
-$$\displaylines{E_{pot}=\vec{F}\cdot s\\\frac{E_{pot}}{Q}=\frac{\vec{F}\cdot s}{Q}}
+$$\displaylines{E_{pot}=\vec{F}\cdot s\\\\\frac{E_{pot}}{Q}=\frac{\vec{F}\cdot s}{Q}}
 $$
 
 ### Feldenergie
-- Energie im Feld entspricht der Potenziellen Energie aller Elektronen (der [Ladung](Elektrische%20Ladung.md)) auf den Platten
+- Energie im Feld entspricht der Potenziellen Energie aller Elektronen (der [Ladung](Elektrische_Ladung.md)) auf den Platten
 - Ladung auf den Platten: $\quad Q=C\cdot U$
 - Potenzielle Energie: $\quad E_{pot}=\int Q \cdot U\,dU$
 - Daraus folgt:
-$$\begin{align}E_{pot}&=\int Q \cdot U \, dU\\E_{pot} &= \int C \cdot U^2 \, dU \\ \Aboxed{ E_{pot} &= \frac 1 2 \ C \cdot U  }\end {align}
+$$\begin{align}E_{pot}&=\int Q \cdot U \, dU\\\\E_{pot} &= \int C \cdot U^2 \, dU \\\\ \Aboxed{ E_{pot} &= \frac 1 2 \ C \cdot U  }\end {align}
 $$
 
 ### Parallelschaltung von Kondensatoren
-- Bei einer Parallelschaltung wirken die Zwei Kondensatoren wie ein Kondensator mit der Kapazität der Summe der beiden einzelnen![file](Plattenkondensator%202025-02-23%2017.15.02.excalidraw.md)
+- Bei einer Parallelschaltung wirken die Zwei Kondensatoren wie ein Kondensator mit der Kapazität der Summe der beiden einzelnen![file](Plattenkondensator_2025-02-23_17.15.02.excalidraw.md)
 
 ### Auf- und Entladevorgänge
-- Die Auf- und Entladevorgänge sind durch jeweils eine Exponentialfunktion beschrieben:![file](Plattenkondensator%202025-02-23%2021.44.58.excalidraw.md)
+- Die Auf- und Entladevorgänge sind durch jeweils eine Exponentialfunktion beschrieben:![file](Plattenkondensator_2025-02-23_21.44.58.excalidraw.md)
 - Für den Entladevorgang folgt dies aus der Folgenden [Differentialgleichung](Mathe/Differentialgleichung.md): 
-$$\begin{align} I(t)&=-\frac {U(t)} R \\ I(t)&=-\frac {\frac {Q(t)} C} R \\ I(t)&=-\frac 1 {R\cdot C}\cdot Q(t) \\ \frac {dQ} {dt} &= -\frac 1 {R\cdot C}\cdot Q(t) \\ \frac 1 {Q(t)}\,dQ&=-\frac 1 {R\cdot C}\,dt &|&\int \\ \ln(Q(t)) &= -\frac 1 {R\cdot C} \, t + C&|& \, e^x \\\\ Q(t) &= e^{-\frac 1 {R\cdot C}t}\cdot Q_0 &|& \cdot \frac 1 C\\\\  U(t) &= e^{-\frac 1 {R\cdot C}t}\cdot U_0 \end{align}
+$$\begin{align} I(t)&=-\frac {U(t)} R \\\\ I(t)&=-\frac {\frac {Q(t)} C} R \\\\ I(t)&=-\frac 1 {R\cdot C}\cdot Q(t) \\\\ \frac {dQ} {dt} &= -\frac 1 {R\cdot C}\cdot Q(t) \\\\ \frac 1 {Q(t)}\,dQ&=-\frac 1 {R\cdot C}\,dt &|&\int \\\\ \ln(Q(t)) &= -\frac 1 {R\cdot C} \, t + C&|& \, e^x \\\\\\\\ Q(t) &= e^{-\frac 1 {R\cdot C}t}\cdot Q_0 &|& \cdot \frac 1 C\\\\\\\\  U(t) &= e^{-\frac 1 {R\cdot C}t}\cdot U_0 \end{align}
 $$
 
 

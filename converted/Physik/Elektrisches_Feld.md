@@ -9,7 +9,7 @@ Umgebung um einen Elektrischen Körper, in der eine Kraft auf andere Ladungen wi
 
 ### Coulomb'sches Gesetz
 - $\vec{F}=\vec{E}\cdot{q}$    =>   $\vec{F}=\dfrac{1}{4\pi\cdot\varepsilon_0\cdot\varepsilon_r}\cdot\dfrac{Q\cdot{q}}{r^2}$ 
-- Kraft auf [Ladung](Elektrische%20Ladung.md) in radialsymmetrischem Feld
+- Kraft auf [Ladung](Elektrische_Ladung.md) in radialsymmetrischem Feld
 
 ### Influenz
 - Elektronen in Leitern werden von äußeren elektrischen Feldern beeinflusst
@@ -43,14 +43,14 @@ Umgebung um einen Elektrischen Körper, in der eine Kraft auf andere Ladungen wi
 
 ### Feldlinienbilder
 - homogenes Feld
-	- Feldbild im [Plattenkondensator](Plattenkondensator.md)![file](Elektrisches%20Feld%202025-02-17%2020.30.52.excalidraw.md)
+	- Feldbild im [Plattenkondensator](Plattenkondensator.md)![file](Elektrisches_Feld_2025-02-17_20.30.52.excalidraw.md)
 - Radialsymmetrisch
-	- Feldbild einer Punktladung![file](Elektrisches%20Feld%202025-02-17%2020.37.23.excalidraw.md)
+	- Feldbild einer Punktladung![file](Elektrisches_Feld_2025-02-17_20.37.23.excalidraw.md)
 - Faraday'scher Käfig
-	- Feld wird durch Influenz in durch Leiter umgebenen Raum ausgeglichen ![file](Elektrisches%20Feld%202025-02-17%2020.50.58.excalidraw.md)
+	- Feld wird durch Influenz in durch Leiter umgebenen Raum ausgeglichen ![file](Elektrisches_Feld_2025-02-17_20.50.58.excalidraw.md)
 - Spitzeneffekt: 
 	- Die elektrische Feldstärke ist an einer Spitze am stärksten
-	- Effekt wird für Blitzableiter benutzt![file](Elektrisches%20Feld%202025-02-16%2020.55.25.excalidraw.md)
+	- Effekt wird für Blitzableiter benutzt![file](Elektrisches_Feld_2025-02-16_20.55.25.excalidraw.md)
 
 
 
