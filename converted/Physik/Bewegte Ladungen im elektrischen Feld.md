@@ -2,7 +2,7 @@
 
 ![file](Bewegte%20Ladungen%20im%20elektrischen%20Feld%202025-02-24%2010.10.11.excalidraw.md)
 ##### Geschwindigkeit eines beschleunigten [Elektrons](Elektrische%20Ladung.md)
-$$\begin{align} E_{pot}&=q\cdot U &(1)\\\\ E_{kin}&=\frac 1 2 m\cdot v^2 &(2) \\\\ \\\\ \frac 1 2 m\cdot v^2 &= q\cdot U \\\\ v^2 &= \frac{2q\cdot U}{m} \\\\ v&= \sqrt{\frac{2q\cdot U}{m}} \\\\ v&=\sqrt{2 \cdot \frac e m_e \cdot U} &(3)\end{align}
+$$\begin{align} E_{pot}&=q\cdot U &(1)\\\\ E_{kin}&=\frac 1 2 m\cdot v^2 &(2) \\\\ g \\\\ \frac 1 2 m\cdot v^2 &= q\cdot U \\\\ v^2 &= \frac{2q\cdot U}{m} \\\\ v&= \sqrt{\frac{2q\cdot U}{m}} \\\\ v&=\sqrt{2 \cdot \frac e m_e \cdot U} &(3)\end{align}
 $$
 
 ### Bewegung senkrecht zum [Feld](Elektrisches%20Feld.md)
