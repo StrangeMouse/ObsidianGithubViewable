@@ -4,12 +4,12 @@ Umgebung um einen Elektrischen Körper, in der eine Kraft auf andere Ladungen wi
 - $\vec{E}=\dfrac{\vec{F}}{q}$ 
 - Analogie zur Gravitation: Kraft auf Körper in bestimmte Richtung
 - Einheit: $[\vec E]=\dfrac NC$
-- In [Plattenkondensator](Plattenkondensator.md): $\vec{E}=\dfrac{{U}}{d}$
+- In [[Plattenkondensator]]: $\vec{E}=\dfrac{{U}}{d}$
 - Radialsymmetrisches Feld: $\vec{E}=\dfrac{1}{4\pi\cdot\varepsilon_0\cdot\varepsilon_r}\cdot\dfrac{Q}{r^2}$
 
 ### Coulomb'sches Gesetz
 - $\vec{F}=\vec{E}\cdot{q}$    =>   $\vec{F}=\dfrac{1}{4\pi\cdot\varepsilon_0\cdot\varepsilon_r}\cdot\dfrac{Q\cdot{q}}{r^2}$ 
-- Kraft auf [Ladung](Elektrische_Ladung.md) in radialsymmetrischem Feld
+- Kraft auf [[Elektrische Ladung|Ladung]] in radialsymmetrischem Feld
 
 ### Influenz
 - Elektronen in Leitern werden von äußeren elektrischen Feldern beeinflusst
@@ -43,14 +43,14 @@ Umgebung um einen Elektrischen Körper, in der eine Kraft auf andere Ladungen wi
 
 ### Feldlinienbilder
 - homogenes Feld
-	- Feldbild im [Plattenkondensator](Plattenkondensator.md)![file](Elektrisches_Feld_2025-02-17_20.30.52.excalidraw.md)
+	- Feldbild im [[Plattenkondensator]]![[Elektrisches Feld 2025-02-17 20.30.52.excalidraw|30%]]
 - Radialsymmetrisch
-	- Feldbild einer Punktladung![file](Elektrisches_Feld_2025-02-17_20.37.23.excalidraw.md)
+	- Feldbild einer Punktladung![[Elektrisches Feld 2025-02-17 20.37.23.excalidraw|40%]]
 - Faraday'scher Käfig
-	- Feld wird durch Influenz in durch Leiter umgebenen Raum ausgeglichen ![file](Elektrisches_Feld_2025-02-17_20.50.58.excalidraw.md)
+	- Feld wird durch Influenz in durch Leiter umgebenen Raum ausgeglichen ![[Elektrisches Feld 2025-02-17 20.50.58.excalidraw|50%]]
 - Spitzeneffekt: 
 	- Die elektrische Feldstärke ist an einer Spitze am stärksten
-	- Effekt wird für Blitzableiter benutzt![file](Elektrisches_Feld_2025-02-16_20.55.25.excalidraw.md)
+	- Effekt wird für Blitzableiter benutzt![[Elektrisches Feld 2025-02-16 20.55.25.excalidraw|60%]]
 
 
 

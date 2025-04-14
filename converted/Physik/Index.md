@@ -1,5 +1,5 @@
 ## Elektrisches und magnetisches Feld
-### [Elektrisches_Feld](Elektrisches_Feld.md)
+### [[Elektrisches Feld]]
 - Feldlinienbilder
 	- homogen
 	- radialsymmetrisch
@@ -13,25 +13,25 @@
 	- radialsymmetrisch
 	- Coulomb'sches Gesetz
 
-### [Elektrische_Ladung](Elektrische_Ladung.md)
+### [[Elektrische Ladung]]
 - Ladung als Erhaltungsgröße
-- [Millikan-Versuch](Millikan-Versuch.md) ([Quantelung](Quantelung.md) der Ladung)
+- [[Millikan-Versuch]] ([[Quantelung]] der Ladung)
 
-### [Elektrisches_Potenzial](Elektrisches_Potenzial.md)
+### [[Elektrisches Potenzial]]
 - Potenzial in Elektrischen Feldern
 	- homogen
 	- radialsymmetrisch
 - Äquipotenziallinien
 
-### [Elektrische_Spannung](Elektrische_Spannung.md)
+### [[Elektrische Spannung]]
 - Spannung als Energie pro Ladung
 - Spannung als Potenzialdifferenz
 
-### [Elektrische_Stromstärke](Elektrische_Stromst%C3%A4rke.md)
+### [[Elektrische Stromstärke]]
 - Stromstärke als Ladung pro Zeit
 - Stromstärke als Ableitung der Ladung über Zeit
 
-### [Plattenkondensator](Plattenkondensator.md)
+### [[Plattenkondensator]]
 - Feldstärke
 - Feldenergie
 - Definition der Kapazität
@@ -39,10 +39,10 @@
 - Auf- und Entladevorgänge
 	- Differenzialgleichung für Entladung
 
-### [Bewegte_Ladungen_im_elektrischen_Feld](Bewegte_Ladungen_im_elektrischen_Feld.md)
+### [[Bewegte Ladungen im elektrischen Feld]]
 - Beschleunigung und Abbremsung parallel zur Feldrichtung
 
-### [Magnetisches_Feld](Magnetisches_Feld.md)
+### [[Magnetisches Feld]]
 - Bewegte Ladungen als Ursache
 - Feldlinienbilder
 	- gerader Leiter
@@ -52,17 +52,17 @@
 	- lange Spule
 - magnetische Feldkonstante
 
-### [Bewegte_Ladungen_im_magnetischen_Feld](Bewegte_Ladungen_im_magnetischen_Feld.md)
+### [[Bewegte Ladungen im magnetischen Feld]]
 - Bewegung parallel und senkrecht zum magnetischen Feld
 - Lorentzkraft
 	- als Zentripetalkraft
 	- Bestimmung des Verhältnisses aus Ladung und Masse eines Elektrons
 - relativistische Massenzunahme
-- [Hall-Effekt](Hall-Effekt.md)
+- [[Hall-Effekt]]
 
-### [Magnetischer_Fluss](Magnetischer_Fluss.md)
+### [[Magnetischer Fluss]]
 - Definition
-### [Induktion](Induktion.md)
+### [[Induktion]]
 - Induktionsspannung aufgrund zeitlicher Änderung im magnetischen Flusses
 - Induktionsgesetz
 	- lineare Fälle
@@ -72,7 +72,7 @@
 - Induktivität einer Spule
 - Selbstinduktion
 
-### [Bewegung_von_Ladungen_in_Feldern_in_technischen_Anwendungen](Bewegung_von_Ladungen_in_Feldern_in_technischen_Anwendungen.md)
+### [[Bewegung von Ladungen in Feldern in technischen Anwendungen]]
 - Braun'sche Röhre
 	- Aufbau und Verwendung
 	- Superpositionsprinzip
@@ -81,7 +81,7 @@
 	- Hintereinanderschaltung mehrerer Beschleunigungsstrecken
 
 ## Schwingungen und Wellen
-### [Schwingungen](Schwingungen.md)
+### [[Schwingungen]]
 - Charakteristische Größen
 	- Elongation
 	- Amplitude
@@ -98,7 +98,7 @@
 	- lineare Rückstellkraft als Kriterium
 	- Differenzialgleichung
 
-### [Elektromagnetischer_Schwingkreis](Elektromagnetischer_Schwingkreis.md)
+### [[Elektromagnetischer Schwingkreis]]
 - Schwingungsdauer
 - Frequenz
 - Amplituden
@@ -107,40 +107,40 @@
 - Gegenüberstellung der Energieformen zu mechanischer Schwingung
 - Phasenverschiebung zwischen spannung und stromstärke
 
-### [Resonanz](Resonanz.md)
+### [[Resonanz]]
 - Definition
 - Resonanzkurven mit verschiedener Dämpfung
-### [Erzwungene_Schwingung](Erzwungene_Schwingung.md)
+### [[Erzwungene Schwingung]]
 - Phasenverschiebung zwischen Kraft und Elongation
 - - Resonanzkurven mit verschiedener Dämpfung
-### [Gedämpfte_Schwingung](Ged%C3%A4mpfte_Schwingung.md)
+### [[Gedämpfte Schwingung]]
 - Erweiterung der reibungsfreien Idealisierung
 - Dämpfungsverhalten (exponentielle Abnahme der Amplitude)
 	- graphische Darstellung
 
-### [Phasenverschiebung](Phasenverschiebung.md)
-- zwischen äußerer Kraft und Elongation bei [erzwungenen Schwingungen](%23Erzwungene_Schwingung.md)
-- zwischen Stromstärke und Spannung bei [Elektromagnetischen Schwingkreisen](%23Elektromagnetischer_Schwingkreis.md)
+### [[Phasenverschiebung]]
+- zwischen äußerer Kraft und Elongation bei [[#Erzwungene Schwingung|erzwungenen Schwingungen]]
+- zwischen Stromstärke und Spannung bei [[#Elektromagnetischer Schwingkreis|Elektromagnetischen Schwingkreisen]]
 
-### [Wellen](Wellen.md)
+### [[Wellen]]
 - Beispiele
 	- Seilwellen
 	- Wasserwellen
 	- Schallwellen
-	- [#Elektromagnetische_Wellen](%23Elektromagnetische_Wellen.md)
+	- [[#Elektromagnetische Wellen]]
 - Charakteristische Größen
 	- Wellenlänge
 	- Ausbreitungsgeschwindigkeit
 	- Zusammenhang mit Frequenz
 - Longitudinal- und Transversalwellen
 - Wellen als zeitlich und räumlich periodischer Vorgang
-### [Elektromagnetische_Wellen](Elektromagnetische_Wellen.md)
+### [[Elektromagnetische Wellen]]
 - Vom Kondensator zur Antenne
-### [Elektromagnetisches_Spektrum](Elektromagnetisches_Spektrum.md)
+### [[Elektromagnetisches Spektrum]]
 - technische Anwendungen
 - biologische Auswirkungen
 
-### [Interferenz](Interferenz.md)
+### [[Interferenz]]
 - Superpositionsprinzip
 	- Wellen können sich überlagern
 	- Wellen beeinflussen sich gegenseitig nicht
@@ -220,7 +220,7 @@
 - De-Broglie-Welle
 - De-Broglie-Gleichung
 - Beugung an Gitter oder Kristallen
-- [Doppelspaltversuche](%23Doppelspalt.md) mit Elektronen
+- [[#Doppelspalt|Doppelspaltversuche]] mit Elektronen
 	- bei geringer Intensität (stochastische Deutung)
 
 ### Heisenberg'sche Unschärferelation
@@ -229,10 +229,10 @@
 - Amplitudenqudrat der Wellenfunktion als Maß für die Aufenthaltswahrscheinlichkeit
 
 ### Atommodelle
-- [#Thomson'sches_Atommodell](%23Thomson%27sches_Atommodell.md)
-- [#Rutherford'sches_Atommodell](%23Rutherford%27sches_Atommodell.md)
-- [#Bohr'sches_Atommodell](%23Bohr%27sches_Atommodell.md)
-- [#Linearer_Potenzialtopf](%23Linearer_Potenzialtopf.md)
+- [[#Thomson'sches Atommodell]]
+- [[#Rutherford'sches Atommodell]]
+- [[#Bohr'sches Atommodell]]
+- [[#Linearer Potenzialtopf]]
 
 ### Thomson'sches Atommodell
 - Entstehung
@@ -257,7 +257,7 @@
 - Beobachtung
 - Entstehung
 - Rydberg-Formel
-- Linienbreite ([#Laser](%23Laser.md))
+- Linienbreite ([[#Laser]])
 
 ### Lumineszenz
 - Fluoreszenz

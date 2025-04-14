@@ -1,9 +1,9 @@
-Maß für die Arbeit, die ein [Elektrisches_Feld](Elektrisches_Feld.md) an einer Elektrischen Ladung verrichten kann
-Es entspricht der Potenziellen Energie pro [Ladung](Elektrische_Ladung.md) (Volt):
+Maß für die Arbeit, die ein [[Elektrisches Feld]] an einer Elektrischen Ladung verrichten kann
+Es entspricht der Potenziellen Energie pro [[Elektrische Ladung|Ladung]] (Volt):
 $$\varphi=\frac{E_{pot}}{q}
 $$
 
-### Potenzial in bestimmten [elektrischen Feldern](Elektrisches_Feld.md)
+### Potenzial in bestimmten [[Elektrisches Feld|elektrischen Feldern]]
 - homogen: 
 $$\varphi=\vec{E}\cdot\vec{s}
 $$
@@ -12,7 +12,7 @@ $$\varphi=\displaystyle\int\dfrac{Q}{4\pi\cdot\varepsilon_0\cdot\varepsilon_r\cd
 $$ (da Arbeit das Integral der Kraft über die Strecke ist)
 
 ### Äquipotenziallinien
-- [Feldlinienbilder](Elektrisches_Feld%23Feldlinienbilder.md) können auch mittels Äquipotenziallinien dargestellt werden
+- [[Elektrisches Feld#Feldlinienbilder|Feldlinienbilder]] können auch mittels Äquipotenziallinien dargestellt werden
 - Diese markieren jeweils Bereiche mit der selben Potenzialdifferenz
-- Beispiel: ![file](Elektrisches_Potenzial_2025-02-18_17.38.17.excalidraw.md)
+- Beispiel: ![[Elektrisches Potenzial 2025-02-18 17.38.17.excalidraw]]
 

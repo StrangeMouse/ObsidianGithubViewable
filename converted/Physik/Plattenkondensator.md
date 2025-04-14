@@ -1,15 +1,15 @@
-Passives elektrisches Bauelement bestehend aus zwei leitenden Platten und einem [Dielektrikum](Dielektrikum.md), welches elektrische Ladung und damit elektrische Energie in einem [elektrischen Feld](Elektrisches_Feld.md) speichern kann
-![file](Plattenkondensator_2025-02-20_18.42.29.excalidraw.md)
+Passives elektrisches Bauelement bestehend aus zwei leitenden Platten und einem [[Dielektrikum]], welches elektrische Ladung und damit elektrische Energie in einem [[Elektrisches Feld|elektrischen Feld]] speichern kann
+![[Plattenkondensator 2025-02-20 18.42.29.excalidraw]]
 ### Kapazität
 - Beschreibt Verhältnis aus Spannung und gespeicherter Ladung in der Einheit Farad
 $$C=\frac{Q}{U};\space [C]=F
 $$
-- Herleitung über [Flächenladungsdichte](Elektrisches_Feld%23Fl%C3%A4chenladungsdichte_%28Verschiebungsdichte%29.md):
+- Herleitung über [[Elektrisches Feld#Flächenladungsdichte (Verschiebungsdichte)|Flächenladungsdichte]]:
 $$\displaylines{\begin{aligned}\sigma&=\frac Q A=\varepsilon_0\cdot\varepsilon_r\cdot\vec E \quad &(1)\\\\\\\\ \vec E&=\frac U d \quad &(2)\\\\\\\\ \text{Aus (1) und (2):}\quad \frac Q A&=\varepsilon_0\cdot\varepsilon_r\cdot\frac U d \\\\ \frac Q U &= \varepsilon_0\cdot\varepsilon_r\cdot\frac A d \\\\ \Aboxed {C &=\varepsilon_0\cdot\varepsilon_r\cdot\frac A d} \end{aligned}}
 $$
 
 ### Feldstärke
-- Allgemein: $\displaystyle\vec E=\frac{\vec F}{q}$ ([elektrische Feldstärke](Elektrisches_Feld%23Elektrische_Feldst%C3%A4rke.md))
+- Allgemein: $\displaystyle\vec E=\frac{\vec F}{q}$ ([[Elektrisches Feld#Elektrische Feldstärke|elektrische Feldstärke]])
 - Abhängig von Abstand und Spannung: $\displaystyle\vec E =\frac{U}{d}$
 	- Je größer die Spannung und je kleiner der Abstand, desto größer das Feld 
 
@@ -19,7 +19,7 @@ $$\displaylines{E_{pot}=\vec{F}\cdot s\\\\\frac{E_{pot}}{Q}=\frac{\vec{F}\cdot s
 $$
 
 ### Feldenergie
-- Energie im Feld entspricht der Potenziellen Energie aller Elektronen (der [Ladung](Elektrische_Ladung.md)) auf den Platten
+- Energie im Feld entspricht der Potenziellen Energie aller Elektronen (der [[Elektrische Ladung|Ladung]]) auf den Platten
 - Ladung auf den Platten: $\quad Q=C\cdot U$
 - Potenzielle Energie: $\quad E_{pot}=\int Q \cdot U\,dU$
 - Daraus folgt:
@@ -27,11 +27,11 @@ $$\begin{align}E_{pot}&=\int Q \cdot U \, dU\\\\E_{pot} &= \int C \cdot U^2 \, d
 $$
 
 ### Parallelschaltung von Kondensatoren
-- Bei einer Parallelschaltung wirken die Zwei Kondensatoren wie ein Kondensator mit der Kapazität der Summe der beiden einzelnen![file](Plattenkondensator_2025-02-23_17.15.02.excalidraw.md)
+- Bei einer Parallelschaltung wirken die Zwei Kondensatoren wie ein Kondensator mit der Kapazität der Summe der beiden einzelnen![[Plattenkondensator 2025-02-23 17.15.02.excalidraw|50%]]
 
 ### Auf- und Entladevorgänge
-- Die Auf- und Entladevorgänge sind durch jeweils eine Exponentialfunktion beschrieben:![file](Plattenkondensator_2025-02-23_21.44.58.excalidraw.md)
-- Für den Entladevorgang folgt dies aus der Folgenden [Differentialgleichung](Mathe/Differentialgleichung.md): 
+- Die Auf- und Entladevorgänge sind durch jeweils eine Exponentialfunktion beschrieben:![[Plattenkondensator 2025-02-23 21.44.58.excalidraw]]
+- Für den Entladevorgang folgt dies aus der Folgenden [[Mathe/Differentialgleichung|Differentialgleichung]]: 
 $$\begin{align} I(t)&=-\frac {U(t)} R \\\\ I(t)&=-\frac {\frac {Q(t)} C} R \\\\ I(t)&=-\frac 1 {R\cdot C}\cdot Q(t) \\\\ \frac {dQ} {dt} &= -\frac 1 {R\cdot C}\cdot Q(t) \\\\ \frac 1 {Q(t)}\,dQ&=-\frac 1 {R\cdot C}\,dt &|&\int \\\\ \ln(Q(t)) &= -\frac 1 {R\cdot C} \, t + C&|& \, e^x \\\\\\\\ Q(t) &= e^{-\frac 1 {R\cdot C}t}\cdot Q_0 &|& \cdot \frac 1 C\\\\\\\\  U(t) &= e^{-\frac 1 {R\cdot C}t}\cdot U_0 \end{align}
 $$
 
