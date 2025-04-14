@@ -1,5 +1,5 @@
 Methode, um elektronisch Magnetfelder zu messen
-![Hall-Effekt 2025-03-02 19.40.06](Hall-Effekt_2025-03-02_19.40.06.excalidraw.svg)
+![Hall-Effekt 2025-03-02 19.40.06](attachments\Hall-Effekt_2025-03-02_19.40.06.excalidraw.svg)
 #### Hall-Spannung
 - Strom fließt durch Leiter mit bestimmter Länge und breite
 - Leiter wird in Magnetfeld platziert
