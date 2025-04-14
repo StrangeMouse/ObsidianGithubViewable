@@ -4,12 +4,12 @@ Passives elektrisches Bauelement bestehend aus zwei leitenden Platten und einem 
 - Beschreibt Verhältnis aus Spannung und gespeicherter Ladung in der Einheit Farad
 $$C=\frac{Q}{U};\space [C]=F
 $$
-- Herleitung über [Flächenladungsdichte](Elektrisches_Feld%23Fl%C3%A4chenladungsdichte_%28Verschiebungsdichte%29.md):
+- Herleitung über [Flächenladungsdichte](Elektrisches_Feld#flächenladungsdichte_(verschiebungsdichte).md):
 $$\displaylines{\begin{aligned}\sigma&=\frac Q A=\varepsilon_0\cdot\varepsilon_r\cdot\vec E \quad &(1)\\\\\\\\ \vec E&=\frac U d \quad &(2)\\\\\\\\ \text{Aus (1) und (2):}\quad \frac Q A&=\varepsilon_0\cdot\varepsilon_r\cdot\frac U d \\\\ \frac Q U &= \varepsilon_0\cdot\varepsilon_r\cdot\frac A d \\\\ \Aboxed {C &=\varepsilon_0\cdot\varepsilon_r\cdot\frac A d} \end{aligned}}
 $$
 
 ### Feldstärke
-- Allgemein: $\displaystyle\vec E=\frac{\vec F}{q}$ ([elektrische Feldstärke](Elektrisches_Feld%23Elektrische_Feldst%C3%A4rke.md))
+- Allgemein: $\displaystyle\vec E=\frac{\vec F}{q}$ ([elektrische Feldstärke](Elektrisches_Feld#elektrische_feldstärke.md))
 - Abhängig von Abstand und Spannung: $\displaystyle\vec E =\frac{U}{d}$
 	- Je größer die Spannung und je kleiner der Abstand, desto größer das Feld 
 

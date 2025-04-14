@@ -27,7 +27,7 @@
 - Spannung als Energie pro Ladung
 - Spannung als Potenzialdifferenz
 
-### [Elektrische_Stromstärke](Elektrische_Stromst%C3%A4rke.md)
+### [Elektrische_Stromstärke](Elektrische_Stromstärke.md)
 - Stromstärke als Ladung pro Zeit
 - Stromstärke als Ableitung der Ladung über Zeit
 
@@ -113,21 +113,21 @@
 ### [Erzwungene_Schwingung](Erzwungene_Schwingung.md)
 - Phasenverschiebung zwischen Kraft und Elongation
 - - Resonanzkurven mit verschiedener Dämpfung
-### [Gedämpfte_Schwingung](Ged%C3%A4mpfte_Schwingung.md)
+### [Gedämpfte_Schwingung](Gedämpfte_Schwingung.md)
 - Erweiterung der reibungsfreien Idealisierung
 - Dämpfungsverhalten (exponentielle Abnahme der Amplitude)
 	- graphische Darstellung
 
 ### [Phasenverschiebung](Phasenverschiebung.md)
-- zwischen äußerer Kraft und Elongation bei [erzwungenen Schwingungen](%23Erzwungene_Schwingung.md)
-- zwischen Stromstärke und Spannung bei [Elektromagnetischen Schwingkreisen](%23Elektromagnetischer_Schwingkreis.md)
+- zwischen äußerer Kraft und Elongation bei [erzwungenen Schwingungen](#erzwungene_schwingung.md)
+- zwischen Stromstärke und Spannung bei [Elektromagnetischen Schwingkreisen](#elektromagnetischer_schwingkreis.md)
 
 ### [Wellen](Wellen.md)
 - Beispiele
 	- Seilwellen
 	- Wasserwellen
 	- Schallwellen
-	- [#Elektromagnetische_Wellen](%23Elektromagnetische_Wellen.md)
+	- [#Elektromagnetische_Wellen](#elektromagnetische_wellen.md)
 - Charakteristische Größen
 	- Wellenlänge
 	- Ausbreitungsgeschwindigkeit
@@ -220,7 +220,7 @@
 - De-Broglie-Welle
 - De-Broglie-Gleichung
 - Beugung an Gitter oder Kristallen
-- [Doppelspaltversuche](%23Doppelspalt.md) mit Elektronen
+- [Doppelspaltversuche](#doppelspalt.md) mit Elektronen
 	- bei geringer Intensität (stochastische Deutung)
 
 ### Heisenberg'sche Unschärferelation
@@ -229,10 +229,10 @@
 - Amplitudenqudrat der Wellenfunktion als Maß für die Aufenthaltswahrscheinlichkeit
 
 ### Atommodelle
-- [#Thomson'sches_Atommodell](%23Thomson%27sches_Atommodell.md)
-- [#Rutherford'sches_Atommodell](%23Rutherford%27sches_Atommodell.md)
-- [#Bohr'sches_Atommodell](%23Bohr%27sches_Atommodell.md)
-- [#Linearer_Potenzialtopf](%23Linearer_Potenzialtopf.md)
+- [#Thomson'sches_Atommodell](#thomson'sches_atommodell.md)
+- [#Rutherford'sches_Atommodell](#rutherford'sches_atommodell.md)
+- [#Bohr'sches_Atommodell](#bohr'sches_atommodell.md)
+- [#Linearer_Potenzialtopf](#linearer_potenzialtopf.md)
 
 ### Thomson'sches Atommodell
 - Entstehung
@@ -257,7 +257,7 @@
 - Beobachtung
 - Entstehung
 - Rydberg-Formel
-- Linienbreite ([#Laser](%23Laser.md))
+- Linienbreite ([#Laser](#laser.md))
 
 ### Lumineszenz
 - Fluoreszenz

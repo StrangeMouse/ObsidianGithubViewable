@@ -31,17 +31,32 @@ def convert_wikilinks(content):
             return f"![{display}]({ATTACHMENTS_DIR}/{quote(sanitized_name)})"
         else:
             # Treat as embedded note
+            # Replace spaces with underscores and handle the hashtag in headings
             path = path.replace(" ", "_")
-            encoded_path = quote(path) + ".md" if not path.endswith(".md") else quote(path)
+            
+            if "#" in path:
+                # Split at the hashtag to handle the heading part separately
+                before_hash, after_hash = path.split("#", 1)
+                after_hash = after_hash.replace(" ", "-").lower()  # Replace spaces with dashes in the heading
+                path = f"{before_hash}#{after_hash}"
+            
+            encoded_path = path + ".md" if not path.endswith(".md") else path
             return f"![file]({encoded_path})"
-
+        
     # Handle regular wikilinks: [[path/to/file|Display]]
     def link_repl(match):
         raw = match.group(1).strip()
         parts = raw.split("|")
         path = parts[0].strip().replace(" ", "_")
         display = parts[1].strip() if len(parts) > 1 else path.split("/")[-1]
-        encoded_path = quote(path) + ".md" if not path.endswith(".md") else quote(path)
+
+        if "#" in path:
+            # Split at the hashtag to handle the heading part separately
+            before_hash, after_hash = path.split("#", 1)
+            after_hash = after_hash.replace(" ", "-").lower()  # Replace spaces with dashes in the heading
+            path = f"{before_hash}#{after_hash}"
+
+        encoded_path = path + ".md" if not path.endswith(".md") else path
         return f"[{display}]({encoded_path})"
 
     content = re.sub(r'!\[\[([^\]]+)\]\]', embed_repl, content)
