@@ -23,7 +23,8 @@ def convert_wikilinks(content):
             path = path.replace(".excalidraw", ".excalidraw.svg")
             # Place in the attachments folder
             svg_path = os.path.join(ATTACHMENTS_DIR, path)
-            return f"![{display}]({svg_path})"
+            sanitized_name = path.replace(" ", "_")
+            return f"![{display}]({sanitized_name})"
         
         if not path.lower().endswith(NOTE_EXTENSION):
             # Treat as attachment (non-md files like images)

@@ -1,7 +1,7 @@
 Umgebung um einen Magneten oder einen durchflossenen Leiter, in dem auf bewegte [Ladungen](Elektrische_Ladung.md) und Magneten eine Kraft wirkt
 
 ### Magnetfelder durch bewegte Ladungen
-- Stromdurchflossene Leiter verursachen ein magnetisches Feld![Magnetisches Feld 2025-02-24 11.53.16](attachments\Magnetisches Feld 2025-02-24 11.53.16.excalidraw.svg)
+- Stromdurchflossene Leiter verursachen ein magnetisches Feld![Magnetisches Feld 2025-02-24 11.53.16](Magnetisches_Feld_2025-02-24_11.53.16.excalidraw.svg)
 ### Magnetische Flussdichte
 - $B=\dfrac F {I \cdot l}$
 - Kraft auf Leiter der Länge $l$, durch den der [Strom](Elektrische_Stromst%C3%A4rke.md) $I$ fließt

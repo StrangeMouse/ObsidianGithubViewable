@@ -14,5 +14,5 @@ $$ (da Arbeit das Integral der Kraft über die Strecke ist)
 ### Äquipotenziallinien
 - [Feldlinienbilder](Elektrisches_Feld%23Feldlinienbilder.md) können auch mittels Äquipotenziallinien dargestellt werden
 - Diese markieren jeweils Bereiche mit der selben Potenzialdifferenz
-- Beispiel: ![Elektrisches Potenzial 2025-02-18 17.38.17](attachments\Elektrisches Potenzial 2025-02-18 17.38.17.excalidraw.svg)
+- Beispiel: ![Elektrisches Potenzial 2025-02-18 17.38.17](Elektrisches_Potenzial_2025-02-18_17.38.17.excalidraw.svg)
 
