@@ -8,4 +8,4 @@ y(t)&=\hat{y}\cdot \sin(w\cdot t) \\\\
 y(t)&=y_{max}\cdot e^{-k\cdot t}\cdot \sin(w\cdot t)
 \end{align}
 $$
-![[Pasted image 20250320195525.png]]
+![Pasted image 20250320195525](attachments/Pasted_image_20250320195525.png)

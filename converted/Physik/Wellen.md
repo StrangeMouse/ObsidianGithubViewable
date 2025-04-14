@@ -19,9 +19,9 @@ $$
 Beispiele:
 - Seilwellen
 - Wasserwellen
-- [[Elektromagnetische Wellen]]
+- [Elektromagnetische_Wellen](Elektromagnetische_Wellen.md)
 
-![[Pasted image 20250324180549.png]]
+![Pasted image 20250324180549](attachments/Pasted_image_20250324180549.png)
 
 
 ### Longitudinalwellen
@@ -30,7 +30,7 @@ Beispiele:
 Beispiele:
 - Schallwellen
 
-![[Pasted image 20250324181332.png]]
+![Pasted image 20250324181332](attachments/Pasted_image_20250324181332.png)
 
 ### Zeitliche und Räumliche Periodizität
 - Betrachtet man einen Raumbereich der Welle, so wiederholt sich dieser:

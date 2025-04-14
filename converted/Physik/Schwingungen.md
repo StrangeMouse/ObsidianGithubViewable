@@ -13,7 +13,7 @@
 Schwingung, bei der die Rückstellkraft proportional zur Auslenkung ist
 
 #### Federpendel
-![[Schwingungen 2025-03-14 14.30.34.excalidraw]]
+![Schwingungen 2025-03-14 14.30.34](attachments/Schwingungen_2025-03-14_14.30.34.excalidraw)
 
 - Rückstellkraft ist eine Kombination aus Federkraft und Gewichtskraft
 $$\begin{aligned}F_r&=F_F - F_G \\\\  &= D \cdot s -m\cdot g \\\\ &= D\cdot s-D\cdot s_{0}\\\\ &=D\cdot (s-s_{0}) \\\\ \\\\ F_{r}&=(-)D\cdot y\end{aligned}
@@ -48,10 +48,10 @@ T&=2\pi \cdot \sqrt{ \frac{m}{D} }
 \end{align}
 $$
 - Die Schwingungsbewegung ist deckungsgleich mit der Projektion einer Kreisbewegung
-	- ==> Die Schwingung kann durch eine Sinuskurve beschrieben werden![[Pasted image 20250320191739.png]]
+	- ==> Die Schwingung kann durch eine Sinuskurve beschrieben werden![Pasted image 20250320191739](attachments/Pasted_image_20250320191739.png)
 
 #### Fadenpendel bei kleinen Auslenkungen
-![[Schwingungen 2025-03-20 17.28.12.excalidraw|30%]]
+![Schwingungen 2025-03-20 17.28.12](attachments/Schwingungen_2025-03-20_17.28.12.excalidraw)
 - Betrachtet man beim Fadenpendel die Auslenkung nur in x-Richtung so gilt:
 $$
 \begin{align}
@@ -65,7 +65,7 @@ $$
 
 - Die Rückstellende Kraft ist proportional zur Auslenkung 
 	- ==> Harmonische Schwingung bei kleiner Auslenkung
-- Für die Schwingungsdauer gilt wie beim [[Schwingungen#Federpendel|Federpendel]]: 
+- Für die Schwingungsdauer gilt wie beim [Federpendel](Schwingungen%23Federpendel.md): 
 $$
 \begin{align}
 \ddot{x}(t)&=w^{2}\cdot x(t) \\\\
@@ -83,7 +83,7 @@ T&=2\pi \cdot\sqrt{ \frac{g}{l} }
 $$
 
 ### Anharmonische Schwingung
-![[Schwingungen 2025-03-19 23.21.53.excalidraw|30%]]
+![Schwingungen 2025-03-19 23.21.53](attachments/Schwingungen_2025-03-19_23.21.53.excalidraw)
 - Rückstellende Kraft ist nicht proportional zur Auslenkung
 	- Bsp: Hemmungspendel
 	- Länge bei einer Halbschwingung verändert
