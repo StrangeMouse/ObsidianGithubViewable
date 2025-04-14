@@ -18,9 +18,11 @@ def convert_wikilinks(content):
         filename = os.path.basename(path)
         display = os.path.splitext(filename)[0]
 
-        if path.lower().endswith(".excalidraw.md"):
-            # Change .excalidraw.md to .excalidraw.svg and place in attachments folder
-            svg_path = os.path.join(ATTACHMENTS_DIR, path.replace(".excalidraw.md", ".excalidraw.svg"))
+        if path.lower().endswith(".excalidraw"):
+            # Ensure conversion from .excalidraw.md to .excalidraw.svg
+            path = path.replace(".excalidraw", ".excalidraw.svg")
+            # Place in the attachments folder
+            svg_path = os.path.join(ATTACHMENTS_DIR, path)
             return f"![{display}]({quote(svg_path)})"
         
         if not path.lower().endswith(NOTE_EXTENSION):

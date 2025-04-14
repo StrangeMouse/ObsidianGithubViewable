@@ -4,7 +4,7 @@ Bei der Bewegung einer Ladugng parallel zum magnetischen Feld wirkt keine Kraft 
 ### Bewegung senkrecht zum [Feld](Magnetisches_Feld.md)
 Bei der bewegung einer Ladung senkrecht zum Feld, wirkt die Lorentzkraft immer senkrecht zur Bewegungsrichtung auf die Ladung
 
-![Bewegte Ladungen im magnetischen Feld 2025-02-28 15.37.45](attachments/Bewegte_Ladungen_im_magnetischen_Feld_2025-02-28_15.37.45.excalidraw)
+![Bewegte Ladungen im magnetischen Feld 2025-02-28 15.37.45](attachments%5CBewegte%20Ladungen%20im%20magnetischen%20Feld%202025-02-28%2015.37.45.excalidraw.svg)
 Die [Lorentzkraft](Magnetisches_Feld%23Lorentzkraft.md) wirkt dabei als Zentripetalkraft, wordurch eine Kreisbahn entsteht
 #### Bahnkurve des [Elektrons](Elektrische_Ladung.md)
 - Zentripetalkraft: $F_Z=m\cdot\frac {v^2} r$
@@ -18,7 +18,7 @@ $$
 #### Geschwindigkeitsfilterung von Elektronen
 Durch die Überlagerung von elektrischem und magnetischem Feld können mittels einer Blende Elektronen mit einer bestimmten Geschwindigkeit gefiltert werden
 
-![Bewegte Ladungen im magnetischen Feld 2025-03-02 19.01.38](attachments/Bewegte_Ladungen_im_magnetischen_Feld_2025-03-02_19.01.38.excalidraw)
+![Bewegte Ladungen im magnetischen Feld 2025-03-02 19.01.38](attachments%5CBewegte%20Ladungen%20im%20magnetischen%20Feld%202025-03-02%2019.01.38.excalidraw.svg)
 
 Nur Elektronen mit der richtigen Geschwindigkeit, bei denen die Lorentzkraft und die elektrische Feldkraft den selben Betrag haben fliegen mit einer waagerechten Flugbahn durch die Blende.
 
