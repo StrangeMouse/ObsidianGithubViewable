@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 500 255" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect id="ArtBoard1" x="0" y="0" width="500" height="254.927" style="fill:none;"/>
+    <g id="ArtBoard11" serif:id="ArtBoard1">
+        <path d="M164.304,172.203l0,-94.765" style="fill:none;stroke:black;stroke-width:2px;"/>
+        <path d="M164.304,57.023l0,20.415" style="fill:none;stroke:black;stroke-width:2px;"/>
+        <path d="M128.441,63.092l-0,32.278" style="fill:none;stroke:black;stroke-width:2px;"/>
+        <g id="magnet-sued" serif:id="magnet sued">
+            <path d="M24.459,223.057l32,-16l176,0l-32,16l-176,0Z" style="fill:rgb(32,128,33);"/>
+            <path d="M63.959,223.057l32,-16l0,-42.014l-32,16l0,42.014Z" style="fill:rgb(32,128,33);"/>
+            <path d="M200.459,247.026l-0.029,-23.985l-136.471,0l-0,-42.015l-39.536,0l-0,65.982l176.036,0.018Z" style="fill:rgb(93,211,95);"/>
+            <path d="M200.459,247.026l32,-16l-0,-23.97l-32,16l-0,23.97Z" style="fill:rgb(32,128,33);"/>
+        </g>
+        <g id="magnet-nord" serif:id="magnet nord">
+            <path d="M63.959,181.101l32,-16l0,-42.015l-32,16l0,42.015Z" style="fill:rgb(212,8,4);"/>
+            <path d="M24.459,115.101l32,-16l176,-0l-32,16l-176,-0Z" style="fill:rgb(212,8,4);"/>
+            <path d="M200.459,115.101l-0.029,23.985l-136.471,-0l-0,42.015l-39.536,-0l-0,-65.982l176.036,-0.018Z" style="fill:rgb(251,7,4);"/>
+            <path d="M200.459,139.071l32,-16l-0,-23.97l-32,16l-0,23.97Z" style="fill:rgb(212,8,4);"/>
+        </g>
+        <path d="M128.441,95.37l-0,94.764" style="fill:none;stroke:black;stroke-width:2px;"/>
+        <path d="M128.441,190.134l35.863,-17.931" style="fill:none;stroke:black;stroke-width:5px;"/>
+        <path d="M162.204,42.522c0,1.159 0.941,2.1 2.1,2.1c1.159,-0 2.1,-0.941 2.1,-2.1c0,-1.159 -0.941,-2.1 -2.1,-2.1c-1.159,-0 -2.1,0.941 -2.1,2.1Z"/>
+        <path d="M149.991,30.571c-0.987,0.493 -2.19,0.092 -2.683,-0.895c-0.494,-0.987 -0.093,-2.189 0.894,-2.683c0.987,-0.494 2.19,-0.093 2.683,0.894c0.494,0.988 0.093,2.19 -0.894,2.684Z" style="fill:none;stroke:black;stroke-width:2px;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+        <path d="M164.304,42.522l0,-21.344l-13.419,6.709" style="fill:none;stroke:black;stroke-width:2px;"/>
+        <path d="M141.929,30.129c0.988,-0.493 2.19,-0.093 2.684,0.895c0.493,0.987 0.093,2.189 -0.895,2.683c-0.987,0.494 -2.189,0.093 -2.683,-0.894c-0.494,-0.988 -0.093,-2.19 0.894,-2.684Z" style="fill:none;stroke:black;stroke-width:2px;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+        <path d="M128.459,63.101l-0,-24l12.576,-6.288" style="fill:none;stroke:black;stroke-width:2px;"/>
+        <path d="M162.819,54.652c-0.819,0.82 -0.819,2.151 0,2.97c0.82,0.82 2.151,0.82 2.97,0c0.82,-0.819 0.82,-2.15 0,-2.97c-0.819,-0.819 -2.15,-0.819 -2.97,0Z"/>
+        <path d="M164.304,56.137l10.797,-10.797" style="fill:none;stroke:black;stroke-width:2px;"/>
+        <path d="M154.942,16.996l-4.684,0l-0,4.641l-2.409,-0l0,-4.641l-4.684,0l-0,-2.355l4.684,-0l0,-4.641l2.409,-0l-0,4.641l4.684,-0l0,2.355Z" style="fill:rgb(251,7,4);fill-rule:nonzero;"/>
+        <rect x="127.173" y="23.499" width="11.777" height="2.355" style="fill:rgb(33,160,222);fill-rule:nonzero;"/>
+        <path d="M437.423,172.203l-30,-94.765" style="fill:none;stroke:black;stroke-width:2px;"/>
+        <path d="M407.423,57.023l-0,20.415" style="fill:none;stroke:black;stroke-width:2px;"/>
+        <path d="M371.559,63.092l0,32.278" style="fill:none;stroke:black;stroke-width:2px;"/>
+        <g id="magnet-sued1" serif:id="magnet sued">
+            <path d="M267.577,223.057l32,-16l176,0l-32,16l-176,0Z" style="fill:rgb(32,128,33);"/>
+            <path d="M307.078,223.057l32,-16l-0,-42.014l-32,16l-0,42.014Z" style="fill:rgb(32,128,33);"/>
+            <path d="M443.577,247.026l-0.029,-23.985l-136.471,0l0,-42.015l-39.536,0l0,65.982l176.036,0.018Z" style="fill:rgb(93,211,95);"/>
+            <path d="M443.577,247.026l32,-16l0,-23.97l-32,16l0,23.97Z" style="fill:rgb(32,128,33);"/>
+        </g>
+        <g id="magnet-nord1" serif:id="magnet nord">
+            <path d="M307.078,181.101l32,-16l-0,-42.015l-32,16l-0,42.015Z" style="fill:rgb(212,8,4);"/>
+            <path d="M267.577,115.101l32,-16l176,-0l-32,16l-176,-0Z" style="fill:rgb(212,8,4);"/>
+            <path d="M443.577,115.101l-0.029,23.985l-136.471,-0l0,42.015l-39.536,-0l0,-65.982l176.036,-0.018Z" style="fill:rgb(251,7,4);"/>
+            <path d="M443.577,139.071l32,-16l0,-23.97l-32,16l0,23.97Z" style="fill:rgb(212,8,4);"/>
+        </g>
+        <path d="M371.559,95.37l30,94.764" style="fill:none;stroke:black;stroke-width:2px;"/>
+        <path d="M401.559,190.134l35.864,-17.931" style="fill:none;stroke:black;stroke-width:5px;"/>
+        <path d="M405.323,42.522c-0,1.159 0.941,2.1 2.1,2.1c1.159,-0 2.1,-0.941 2.1,-2.1c-0,-1.159 -0.941,-2.1 -2.1,-2.1c-1.159,-0 -2.1,0.941 -2.1,2.1Z"/>
+        <path d="M393.109,30.571c-0.987,0.493 -2.189,0.092 -2.683,-0.895c-0.494,-0.987 -0.093,-2.189 0.895,-2.683c0.987,-0.494 2.189,-0.093 2.683,0.894c0.493,0.988 0.093,2.19 -0.895,2.684Z" style="fill:none;stroke:black;stroke-width:2px;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+        <path d="M407.423,42.522l-0,-21.344l-13.419,6.709" style="fill:none;stroke:black;stroke-width:2px;"/>
+        <path d="M385.048,30.129c0.987,-0.493 2.19,-0.093 2.683,0.895c0.494,0.987 0.093,2.189 -0.894,2.683c-0.988,0.494 -2.19,0.093 -2.684,-0.894c-0.493,-0.988 -0.092,-2.19 0.895,-2.684Z" style="fill:none;stroke:black;stroke-width:2px;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+        <path d="M371.577,63.101l0,-24l12.576,-6.288" style="fill:none;stroke:black;stroke-width:2px;"/>
+        <path d="M405.33,57.283c-0,1.16 0.941,2.1 2.1,2.1c1.159,0 2.1,-0.94 2.1,-2.1c-0,-1.159 -0.941,-2.1 -2.1,-2.1c-1.159,0 -2.1,0.941 -2.1,2.1Z"/>
+        <path d="M407.43,57.283l-0,-15.269" style="fill:none;stroke:black;stroke-width:2px;"/>
+        <path d="M398.061,16.996l-4.685,0l0,4.641l-2.408,-0l-0,-4.641l-4.685,0l0,-2.355l4.685,-0l-0,-4.641l2.408,-0l0,4.641l4.685,-0l-0,2.355Z" style="fill:rgb(251,7,4);fill-rule:nonzero;"/>
+        <rect x="370.291" y="23.499" width="11.777" height="2.355" style="fill:rgb(33,160,222);fill-rule:nonzero;"/>
+    </g>
+</svg>

@@ -7,7 +7,7 @@ $$
 
 ### Bewegung senkrecht zum [Feld](Elektrisches_Feld.md)
 
-![Bewegte Ladungen im elektrischen Feld 2025-02-24 09.53.03](attachments/Bewegte_Ladungen_im_elektrischen_Feld_2025-02-24_09.53.03.excalidraw)
+![Bewegte Ladungen im elektrischen Feld 2025-02-24 09.53.03](attachments/Bewegte_Ladungen_im_elektrischen_Feld_2025-02-24_09.53.03.excalidraw.md.svg)
 ##### Bahnkurve eines Elektrons
 - [Superpositionsprinzip](Superpositionsprinzip.md): 
 	- Gleichförmige Bewegung in x-Richtung: $s_x = v_0\cdot c$
