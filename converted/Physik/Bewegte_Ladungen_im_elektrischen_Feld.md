@@ -1,13 +1,13 @@
 ### Bewegung parallel zum [Feld](Elektrisches_Feld.md)
 
-![Bewegte Ladungen im elektrischen Feld 2025-02-24 10.10.11](attachments%5CBewegte%20Ladungen%20im%20elektrischen%20Feld%202025-02-24%2010.10.11.excalidraw.svg)
+![Bewegte Ladungen im elektrischen Feld 2025-02-24 10.10.11](attachments\Bewegte Ladungen im elektrischen Feld 2025-02-24 10.10.11.excalidraw.svg)
 ##### Geschwindigkeit eines beschleunigten [Elektrons](Elektrische_Ladung.md)
 $$\begin{align} E_{pot}&=q\cdot U &(1)\\\\ E_{kin}&=\frac 1 2 m\cdot v^2 &(2) \\\\\\\\ \frac 1 2 m\cdot v^2 &= q\cdot U \\\\ v^2 &= \frac{2q\cdot U}{m} \\\\ v&= \sqrt{\frac{2q\cdot U}{m}} \\\\\\\\ v&=\sqrt{2 \cdot \frac e m_e \cdot U} &(3)\end{align}
 $$
 
 ### Bewegung senkrecht zum [Feld](Elektrisches_Feld.md)
 
-![Bewegte Ladungen im elektrischen Feld 2025-02-24 09.53.03](attachments%5CBewegte%20Ladungen%20im%20elektrischen%20Feld%202025-02-24%2009.53.03.excalidraw.svg)
+![Bewegte Ladungen im elektrischen Feld 2025-02-24 09.53.03](attachments\Bewegte Ladungen im elektrischen Feld 2025-02-24 09.53.03.excalidraw.svg)
 ##### Bahnkurve eines Elektrons
 - [Superpositionsprinzip](Superpositionsprinzip.md): 
 	- Gleichförmige Bewegung in x-Richtung: $s_x = v_0\cdot c$
